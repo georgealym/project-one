@@ -1,79 +1,79 @@
-City,Club,Stadium,Cap.,League
-Augsburg,FC Augsburg,WWK Arena,30660,Bundesliga
-Berlin,Hertha BSC,Olympiastadion,74064,Bundesliga
-Berlin,Union Berlin,Stadion An der Alten Forsterei,22012,Bundesliga
-Bielefeld,Arminia Bielefeld,SchucoArena,26515,Bundesliga
-Bremen,Werder Bremen,Weserstadion,42500,Bundesliga
-Cologne,1. FC Koln,RheinEnergieStadion,50000,Bundesliga
-Dortmund,Borussia Dortmund,Signal Iduna Park,81359,Bundesliga
-Frankfurt,Eintracht Frankfurt,Deutsche Bank Park,51500,Bundesliga
-Freiburg,SC Freiburg,Schwarzwald-Stadion,24000,Bundesliga
-Gelsenkirchen,FC Schalke 04,VELTINS-Arena,61673,Bundesliga
-Leipzig,RB Leipzig,Red Bull Arena,42959,Bundesliga
-Leverkusen,Bayer 04 Leverkusen,BayArena,30000,Bundesliga
-Mainz,1. FSV Mainz 05,Opel Arena,34000,Bundesliga
-Monchengladbach,Borussia Monchengladbach,Borussia-Park,54010,Bundesliga
-Munich,FC Bayern,Allianz Arena,75000,Bundesliga
-Sinsheim,1899 Hoffenheim,PreZero Arena,30150,Bundesliga
-Stuttgart,VfB Stuttgart,Mercedes-Benz Arena,60441,Bundesliga
-Wolfsburg,VFL Wolfsburg,Volkswagen Arena,30000,Bundesliga
-Bournemouth,Bournemouth,Vitality Stadium,11464,Premier
-Brighton,Brighton & Hove Albion,The Amex,30750,Premier
-Burnley,Burnley,Turf Moor,22619,Premier
-Cardiff,Cardiff City,Cardiff City Stadium,33338,Premier
-Huddersfield,Huddersfield Town,John Smith's Stadium,24554,Premier
-Leicester,Leicester City,King Power Stadium,32312,Premier
-Liverpool,Everton,Goodison Park,40157,Premier
-Liverpool,Liverpool,Anfield,54074,Premier
-London,Arsenal,Emirates Stadium,60361,Premier
-London,Chelsea,Stamford Bridge,41837,Premier
-London,Crystal Palace,Selhurst Park,26225,Premier
-London,Fulham,Craven Cottage,25700,Premier
-London,Tottenham Hotspur,Wembley Stadium,90000,Premier
-London,West Ham United,London Stadium,60000,Premier
-Manchester,Manchester City,Etihad Stadium,55000,Premier
-Manchester,Manchester United,Old Trafford,75811,Premier
-Newcastle upon Tyne,Newcastle United,St James Park,52339,Premier
-Southampton,Southampton,St Mary's Stadium,32689,Premier
-Watford,Watford,Vicarage Road,21500,Premier
-Wolverhampton,Wolverhampton Wanderers,Molineux Stadium,31700,Premier
-A Coruna,Deportivo de La Coruna,Estadio de Riazor,34600,La Liga
-Barcelona,Barcelona,Camp Nou,99354,La Liga
-Barcelona,Espanyol,RCDE Stadium,40500,La Liga
-Bilbao,Athletic Club,Estadio San Mames,53000,La Liga
-Eibar,Eibar,Estadio de Ipurua,7083,La Liga
-Getafe,Getafe,Coliseum Alfonso Perez,17500,La Liga
-Girona,Girona,Estadi Municipal de Montilivi,9500,La Liga
-Las Palmas,Las Palmas,Estadio de Gran Canaria,31250,La Liga
-Leganes,Leganes,Estadio Municipal de Butarque,8138,La Liga
-Madrid,Atletico de Madrid,Estadio Vicente Calderon,54960,La Liga
-Madrid,Real Madrid,Estadio Santiago Bernabeu,81044,La Liga
-Malaga,Malaga,Estadio La Rosaleda,29500,La Liga
-San Sebastian,Real Sociedad,Estadio Anoeta,32000,La Liga
-Sevilla,Real Betis,Estadio Benito Villamarin,51700,La Liga
-Sevilla,Sevilla,Estadio Ramon Sanchez Pizjuan,45500,La Liga
-Valencia,Levante,Estadi Ciutat de Valencia,25352,La Liga
-Valencia,Valencia,Estadio de Mestalla,55000,La Liga
-Villarreal,Villarreal,Estadio El Madrigal,25000,La Liga
-Vigo,Celta de Vigo,Estadio Municipal de Balaidos,31800,La Liga
-Vitoria-Gasteiz,Alaves,Estadio de Mendizorroza,19840,La Liga
-Bergamo,Atalanta,Gewiss Stadium,21300,Serie A
-Bologna,Bologna,Stadio Renato Dall'Ara,38279,Serie A
-Brescia,Brescia,Stadio Mario Rigamonti,16743,Serie A
-Cagliari,Cagliari,Sardegna Arena,16233,Serie A
-Florence,Fiorentina,Stadio Artemio Franchi,43147,Serie A
-Genoa,Genoa,Stadio Luigi Ferraris,36685,Serie A
-Verona,Hellas Verona,Stadio Marc'Antonio Bentegodi,39211,Serie A
-Milan,Internazionale,San Siro,80018,Serie A
-Turin,Juventus,Allianz Stadium,41507,Serie A
-Rome,Lazio,Stadio Olimpico,72698,Serie A
-Lecce,Lecce,Stadio Via del Mare,33876,Serie A
-Milan,Milan,San Siro,80018,Serie A
-Naples,Napoli,Stadio San Paolo,60240,Serie A
-Parma,Parma,Stadio Ennio Tardini,27906,Serie A
-Rome,Roma,Stadio Olimpico,72698,Serie A
-Genoa,Sampdoria,Stadio Luigi Ferraris,36685,Serie A
-Sassuolo,Sassuolo,Mapei Stadium – Città del Tricolore,23717,Serie A
-Ferrara,SPAL,Stadio Paolo Mazza,16164,Serie A
-Turin,Torino,Stadio Olimpico Grande Torino,27994,Serie A
-Udine,Udinese,Stadio Friuli,25132,Serie A
+City,Club,Stadium,Cap.,Div
+Augsburg,FC Augsburg,WWK Arena,30660,D1
+Berlin,Hertha BSC,Olympiastadion,74064,D1
+Berlin,Union Berlin,Stadion An der Alten Forsterei,22012,D1
+Bielefeld,Arminia Bielefeld,SchucoArena,26515,D1
+Bremen,Werder Bremen,Weserstadion,42500,D1
+Cologne,1. FC Koln,RheinEnergieStadion,50000,D1
+Dortmund,Borussia Dortmund,Signal Iduna Park,81359,D1
+Frankfurt,Eintracht Frankfurt,Deutsche Bank Park,51500,D1
+Freiburg,SC Freiburg,Schwarzwald-Stadion,24000,D1
+Gelsenkirchen,FC Schalke 04,VELTINS-Arena,61673,D1
+Leipzig,RB Leipzig,Red Bull Arena,42959,D1
+Leverkusen,Bayer 04 Leverkusen,BayArena,30000,D1
+Mainz,1. FSV Mainz 05,Opel Arena,34000,D1
+Monchengladbach,Borussia Monchengladbach,Borussia-Park,54010,D1
+Munich,FC Bayern,Allianz Arena,75000,D1
+Sinsheim,1899 Hoffenheim,PreZero Arena,30150,D1
+Stuttgart,VfB Stuttgart,Mercedes-Benz Arena,60441,D1
+Wolfsburg,VFL Wolfsburg,Volkswagen Arena,30000,D1
+Bournemouth,Bournemouth,Vitality Stadium,11464,E0
+Brighton,Brighton & Hove Albion,The Amex,30750,E0
+Burnley,Burnley,Turf Moor,22619,E0
+Cardiff,Cardiff City,Cardiff City Stadium,33338,E0
+Huddersfield,Huddersfield Town,John Smith's Stadium,24554,E0
+Leicester,Leicester City,King Power Stadium,32312,E0
+Liverpool,Everton,Goodison Park,40157,E0
+Liverpool,Liverpool,Anfield,54074,E0
+London,Arsenal,Emirates Stadium,60361,E0
+London,Chelsea,Stamford Bridge,41837,E0
+London,Crystal Palace,Selhurst Park,26225,E0
+London,Fulham,Craven Cottage,25700,E0
+London,Tottenham Hotspur,Wembley Stadium,90000,E0
+London,West Ham United,London Stadium,60000,E0
+Manchester,Manchester City,Etihad Stadium,55000,E0
+Manchester,Manchester United,Old Trafford,75811,E0
+Newcastle upon Tyne,Newcastle United,St James Park,52339,E0
+Southampton,Southampton,St Mary's Stadium,32689,E0
+Watford,Watford,Vicarage Road,21500,E0
+Wolverhampton,Wolverhampton Wanderers,Molineux Stadium,31700,E0
+A Coruna,Deportivo de La Coruna,Estadio de Riazor,34600,I1
+Barcelona,Barcelona,Camp Nou,99354,I1
+Barcelona,Espanyol,RCDE Stadium,40500,I1
+Bilbao,Athletic Club,Estadio San Mames,53000,I1
+Eibar,Eibar,Estadio de Ipurua,7083,I1
+Getafe,Getafe,Coliseum Alfonso Perez,17500,I1
+Girona,Girona,Estadi Municipal de Montilivi,9500,I1
+Las Palmas,Las Palmas,Estadio de Gran Canaria,31250,I1
+Leganes,Leganes,Estadio Municipal de Butarque,8138,I1
+Madrid,Atletico de Madrid,Estadio Vicente Calderon,54960,I1
+Madrid,Real Madrid,Estadio Santiago Bernabeu,81044,I1
+Malaga,Malaga,Estadio La Rosaleda,29500,I1
+San Sebastian,Real Sociedad,Estadio Anoeta,32000,I1
+Sevilla,Real Betis,Estadio Benito Villamarin,51700,I1
+Sevilla,Sevilla,Estadio Ramon Sanchez Pizjuan,45500,I1
+Valencia,Levante,Estadi Ciutat de Valencia,25352,I1
+Valencia,Valencia,Estadio de Mestalla,55000,I1
+Villarreal,Villarreal,Estadio El Madrigal,25000,I1
+Vigo,Celta de Vigo,Estadio Municipal de Balaidos,31800,I1
+Vitoria-Gasteiz,Alaves,Estadio de Mendizorroza,19840,I1
+Bergamo,Atalanta,Gewiss Stadium,21300,SP1
+Bologna,Bologna,Stadio Renato Dall'Ara,38279,SP1
+Brescia,Brescia,Stadio Mario Rigamonti,16743,SP1
+Cagliari,Cagliari,Sardegna Arena,16233,SP1
+Florence,Fiorentina,Stadio Artemio Franchi,43147,SP1
+Genoa,Genoa,Stadio Luigi Ferraris,36685,SP1
+Verona,Hellas Verona,Stadio Marc'Antonio Bentegodi,39211,SP1
+Milan,Internazionale,San Siro,80018,SP1
+Turin,Juventus,Allianz Stadium,41507,SP1
+Rome,Lazio,Stadio Olimpico,72698,SP1
+Lecce,Lecce,Stadio Via del Mare,33876,SP1
+Milan,Milan,San Siro,80018,SP1
+Naples,Napoli,Stadio San Paolo,60240,SP1
+Parma,Parma,Stadio Ennio Tardini,27906,SP1
+Rome,Roma,Stadio Olimpico,72698,SP1
+Genoa,Sampdoria,Stadio Luigi Ferraris,36685,SP1
+Sassuolo,Sassuolo,Mapei Stadium – Città del Tricolore,23717,SP1
+Ferrara,SPAL,Stadio Paolo Mazza,16164,SP1
+Turin,Torino,Stadio Olimpico Grande Torino,27994,SP1
+Udine,Udinese,Stadio Friuli,25132,SP1
