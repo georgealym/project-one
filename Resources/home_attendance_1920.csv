@@ -1,0 +1,79 @@
+League,Team,Avg Home Attendance,Total Home Attendance,Highest Home Attendance,Lowest Home Attendance,Season,KEY
+Premier League,Manchester United,"73,404","954,256","73,737","73,198",2019/20,Premier League|Manchester United|2019/20
+Premier League,Arsenal,"60,274","783,557","60,383","60,031",2019/20,Premier League|Arsenal|2019/20
+Premier League,West Ham United,"59,891","778,581","59,959","59,519",2019/20,Premier League|West Ham United|2019/20
+Premier League,Tottenham Hotspur,"59,485","773,310","61,104","56,308",2019/20,Premier League|Tottenham Hotspur|2019/20
+Premier League,Liverpool,"53,100","637,196","53,333","51,430",2019/20,Premier League|Liverpool|2019/20
+Premier League,Newcastle United,"47,942","623,252","52,217","42,303",2019/20,Premier League|Newcastle United|2019/20
+Premier League,Manchester City,"54,388","598,272","54,512","53,922",2019/20,Premier League|Manchester City|2019/20
+Premier League,Aston Villa,"41,661","541,594","42,010","40,867",2019/20,Premier League|Aston Villa|2019/20
+Premier League,Everton,"39,133","508,729","39,374","38,772",2019/20,Premier League|Everton|2019/20
+Premier League,Chelsea,"40,553","486,638","40,683","40,243",2019/20,Premier League|Chelsea|2019/20
+Premier League,Leicester City,"32,056","416,727","32,211","31,613",2019/20,Premier League|Leicester City|2019/20
+Premier League,Wolverhampton Wanderers,"31,375","407,871","31,746","30,522",2019/20,Premier League|Wolverhampton Wanderers|2019/20
+Premier League,Sheffield United,"30,751","399,762","32,024","30,079",2019/20,Premier League|Sheffield United|2019/20
+Premier League,Brighton & Hove Albion,"30,376","394,882","30,640","29,398",2019/20,Premier League|Brighton & Hove Albion|2019/20
+Premier League,Southampton,"29,655","355,854","31,712","26,302",2019/20,Premier League|Southampton|2019/20
+Premier League,Norwich City,"27,026","351,338","27,110","26,781",2019/20,Premier League|Norwich City|2019/20
+Premier League,Crystal Palace,"25,065","300,780","25,486","23,497",2019/20,Premier League|Crystal Palace|2019/20
+Premier League,Watford,"20,775","270,079","21,488","19,711",2019/20,Premier League|Watford|2019/20
+Premier League,Burnley,"20,398","265,176","21,924","19,561",2019/20,Premier League|Burnley|2019/20
+Premier League,AFC Bournemouth,"10,498","136,479","10,832","10,020",2019/20,Premier League|AFC Bournemouth|2019/20
+Bundesliga,Borussia Dortmund,"81,153","892,685","81,365","80,200",2019/20,Bundesliga|Borussia Dortmund|2019/20
+Bundesliga,Bayern Munich,"75,000","825,000","75,000","75,000",2019/20,Bundesliga|Bayern Munich|2019/20
+Bundesliga,FC Schalke 04,"60,348","663,825","62,271","51,873",2019/20,Bundesliga|FC Schalke 04|2019/20
+Bundesliga,1. FC Koln,"49,691","546,600","50,000","49,100",2019/20,Bundesliga|1. FC Koln|2019/20
+Bundesliga,Hertha BSC,"48,771","536,485","74,667","35,049",2019/20,Bundesliga|Hertha BSC|2019/20
+Bundesliga,Eintracht Frankfurt,"50,510","505,100","51,500","48,800",2019/20,Bundesliga|Eintracht Frankfurt|2019/20
+Bundesliga,Fortuna Dusseldorf,"44,386","488,250","53,000","35,387",2019/20,Bundesliga|Fortuna Dusseldorf|2019/20
+Bundesliga,Borussia M'gladbach,"51,376","462,386","54,022","45,000",2019/20,Bundesliga|Borussia M'gladbach|2019/20
+Bundesliga,RB Leipzig,"40,791","448,704","42,146","38,407",2019/20,Bundesliga|RB Leipzig|2019/20
+Bundesliga,Werder Bremen,"41,023","369,208","42,100","39,870",2019/20,Bundesliga|Werder Bremen|2019/20
+Bundesliga,TSG 1899 Hoffenheim,"26,457","317,484","30,150","22,506",2019/20,Bundesliga|TSG 1899 Hoffenheim|2019/20
+Bundesliga,FC Augsburg,"28,655","315,210","30,660","26,822",2019/20,Bundesliga|FC Augsburg|2019/20
+Bundesliga,1. FSV Mainz 05,"27,838","306,213","33,305","22,798",2019/20,Bundesliga|1. FSV Mainz 05|2019/20
+Bundesliga,Bayer Leverkusen,"28,262","282,621","30,210","26,208",2019/20,Bundesliga|Bayer Leverkusen|2019/20
+Bundesliga,VfL Wolfsburg,"24,365","243,654","27,012","21,120",2019/20,Bundesliga|VfL Wolfsburg|2019/20
+Bundesliga,1. FC Union Berlin,"21,902","240,925","22,467","20,350",2019/20,Bundesliga|1. FC Union Berlin|2019/20
+Bundesliga,SC Freiburg,"23,900","215,100","24,000","23,500",2019/20,Bundesliga|SC Freiburg|2019/20
+Bundesliga,SC Paderborn 07,"14,387","172,648","15,000","13,253",2019/20,Bundesliga|SC Paderborn 07|2019/20
+La Liga,Barcelona,"72,073","792,802","89,409","59,896",2019/20,La Liga|Barcelona|2019/20
+La Liga,Real Madrid,"66,003","792,032","76,955","53,870",2019/20,La Liga|Real Madrid|2019/20
+La Liga,Atletico Madrid,"57,098","628,081","67,942","46,033",2019/20,La Liga|Atletico Madrid|2019/20
+La Liga,Real Betis,"48,656","583,873","54,526","43,353",2019/20,La Liga|Real Betis|2019/20
+La Liga,Athletic Bilbao,"41,389","496,673","47,693","33,364",2019/20,La Liga|Athletic Bilbao|2019/20
+La Liga,Valencia,"40,163","481,956","45,882","37,814",2019/20,La Liga|Valencia|2019/20
+La Liga,Sevilla,"37,020","407,225","42,354","33,533",2019/20,La Liga|Sevilla|2019/20
+La Liga,Real Sociedad,"30,950","340,448","36,730","27,684",2019/20,La Liga|Real Sociedad|2019/20
+La Liga,Espanyol,"22,928","252,213","33,562","17,390",2019/20,La Liga|Espanyol|2019/20
+La Liga,CD Leganes,"17,750","230,754","12,110","6,404",2019/20,La Liga|CD Leganes|2019/20
+La Liga,Real Valladolid,"19,723","216,949","23,680","16,295",2019/20,La Liga|Real Valladolid|2019/20
+La Liga,Levante,"19,101","210,114","23,341","15,110",2019/20,La Liga|Levante|2019/20
+La Liga,Celta Vigo,"17,415","208,984","23,566","11,932",2019/20,La Liga|Celta Vigo|2019/20
+La Liga,Villarreal,"16,552","198,622","20,128","12,053",2019/20,La Liga|Villarreal|2019/20
+La Liga,Granada CF,"16,329","195,942","18,985","14,127",2019/20,La Liga|Granada CF|2019/20
+La Liga,CD Alaves,"16,205","194,460","19,357","12,029",2019/20,La Liga|CD Alaves|2019/20
+La Liga,RCD Mallorca,"14,782","192,169","20,275","8,348",2019/20,La Liga|RCD Mallorca|2019/20
+La Liga,Osasuna,"15,584","187,010","17,000","13,978",2019/20,La Liga|Osasuna|2019/20
+La Liga,Getafe,"11,424","137,087","15,426","6,535",2019/20,La Liga|Getafe|2019/20
+La Liga,Eibar,"6,069","66,757","7,295","5,341",2019/20,La Liga|Eibar|2019/20
+Serie A,Internazionale,"65,170","521,362","75,923","57,490",2019/20,Serie A|Internazionale|2019/20
+Serie A,AC Milan,"57,494","344,965","70,440","48,367",2019/20,Serie A|AC Milan|2019/20
+Serie A,Fiorentina,"35,322","282,577","40,312","32,903",2019/20,Serie A|Fiorentina|2019/20
+Serie A,AS Roma,"40,037","280,262","59,902","33,695",2019/20,Serie A|AS Roma|2019/20
+Serie A,Juventus,"39,295","275,065","40,597","37,790",2019/20,Serie A|Juventus|2019/20
+Serie A,Torino,"20,845","166,757","26,059","16,536",2019/20,Serie A|Torino|2019/20
+Serie A,Udinese,"21,344","149,408","24,584","19,611",2019/20,Serie A|Udinese|2019/20
+Serie A,Sampdoria,"20,593","144,154","23,694","19,041",2019/20,Serie A|Sampdoria|2019/20
+Serie A,Lecce,"23,329","139,971","26,044","21,644",2019/20,Serie A|Lecce|2019/20
+Serie A,Bologna,"23,153","138,917","25,513","21,277",2019/20,Serie A|Bologna|2019/20
+Serie A,SS Lazio,"43,333","130,000","60,000","30,000",2019/20,Serie A|SS Lazio|2019/20
+Serie A,Hellas Verona,"18,177","127,240","24,363","14,612",2019/20,Serie A|Hellas Verona|2019/20
+Serie A,Napoli,"31,590","126,360","39,111","27,083",2019/20,Serie A|Napoli|2019/20
+Serie A,Atalanta,"16,918","118,428","20,940","10,000",2019/20,Serie A|Atalanta|2019/20
+Serie A,Cagliari,"15,842","110,896","16,412","14,574",2019/20,Serie A|Cagliari|2019/20
+Serie A,Genoa,"24,373","97,490","30,658","20,951",2019/20,Serie A|Genoa|2019/20
+Serie A,Parma,"16,702","83,508","20,073","14,068",2019/20,Serie A|Parma|2019/20
+Serie A,SPAL,"12,526","75,157","13,650","11,617",2019/20,Serie A|SPAL|2019/20
+Serie A,Sassuolo,"11,838","59,192","13,411","9,608",2019/20,Serie A|Sassuolo|2019/20
+Serie A,Brescia,"14,710","44,131","16,000","13,131",2019/20,Serie A|Brescia|2019/20
