@@ -1,0 +1,450 @@
+,Div,Team,Team ID,Date,Opponent,Attendance
+0,E0,Arsenal,EPL0,17/8/2019,Burnley,60214.0
+1,E0,Arsenal,EPL0,1/9/2019,Tottenham Hotspur,60333.0
+2,E0,Arsenal,EPL0,22/9/2019,Aston Villa,60331.0
+3,E0,Arsenal,EPL0,24/9/2019,Nottingham Forest,53160.0
+4,E0,Arsenal,EPL0,3/10/2019,Standard Liège,58725.0
+5,E0,Arsenal,EPL0,6/10/2019,AFC Bournemouth,60326.0
+6,E0,Arsenal,EPL0,24/10/2019,Vitória Guimarães,60195.0
+7,E0,Arsenal,EPL0,27/10/2019,Crystal Palace,60345.0
+8,E0,Arsenal,EPL0,2/11/2019,Wolverhampton Wanderers,60383.0
+9,E0,Arsenal,EPL0,23/11/2019,Southampton,60295.0
+10,E0,Arsenal,EPL0,28/11/2019,Eintracht Frankfurt,
+11,E0,Arsenal,EPL0,5/12/2019,Brighton & Hove Albion,60164.0
+12,E0,Arsenal,EPL0,15/12/2019,Manchester City,60031.0
+13,E0,Arsenal,EPL0,29/12/2019,Chelsea,60309.0
+14,E0,Arsenal,EPL0,1/1/2020,Manchester United,60328.0
+15,E0,Arsenal,EPL0,6/1/2020,Leeds United,58403.0
+16,E0,Arsenal,EPL0,18/1/2020,Sheffield United,60310.0
+17,E0,Arsenal,EPL0,16/2/2020,Newcastle United,60188.0
+18,E0,Arsenal,EPL0,23/2/2020,Everton,60296.0
+19,E0,Arsenal,EPL0,27/2/2020,Olympiakos,
+20,E0,Arsenal,EPL0,7/3/2020,West Ham United,60335.0
+21,E0,Arsenal,EPL0,1/7/2020,Norwich City,
+22,E0,Arsenal,EPL0,7/7/2020,Leicester City,
+23,E0,Arsenal,EPL0,15/7/2020,Liverpool,
+24,E0,Aston,EPL1,17/8/2019,AFC Bournemouth,40996.0
+25,E0,Aston,EPL1,23/8/2019,Everton,41922.0
+26,E0,Aston,EPL1,16/9/2019,West Ham United,42010.0
+27,E0,Aston,EPL1,28/9/2019,Burnley,41546.0
+28,E0,Aston,EPL1,19/10/2019,Brighton & Hove Albion,41826.0
+29,E0,Aston,EPL1,30/10/2019,Wolverhampton Wanderers,34962.0
+30,E0,Aston,EPL1,2/11/2019,Liverpool,41878.0
+31,E0,Aston,EPL1,25/11/2019,Newcastle United,41821.0
+32,E0,Aston,EPL1,8/12/2019,Leicester City,41908.0
+33,E0,Aston,EPL1,17/12/2019,Liverpool,30323.0
+34,E0,Aston,EPL1,21/12/2019,Southampton,41834.0
+35,E0,Aston,EPL1,26/12/2019,Norwich City,41289.0
+36,E0,Aston,EPL1,12/1/2020,Manchester City,41823.0
+37,E0,Aston,EPL1,21/1/2020,Watford,40867.0
+38,E0,Aston,EPL1,28/1/2020,Leicester City,39300.0
+39,E0,Aston,EPL1,16/2/2020,Tottenham Hotspur,41874.0
+40,E0,Aston,EPL1,1/3/2020,Manchester City,82145.0
+41,E0,Aston,EPL1,17/6/2020,Sheffield United,
+42,E0,Aston,EPL1,21/6/2020,Chelsea,
+43,E0,Aston,EPL1,27/6/2020,Wolverhampton Wanderers,
+44,E0,Aston,EPL1,9/7/2020,Manchester United,
+45,E0,Aston,EPL1,12/7/2020,Crystal Palace,
+46,E0,Bournemouth,EPL2,10/8/2019,Sheffield United,10714.0
+47,E0,Bournemouth,EPL2,25/8/2019,Manchester City,10486.0
+48,E0,Bournemouth,EPL2,28/8/2019,Forest Green Rovers,9657.0
+49,E0,Bournemouth,EPL2,15/9/2019,Everton,10416.0
+50,E0,Bournemouth,EPL2,28/9/2019,West Ham United,10729.0
+51,E0,Bournemouth,EPL2,19/10/2019,Norwich City,10669.0
+52,E0,Bournemouth,EPL2,2/11/2019,Manchester United,10669.0
+53,E0,Bournemouth,EPL2,23/11/2019,Wolverhampton Wanderers,10539.0
+54,E0,Bournemouth,EPL2,7/12/2019,Liverpool,10832.0
+55,E0,Bournemouth,EPL2,21/12/2019,Burnley,10020.0
+56,E0,Bournemouth,EPL2,26/12/2019,Arsenal,10234.0
+57,E0,Bournemouth,EPL2,4/1/2020,Luton Town,10064.0
+58,E0,Bournemouth,EPL2,12/1/2020,Watford,10384.0
+59,E0,Bournemouth,EPL2,21/1/2020,Brighton & Hove Albion,10065.0
+60,E0,Bournemouth,EPL2,27/1/2020,Arsenal,10308.0
+61,E0,Bournemouth,EPL2,1/2/2020,Aston Villa,10722.0
+62,E0,Bournemouth,EPL2,29/2/2020,Chelsea,10667.0
+63,E0,Bournemouth,EPL2,20/6/2020,Crystal Palace,
+64,E0,Bournemouth,EPL2,1/7/2020,Newcastle United,
+65,E0,Bournemouth,EPL2,9/7/2020,Tottenham Hotspur,
+66,E0,Bournemouth,EPL2,12/7/2020,Leicester City,
+67,E0,Brighton,EPL3,17/8/2019,West Ham United,30459.0
+68,E0,Brighton,EPL3,24/8/2019,Southampton,30019.0
+69,E0,Brighton,EPL3,14/9/2019,Burnley,29398.0
+70,E0,Brighton,EPL3,25/9/2019,Aston Villa,14982.0
+71,E0,Brighton,EPL3,5/10/2019,Tottenham Hotspur,30610.0
+72,E0,Brighton,EPL3,26/10/2019,Everton,30529.0
+73,E0,Brighton,EPL3,2/11/2019,Norwich City,30539.0
+74,E0,Brighton,EPL3,23/11/2019,Leicester City,30640.0
+75,E0,Brighton,EPL3,8/12/2019,Wolverhampton Wanderers,30189.0
+76,E0,Brighton,EPL3,21/12/2019,Sheffield United,30505.0
+77,E0,Brighton,EPL3,28/12/2019,AFC Bournemouth,30441.0
+78,E0,Brighton,EPL3,1/1/2020,Chelsea,30559.0
+79,E0,Brighton,EPL3,4/1/2020,Sheffield Wednesday,20349.0
+80,E0,Brighton,EPL3,18/1/2020,Aston Villa,30551.0
+81,E0,Brighton,EPL3,8/2/2020,Watford,30443.0
+82,E0,Brighton,EPL3,29/2/2020,Crystal Palace,
+83,E0,Brighton,EPL3,3/3/2020,Worthing,946.0
+84,E0,Brighton,EPL3,20/6/2020,Arsenal,
+85,E0,Brighton,EPL3,30/6/2020,Manchester United,
+86,E0,Brighton,EPL3,8/7/2020,Liverpool,
+87,E0,Brighton,EPL3,11/7/2020,Manchester City,
+88,E0,Burnley,EPL4,10/8/2019,Southampton,19784.0
+89,E0,Burnley,EPL4,28/8/2019,Sunderland,7445.0
+90,E0,Burnley,EPL4,31/8/2019,Liverpool,21762.0
+91,E0,Burnley,EPL4,21/9/2019,Norwich City,19712.0
+92,E0,Burnley,EPL4,5/10/2019,Everton,20650.0
+93,E0,Burnley,EPL4,26/10/2019,Chelsea,20975.0
+94,E0,Burnley,EPL4,9/11/2019,West Ham United,20255.0
+95,E0,Burnley,EPL4,30/11/2019,Crystal Palace,19818.0
+96,E0,Burnley,EPL4,3/12/2019,Manchester City,20101.0
+97,E0,Burnley,EPL4,14/12/2019,Newcastle United,19798.0
+98,E0,Burnley,EPL4,28/12/2019,Manchester United,21924.0
+99,E0,Burnley,EPL4,1/1/2020,Aston Villa,19561.0
+100,E0,Burnley,EPL4,4/1/2020,Peterborough United,8043.0
+101,E0,Burnley,EPL4,19/1/2020,Leicester City,19788.0
+102,E0,Burnley,EPL4,25/1/2020,Norwich City,8071.0
+103,E0,Burnley,EPL4,2/2/2020,Arsenal,21048.0
+104,E0,Burnley,EPL4,22/2/2020,AFC Bournemouth,18227.0
+105,E0,Burnley,EPL4,7/3/2020,Tottenham Hotspur,20496.0
+106,E0,Burnley,EPL4,25/6/2020,Watford,
+107,E0,Burnley,EPL4,5/7/2020,Sheffield United,
+108,E0,Burnley,EPL4,15/7/2020,Wolverhampton Wanderers,
+109,E0,Chelsea,EPL5,18/8/2019,Leicester City,40629.0
+110,E0,Chelsea,EPL5,31/8/2019,Sheffield United,40560.0
+111,E0,Chelsea,EPL5,17/9/2019,Valencia,39469.0
+112,E0,Chelsea,EPL5,22/9/2019,Liverpool,40638.0
+113,E0,Chelsea,EPL5,25/9/2019,Grimsby Town,39674.0
+114,E0,Chelsea,EPL5,28/9/2019,Brighton & Hove Albion,40683.0
+115,E0,Chelsea,EPL5,19/10/2019,Newcastle United,40513.0
+116,E0,Chelsea,EPL5,30/10/2019,Manchester United,38645.0
+117,E0,Chelsea,EPL5,5/11/2019,Ajax,39132.0
+118,E0,Chelsea,EPL5,9/11/2019,Crystal Palace,40525.0
+119,E0,Chelsea,EPL5,30/11/2019,West Ham United,40595.0
+120,E0,Chelsea,EPL5,4/12/2019,Aston Villa,40628.0
+121,E0,Chelsea,EPL5,10/12/2019,Lille,
+122,E0,Chelsea,EPL5,14/12/2019,AFC Bournemouth,40243.0
+123,E0,Chelsea,EPL5,26/12/2019,Southampton,40651.0
+124,E0,Chelsea,EPL5,5/1/2020,Nottingham Forest,40492.0
+125,E0,Chelsea,EPL5,11/1/2020,Burnley,40396.0
+126,E0,Chelsea,EPL5,21/1/2020,Arsenal,40577.0
+127,E0,Chelsea,EPL5,17/2/2020,Manchester United,40504.0
+128,E0,Chelsea,EPL5,22/2/2020,Tottenham Hotspur,40608.0
+129,E0,Chelsea,EPL5,25/2/2020,Bayern Munich,
+130,E0,Chelsea,EPL5,3/3/2020,Liverpool,40103.0
+131,E0,Chelsea,EPL5,8/3/2020,Everton,40694.0
+132,E0,Chelsea,EPL5,25/6/2020,Manchester City,
+133,E0,Chelsea,EPL5,4/7/2020,Watford,
+134,E0,Chelsea,EPL5,14/7/2020,Norwich City,
+135,E0,Crystal,EPL6,10/8/2019,Everton,25151.0
+136,E0,Crystal,EPL6,27/8/2019,Colchester United,8898.0
+137,E0,Crystal,EPL6,31/8/2019,Aston Villa,
+138,E0,Crystal,EPL6,22/9/2019,Wolverhampton Wanderers,25122.0
+139,E0,Crystal,EPL6,28/9/2019,Norwich City,
+140,E0,Crystal,EPL6,19/10/2019,Manchester City,25480.0
+141,E0,Crystal,EPL6,3/11/2019,Leicester City,25480.0
+142,E0,Crystal,EPL6,23/11/2019,Liverpool,25486.0
+143,E0,Crystal,EPL6,3/12/2019,AFC Bournemouth,23497.0
+144,E0,Crystal,EPL6,16/12/2019,Brighton & Hove Albion,24175.0
+145,E0,Crystal,EPL6,26/12/2019,West Ham United,25462.0
+146,E0,Crystal,EPL6,5/1/2020,Derby County,15507.0
+147,E0,Crystal,EPL6,11/1/2020,Arsenal,25468.0
+148,E0,Crystal,EPL6,21/1/2020,Southampton,23739.0
+149,E0,Crystal,EPL6,1/2/2020,Sheffield United,25170.0
+150,E0,Crystal,EPL6,22/2/2020,Newcastle United,25486.0
+151,E0,Crystal,EPL6,7/3/2020,Watford,25461.0
+152,E0,Crystal,EPL6,29/6/2020,Burnley,
+153,E0,Crystal,EPL6,7/7/2020,Chelsea,
+154,E0,Everton,EPL7,17/8/2019,Watford,39066.0
+155,E0,Everton,EPL7,1/9/2019,Wolverhampton Wanderers,39374.0
+156,E0,Everton,EPL7,21/9/2019,Sheffield United,39354.0
+157,E0,Everton,EPL7,28/9/2019,Manchester City,39222.0
+158,E0,Everton,EPL7,19/10/2019,West Ham United,39263.0
+159,E0,Everton,EPL7,29/10/2019,Watford,
+160,E0,Everton,EPL7,3/11/2019,Tottenham Hotspur,39001.0
+161,E0,Everton,EPL7,3/11/2019,Manchester United Women,
+162,E0,Everton,EPL7,23/11/2019,Norwich City,39241.0
+163,E0,Everton,EPL7,7/12/2019,Chelsea,39114.0
+164,E0,Everton,EPL7,18/12/2019,Leicester City,39027.0
+165,E0,Everton,EPL7,21/12/2019,Arsenal,39336.0
+166,E0,Everton,EPL7,26/12/2019,Burnley,39177.0
+167,E0,Everton,EPL7,11/1/2020,Brighton & Hove Albion,38772.0
+168,E0,Everton,EPL7,21/1/2020,Newcastle United,38822.0
+169,E0,Everton,EPL7,8/2/2020,Crystal Palace,38987.0
+170,E0,Everton,EPL7,1/3/2020,Manchester United,39374.0
+171,E0,Everton,EPL7,21/6/2020,Liverpool,
+172,E0,Everton,EPL7,1/7/2020,Leicester City,
+173,E0,Everton,EPL7,9/7/2020,Southampton,
+174,E0,Everton,EPL7,16/7/2020,Aston Villa,
+175,E0,Leicester,EPL8,11/8/2019,Wolverhampton Wanderers,32015.0
+176,E0,Leicester,EPL8,31/8/2019,AFC Bournemouth,31613.0
+177,E0,Leicester,EPL8,21/9/2019,Tottenham Hotspur,32129.0
+178,E0,Leicester,EPL8,29/9/2019,Newcastle United,32168.0
+179,E0,Leicester,EPL8,19/10/2019,Burnley,32105.0
+180,E0,Leicester,EPL8,9/11/2019,Arsenal,32209.0
+181,E0,Leicester,EPL8,1/12/2019,Everton,32144.0
+182,E0,Leicester,EPL8,4/12/2019,Watford,31763.0
+183,E0,Leicester,EPL8,14/12/2019,Norwich City,32101.0
+184,E0,Leicester,EPL8,26/12/2019,Liverpool,32211.0
+185,E0,Leicester,EPL8,4/1/2020,Wigan Athletic,30330.0
+186,E0,Leicester,EPL8,8/1/2020,Aston Villa,31280.0
+187,E0,Leicester,EPL8,11/1/2020,Southampton,32115.0
+188,E0,Leicester,EPL8,22/1/2020,West Ham United,31968.0
+189,E0,Leicester,EPL8,1/2/2020,Chelsea,32186.0
+190,E0,Leicester,EPL8,22/2/2020,Manchester City,32068.0
+191,E0,Leicester,EPL8,4/3/2020,Birmingham City,27181.0
+192,E0,Leicester,EPL8,9/3/2020,Aston Villa,32125.0
+193,E0,Leicester,EPL8,23/6/2020,Brighton & Hove Albion,
+194,E0,Leicester,EPL8,28/6/2020,Chelsea,
+195,E0,Leicester,EPL8,4/7/2020,Crystal Palace,
+196,E0,Liverpool,EPL9,9/8/2019,Norwich City,53333.0
+197,E0,Liverpool,EPL9,14/8/2019,Chelsea,38434.0
+198,E0,Liverpool,EPL9,24/8/2019,Arsenal,53298.0
+199,E0,Liverpool,EPL9,14/9/2019,Newcastle United,51430.0
+200,E0,Liverpool,EPL9,2/10/2019,SV Red Bull Salzburg,52243.0
+201,E0,Liverpool,EPL9,5/10/2019,Leicester City,
+202,E0,Liverpool,EPL9,27/10/2019,Tottenham Hotspur,53222.0
+203,E0,Liverpool,EPL9,30/10/2019,Arsenal,52694.0
+204,E0,Liverpool,EPL9,5/11/2019,KRC Genk,52611.0
+205,E0,Liverpool,EPL9,10/11/2019,Manchester City,53324.0
+206,E0,Liverpool,EPL9,27/11/2019,Napoli,52128.0
+207,E0,Liverpool,EPL9,30/11/2019,Brighton & Hove Albion,53319.0
+208,E0,Liverpool,EPL9,4/12/2019,Everton,53094.0
+209,E0,Liverpool,EPL9,14/12/2019,Watford,
+210,E0,Liverpool,EPL9,21/12/2019,Flamengo,
+211,E0,Liverpool,EPL9,29/12/2019,Wolverhampton Wanderers,53326.0
+212,E0,Liverpool,EPL9,2/1/2020,Sheffield United,53321.0
+213,E0,Liverpool,EPL9,5/1/2020,Everton,52583.0
+214,E0,Liverpool,EPL9,19/1/2020,Manchester United,52916.0
+215,E0,Liverpool,EPL9,1/2/2020,Southampton,53291.0
+216,E0,Liverpool,EPL9,4/2/2020,Shrewsbury Town,
+217,E0,Liverpool,EPL9,24/2/2020,West Ham United,53313.0
+218,E0,Liverpool,EPL9,7/3/2020,AFC Bournemouth,53323.0
+219,E0,Liverpool,EPL9,11/3/2020,Atlético Madrid,52267.0
+220,E0,Liverpool,EPL9,24/6/2020,Crystal Palace,
+221,E0,Liverpool,EPL9,5/7/2020,Aston Villa,
+222,E0,Liverpool,EPL9,11/7/2020,Burnley,
+223,E0,Man_City,EPL10,17/8/2019,Tottenham Hotspur,54503.0
+224,E0,Man_City,EPL10,31/8/2019,Brighton & Hove Albion,54386.0
+225,E0,Man_City,EPL10,21/9/2019,Watford,54273.0
+226,E0,Man_City,EPL10,1/10/2019,Dinamo Zagreb,49046.0
+227,E0,Man_City,EPL10,6/10/2019,Wolverhampton Wanderers,54435.0
+228,E0,Man_City,EPL10,22/10/2019,Atalanta,49308.0
+229,E0,Man_City,EPL10,26/10/2019,Aston Villa,54506.0
+230,E0,Man_City,EPL10,29/10/2019,Southampton,
+231,E0,Man_City,EPL10,2/11/2019,Southampton,53922.0
+232,E0,Man_City,EPL10,23/11/2019,Chelsea,54486.0
+233,E0,Man_City,EPL10,26/11/2019,Shakhtar Donetsk,52020.0
+234,E0,Man_City,EPL10,7/12/2019,Manchester United,54403.0
+235,E0,Man_City,EPL10,21/12/2019,Leicester City,54415.0
+236,E0,Man_City,EPL10,29/12/2019,Sheffield United,54512.0
+237,E0,Man_City,EPL10,1/1/2020,Everton,54407.0
+238,E0,Man_City,EPL10,4/1/2020,Port Vale,52433.0
+239,E0,Man_City,EPL10,18/1/2020,Crystal Palace,54439.0
+240,E0,Man_City,EPL10,26/1/2020,Fulham,39223.0
+241,E0,Man_City,EPL10,29/1/2020,Manchester United,
+242,E0,Man_City,EPL10,19/2/2020,West Ham United,
+243,E0,Man_City,EPL10,17/6/2020,Arsenal,
+244,E0,Man_City,EPL10,22/6/2020,Burnley,
+245,E0,Man_City,EPL10,2/7/2020,Liverpool,
+246,E0,Man_City,EPL10,8/7/2020,Newcastle United,
+247,E0,Man_City,EPL10,15/7/2020,AFC Bournemouth,
+248,E0,Man_United,EPL11,11/8/2019,Chelsea,73620.0
+249,E0,Man_United,EPL11,24/8/2019,Crystal Palace,73454.0
+250,E0,Man_United,EPL11,14/9/2019,Leicester City,73689.0
+251,E0,Man_United,EPL11,19/9/2019,Astana,50783.0
+252,E0,Man_United,EPL11,25/9/2019,Rochdale,58313.0
+253,E0,Man_United,EPL11,30/9/2019,Arsenal,73201.0
+254,E0,Man_United,EPL11,20/10/2019,Liverpool,73737.0
+255,E0,Man_United,EPL11,7/11/2019,FK Partizan,62955.0
+256,E0,Man_United,EPL11,10/11/2019,Brighton & Hove Albion,73556.0
+257,E0,Man_United,EPL11,1/12/2019,Aston Villa,73381.0
+258,E0,Man_United,EPL11,4/12/2019,Tottenham Hotspur,73252.0
+259,E0,Man_United,EPL11,12/12/2019,AZ Alkmaar,65773.0
+260,E0,Man_United,EPL11,15/12/2019,Everton,63328.0
+261,E0,Man_United,EPL11,18/12/2019,Colchester United,57559.0
+262,E0,Man_United,EPL11,26/12/2019,Newcastle United,73206.0
+263,E0,Man_United,EPL11,7/1/2020,Manchester City,69023.0
+264,E0,Man_United,EPL11,11/1/2020,Norwich City,73271.0
+265,E0,Man_United,EPL11,15/1/2020,Wolverhampton Wanderers,67025.0
+266,E0,Man_United,EPL11,22/1/2020,Burnley,73198.0
+267,E0,Man_United,EPL11,1/2/2020,Wolverhampton Wanderers,73363.0
+268,E0,Man_United,EPL11,23/2/2020,Watford,73347.0
+269,E0,Man_United,EPL11,27/2/2020,Club Brugge,
+270,E0,Man_United,EPL11,8/3/2020,Manchester City,73288.0
+271,E0,Man_United,EPL11,24/6/2020,Sheffield United,
+272,E0,Man_United,EPL11,4/7/2020,AFC Bournemouth,
+273,E0,Man_United,EPL11,13/7/2020,Southampton,
+274,E0,Newcastle,EPL12,11/8/2019,Arsenal,47635.0
+275,E0,Newcastle,EPL12,28/8/2019,Leicester City,22727.0
+276,E0,Newcastle,EPL12,31/8/2019,Watford,44157.0
+277,E0,Newcastle,EPL12,21/9/2019,Brighton & Hove Albion,43360.0
+278,E0,Newcastle,EPL12,6/10/2019,Manchester United,51198.0
+279,E0,Newcastle,EPL12,27/10/2019,Wolverhampton Wanderers,46019.0
+280,E0,Newcastle,EPL12,9/11/2019,AFC Bournemouth,44424.0
+281,E0,Newcastle,EPL12,30/11/2019,Manchester City,49937.0
+282,E0,Newcastle,EPL12,8/12/2019,Southampton,42303.0
+283,E0,Newcastle,EPL12,21/12/2019,Crystal Palace,45453.0
+284,E0,Newcastle,EPL12,28/12/2019,Everton,52211.0
+285,E0,Newcastle,EPL12,1/1/2020,Leicester City,52178.0
+286,E0,Newcastle,EPL12,14/1/2020,Rochdale,29786.0
+287,E0,Newcastle,EPL12,18/1/2020,Chelsea,52217.0
+288,E0,Newcastle,EPL12,25/1/2020,Oxford United,52221.0
+289,E0,Newcastle,EPL12,1/2/2020,Norwich City,52204.0
+290,E0,Newcastle,EPL12,29/2/2020,Burnley,52219.0
+291,E0,Newcastle,EPL12,21/6/2020,Sheffield United,
+292,E0,Newcastle,EPL12,24/6/2020,Aston Villa,
+293,E0,Newcastle,EPL12,28/6/2020,Manchester City,
+294,E0,Newcastle,EPL12,5/7/2020,West Ham United,
+295,E0,Newcastle,EPL12,15/7/2020,Tottenham Hotspur,
+296,E0,Norwich,EPL13,17/8/2019,Newcastle United,27059.0
+297,E0,Norwich,EPL13,24/8/2019,Chelsea,27032.0
+298,E0,Norwich,EPL13,14/9/2019,Manchester City,27035.0
+299,E0,Norwich,EPL13,5/10/2019,Aston Villa,27045.0
+300,E0,Norwich,EPL13,27/10/2019,Manchester United,27108.0
+301,E0,Norwich,EPL13,8/11/2019,Watford,
+302,E0,Norwich,EPL13,1/12/2019,Arsenal,27067.0
+303,E0,Norwich,EPL13,8/12/2019,Sheffield United,26881.0
+304,E0,Norwich,EPL13,21/12/2019,Wolverhampton Wanderers,27053.0
+305,E0,Norwich,EPL13,28/12/2019,Tottenham Hotspur,27072.0
+306,E0,Norwich,EPL13,1/1/2020,Crystal Palace,27021.0
+307,E0,Norwich,EPL13,18/1/2020,AFC Bournemouth,26781.0
+308,E0,Norwich,EPL13,15/2/2020,Liverpool,27110.0
+309,E0,Norwich,EPL13,28/2/2020,Leicester City,27010.0
+310,E0,Norwich,EPL13,19/6/2020,Southampton,
+311,E0,Norwich,EPL13,24/6/2020,Everton,
+312,E0,Norwich,EPL13,27/6/2020,Manchester United,
+313,E0,Norwich,EPL13,4/7/2020,Brighton & Hove Albion,
+314,E0,Norwich,EPL13,11/7/2020,West Ham United,
+315,E0,Sheffield,EPL14,18/8/2019,Crystal Palace,30197.0
+316,E0,Sheffield,EPL14,24/8/2019,Leicester City,30079.0
+317,E0,Sheffield,EPL14,27/8/2019,Blackburn Rovers,9714.0
+318,E0,Sheffield,EPL14,28/8/2019,Blackburn Rovers,
+319,E0,Sheffield,EPL14,14/9/2019,Southampton,30985.0
+320,E0,Sheffield,EPL14,25/9/2019,Sunderland,11675.0
+321,E0,Sheffield,EPL14,28/9/2019,Liverpool,31774.0
+322,E0,Sheffield,EPL14,21/10/2019,Arsenal,30775.0
+323,E0,Sheffield,EPL14,2/11/2019,Burnley,31131.0
+324,E0,Sheffield,EPL14,24/11/2019,Manchester United,32024.0
+325,E0,Sheffield,EPL14,5/12/2019,Newcastle United,30409.0
+326,E0,Sheffield,EPL14,14/12/2019,Aston Villa,30396.0
+327,E0,Sheffield,EPL14,26/12/2019,Watford,30222.0
+328,E0,Sheffield,EPL14,5/1/2020,AFC Fylde,11133.0
+329,E0,Sheffield,EPL14,10/1/2020,West Ham United,30124.0
+330,E0,Sheffield,EPL14,21/1/2020,Manchester City,31285.0
+331,E0,Sheffield,EPL14,9/2/2020,AFC Bournemouth,30361.0
+332,E0,Sheffield,EPL14,22/2/2020,Brighton & Hove Albion,31888.0
+333,E0,Sheffield,EPL14,7/3/2020,Norwich City,31379.0
+334,E0,Sheffield,EPL14,28/6/2020,Arsenal,
+335,E0,Sheffield,EPL14,2/7/2020,Tottenham Hotspur,
+336,E0,Sheffield,EPL14,8/7/2020,Wolverhampton Wanderers,
+337,E0,Sheffield,EPL14,11/7/2020,Chelsea,
+338,E0,Southampton,EPL15,17/8/2019,Liverpool,31712.0
+339,E0,Southampton,EPL15,31/8/2019,Manchester United,30499.0
+340,E0,Southampton,EPL15,20/9/2019,AFC Bournemouth,30168.0
+341,E0,Southampton,EPL15,6/10/2019,Chelsea,31473.0
+342,E0,Southampton,EPL15,25/10/2019,Leicester City,28762.0
+343,E0,Southampton,EPL15,9/11/2019,Everton,29754.0
+344,E0,Southampton,EPL15,30/11/2019,Watford,26929.0
+345,E0,Southampton,EPL15,4/12/2019,Norwich City,27019.0
+346,E0,Southampton,EPL15,14/12/2019,West Ham United,27701.0
+347,E0,Southampton,EPL15,28/12/2019,Crystal Palace,31108.0
+348,E0,Southampton,EPL15,1/1/2020,Tottenham Hotspur,30976.0
+349,E0,Southampton,EPL15,4/1/2020,Huddersfield Town,20091.0
+350,E0,Southampton,EPL15,18/1/2020,Wolverhampton Wanderers,31152.0
+351,E0,Southampton,EPL15,25/1/2020,Tottenham Hotspur,29282.0
+352,E0,Southampton,EPL15,15/2/2020,Burnley,26302.0
+353,E0,Southampton,EPL15,22/2/2020,Aston Villa,31478.0
+354,E0,Southampton,EPL15,7/3/2020,Newcastle United,30096.0
+355,E0,Southampton,EPL15,25/6/2020,Arsenal,
+356,E0,Southampton,EPL15,5/7/2020,Manchester City,
+357,E0,Tottenham,EPL16,10/8/2019,Aston Villa,60407.0
+358,E0,Tottenham,EPL16,25/8/2019,Newcastle United,59245.0
+359,E0,Tottenham,EPL16,14/9/2019,Crystal Palace,59812.0
+360,E0,Tottenham,EPL16,28/9/2019,Southampton,59645.0
+361,E0,Tottenham,EPL16,1/10/2019,Bayern Munich,60127.0
+362,E0,Tottenham,EPL16,19/10/2019,Watford,58754.0
+363,E0,Tottenham,EPL16,22/10/2019,Crvena Zvezda,
+364,E0,Tottenham,EPL16,22/10/2019,Red Star Belgrade,51743.0
+365,E0,Tottenham,EPL16,9/11/2019,Sheffield United,59781.0
+366,E0,Tottenham,EPL16,26/11/2019,Olympiakos,57024.0
+367,E0,Tottenham,EPL16,30/11/2019,AFC Bournemouth,59626.0
+368,E0,Tottenham,EPL16,7/12/2019,Burnley,58401.0
+369,E0,Tottenham,EPL16,22/12/2019,Chelsea,61104.0
+370,E0,Tottenham,EPL16,26/12/2019,Brighton & Hove Albion,56308.0
+371,E0,Tottenham,EPL16,11/1/2020,Liverpool,61023.0
+372,E0,Tottenham,EPL16,14/1/2020,Middlesbrough,49202.0
+373,E0,Tottenham,EPL16,22/1/2020,Norwich City,58182.0
+374,E0,Tottenham,EPL16,2/2/2020,Manchester City,61022.0
+375,E0,Tottenham,EPL16,5/2/2020,Southampton,56046.0
+376,E0,Tottenham,EPL16,19/2/2020,RB Leipzig,60095.0
+377,E0,Tottenham,EPL16,1/3/2020,Wolverhampton Wanderers,58064.0
+378,E0,Tottenham,EPL16,4/3/2020,Norwich City,58007.0
+379,E0,Tottenham,EPL16,19/6/2020,Manchester United,
+380,E0,Tottenham,EPL16,23/6/2020,West Ham United,
+381,E0,Tottenham,EPL16,6/7/2020,Everton,
+382,E0,Tottenham,EPL16,12/7/2020,Arsenal,
+383,E0,Watford,EPL17,10/8/2019,Brighton & Hove Albion,20245.0
+384,E0,Watford,EPL17,24/8/2019,West Ham United,20035.0
+385,E0,Watford,EPL17,27/8/2019,Coventry City,12257.0
+386,E0,Watford,EPL17,15/9/2019,Arsenal,21360.0
+387,E0,Watford,EPL17,24/9/2019,Swansea City,8903.0
+388,E0,Watford,EPL17,5/10/2019,Sheffield United,
+389,E0,Watford,EPL17,26/10/2019,AFC Bournemouth,20821.0
+390,E0,Watford,EPL17,2/11/2019,Chelsea,21011.0
+391,E0,Watford,EPL17,23/11/2019,Burnley,19711.0
+392,E0,Watford,EPL17,7/12/2019,Crystal Palace,20070.0
+393,E0,Watford,EPL17,22/12/2019,Manchester United,21488.0
+394,E0,Watford,EPL17,28/12/2019,Aston Villa,21348.0
+395,E0,Watford,EPL17,1/1/2020,Wolverhampton Wanderers,20584.0
+396,E0,Watford,EPL17,4/1/2020,Tranmere Rovers,14373.0
+397,E0,Watford,EPL17,18/1/2020,Tottenham Hotspur,21366.0
+398,E0,Watford,EPL17,1/2/2020,Everton,21229.0
+399,E0,Watford,EPL17,29/2/2020,Liverpool,21634.0
+400,E0,Watford,EPL17,20/6/2020,Leicester City,
+401,E0,Watford,EPL17,28/6/2020,Southampton,
+402,E0,Watford,EPL17,7/7/2020,Norwich City,
+403,E0,Watford,EPL17,11/7/2020,Newcastle United,
+404,E0,WestHam,EPL18,10/8/2019,Manchester City,59870.0
+405,E0,WestHam,EPL18,31/8/2019,Norwich City,59950.0
+406,E0,WestHam,EPL18,22/9/2019,Manchester United,59936.0
+407,E0,WestHam,EPL18,5/10/2019,Crystal Palace,59912.0
+408,E0,WestHam,EPL18,26/10/2019,Sheffield United,59878.0
+409,E0,WestHam,EPL18,2/11/2019,Newcastle United,59907.0
+410,E0,WestHam,EPL18,23/11/2019,Tottenham Hotspur,59930.0
+411,E0,WestHam,EPL18,9/12/2019,Arsenal,59936.0
+412,E0,WestHam,EPL18,28/12/2019,Leicester City,59919.0
+413,E0,WestHam,EPL18,1/1/2020,AFC Bournemouth,59917.0
+414,E0,WestHam,EPL18,18/1/2020,Everton,59915.0
+415,E0,WestHam,EPL18,25/1/2020,West Bromwich Albion,58911.0
+416,E0,WestHam,EPL18,29/1/2020,Liverpool,59959.0
+417,E0,WestHam,EPL18,1/2/2020,Brighton & Hove Albion,59952.0
+418,E0,WestHam,EPL18,29/2/2020,Southampton,59962.0
+419,E0,WestHam,EPL18,20/6/2020,Wolverhampton Wanderers,
+420,E0,WestHam,EPL18,1/7/2020,Chelsea,
+421,E0,WestHam,EPL18,8/7/2020,Burnley,
+422,E0,Wolves,EPL19,25/7/2019,Crusaders,
+423,E0,Wolves,EPL19,15/8/2019,Pyunik,29391.0
+424,E0,Wolves,EPL19,19/8/2019,Manchester United,31314.0
+425,E0,Wolves,EPL19,25/8/2019,Burnley,30522.0
+426,E0,Wolves,EPL19,29/8/2019,Torino,29222.0
+427,E0,Wolves,EPL19,14/9/2019,Chelsea,31534.0
+428,E0,Wolves,EPL19,19/9/2019,Sporting Braga,28314.0
+429,E0,Wolves,EPL19,25/9/2019,Reading,20702.0
+430,E0,Wolves,EPL19,28/9/2019,Watford,30711.0
+431,E0,Wolves,EPL19,19/10/2019,Southampton,30915.0
+432,E0,Wolves,EPL19,7/11/2019,Slovan Bratislava,29789.0
+433,E0,Wolves,EPL19,10/11/2019,Aston Villa,31607.0
+434,E0,Wolves,EPL19,1/12/2019,Sheffield United,31642.0
+435,E0,Wolves,EPL19,4/12/2019,West Ham United,31217.0
+436,E0,Wolves,EPL19,12/12/2019,Beşiktaş,27866.0
+437,E0,Wolves,EPL19,15/12/2019,Tottenham Hotspur,31674.0
+438,E0,Wolves,EPL19,27/12/2019,Manchester City,31737.0
+439,E0,Wolves,EPL19,4/1/2020,Manchester United,31381.0
+440,E0,Wolves,EPL19,11/1/2020,Newcastle United,31570.0
+441,E0,Wolves,EPL19,23/1/2020,Liverpool,31746.0
+442,E0,Wolves,EPL19,14/2/2020,Leicester City,31682.0
+443,E0,Wolves,EPL19,20/2/2020,Espanyol,30435.0
+444,E0,Wolves,EPL19,23/2/2020,Norwich City,31046.0
+445,E0,Wolves,EPL19,7/3/2020,Brighton & Hove Albion,31490.0
+446,E0,Wolves,EPL19,24/6/2020,AFC Bournemouth,
+447,E0,Wolves,EPL19,4/7/2020,Arsenal,
+448,E0,Wolves,EPL19,12/7/2020,Everton,
