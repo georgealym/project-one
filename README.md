@@ -27,9 +27,7 @@ Key things we will analyze may include but are not limited to the following:
   
   - (Away)Team, Match Date, City, Weather(Temp. Heat. Humidity), Score, Score of Op, Results(Win/Lose)
 
-* Plots of Weather vs. Score (Use legend or subplots)
-
-Scatter plot and linear regression:
+* Plots of Weather vs. Score (Use legend or subplots) : Scatter plot and linear regression
 
   1.  Home
   - Weather value (xvalue)
@@ -39,9 +37,7 @@ Scatter plot and linear regression:
   - Weather value (xvalue)
   - Average of total scores of match for same weather fact
   
-* Plots of Weather vs. Wins (Use legend or subplots)
-
-Scatter plot and linear regression:
+* Plots of Weather vs. Wins (Use legend or subplots) : Scatter plot and linear regression
 
   1.  Home
   - Weather value (xvalue)
@@ -59,9 +55,7 @@ Scatter plot and linear regression:
   
   - (Away)Team, Avg Score, Avg. Results(Win/Lose), Avg. Attendance
 
-* Plots of Attendance vs. Score (Use legend or subplots)
-
-Scatter plot and linear regression:
+* Plots of Attendance vs. Score (Use legend or subplots) : Scatter plot and linear regression
 
   1.  Home
   - Attendances value (xvalue)  
@@ -71,9 +65,7 @@ Scatter plot and linear regression:
   - Attendances value (xvalue)
   - Average of total scores of match for same attendances
   
-* Plots of Attendances vs. Score for selected teams:
-
-Scatter plots with size of dots
+* Plots of Attendances vs. Score for selected teams : Scatter plots with size of dots
 
   (We choose top teams??)
   
@@ -95,9 +87,7 @@ Scatter plots with size of dots
   
   - (Away)Team, Avg Score(Before), Avg. Score(After), Avg. Occupancy
 
-* Plots of Scores(Before and After) of teams
-
-Stacked bar graphs:
+* Plots of Scores(Before and After) of teams : Stacked bar graphs
 
   1.  Home
   - Before Avg. Score (yvalue) 
@@ -110,7 +100,6 @@ Stacked bar graphs:
   - Teams (xticks)
 
 
-
 ### Observations and Insights - Story/Truth telling
 
-What is the probability that you will win/lose/draw for home vs away?
+* What is the probability that you will win/lose/draw for home vs away?
