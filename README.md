@@ -17,7 +17,38 @@ The scope of this project is to review international soccer data in the European
 Key things we will analyze may include but are not limited to the following: 
 
 
+
+### Data collecting
+
+* Stadiums & City
+
+    https://www.stadiumguide.com/premier-league-stadiums/
+    https://www.bundesliga.com/en/bundesliga/news/stadiums-borussia-park-allianz-arena-signal-iduna-park-veltins-7642
+    https://www.football-stadiums.co.uk/leagues/la-liga/   --- and wikipedia
+    https://www.worldfootball.net/venues/ita-serie-a-2019-2020/
+
+
+* Attendances : for each league, team
+
+    https://www.footballwebpages.co.uk/fc-augsburg/attendances
+    
+    
+.............    
+    
+
+### Data cleaning
+
+* Names : different names
+
+* Date : 
+    different formats : ex) 06/07/2019  vs. 6/7/2019
+    to_datetime misconducting result: ex) 1/12/19 ---> 2019-01-12, but this is 2019-12-01
+
+...............
+
+
 ### Analysis
+
 
 #### How does the weather impact average points per match at home/away?
 
@@ -27,15 +58,23 @@ Key things we will analyze may include but are not limited to the following:
   
   - (Away)Team, Match Date, City, Weather(Temp. Heat. Humidity), Score, Score of Op, Results(Win/Lose)
 
-* Plots of Weather vs. Score (Use legend or subplots) : Scatter plot and linear regression
+* Plots of Weather vs. Score (Use legend or subplots)
+
+Scatter plot and linear regression: Choose one day.
 
   1.  Home
-  - Weather value (xvalue)
-  - Average of total scores of match for same weather fact
+  
+  - Weather values on that day for all stadiums (xvalue)
+  - Home scores of all matches
+  ???- Average of total scores of match for same weather fact (?)
+  
   
   2. Away
-  - Weather value (xvalue)
-  - Average of total scores of match for same weather fact
+  
+  - Weather values on that day for all stadiums (xvalue)
+  - Away scores of all matches
+  ???- Average of total scores of match for same weather fact
+  
   
 * Plots of Weather vs. Wins (Use legend or subplots) : Scatter plot and linear regression
 
