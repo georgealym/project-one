@@ -1,0 +1,352 @@
+Div,Date,Time,HomeTeam,AwayTeam,HomeScore,AwayScore,Result,HomeTeam ID,AwayTeam ID, City,Team ID,Opponent,Attendance
+E0,2019-08-09,20:00,Liverpool,Norwich,4,1,H,EPL9,EPL13,Liverpool,EPL9,Norwich City,53333.0
+E0,2019-08-10,12:30,West Ham,Man City,0,5,A,EPL18,EPL10,London,EPL18,Manchester City,59870.0
+E0,2019-08-10,15:00,Watford,Brighton,0,3,A,EPL17,EPL3,Watford,EPL17,Brighton & Hove Albion,20245.0
+E0,2019-08-10,17:30,Tottenham,Aston Villa,3,1,H,EPL16,EPL1,London,EPL16,Aston Villa,60407.0
+E0,2019-08-10,15:00,Crystal Palace,Everton,0,0,D,EPL6,EPL7,London,EPL6,Everton,25151.0
+E0,2019-08-10,15:00,Burnley,Southampton,3,0,H,EPL4,EPL15,Burnley,EPL4,Southampton,19784.0
+E0,2019-08-10,15:00,Bournemouth,Sheffield United,1,1,D,EPL2,EPL14,Bournemouth,EPL2,Sheffield United,10714.0
+E0,2019-08-11,14:00,Newcastle,Arsenal,0,1,A,EPL12,EPL0,Newcastle upon Tyne,EPL12,Arsenal,47635.0
+E0,2019-08-11,16:30,Man United,Chelsea,4,0,H,EPL11,EPL5,Manchester,EPL11,Chelsea,73620.0
+E0,2019-08-11,14:00,Leicester,Wolves,0,0,D,EPL8,EPL19,Leicester,EPL8,Wolverhampton Wanderers,32015.0
+E0,2019-08-17,17:30,Man City,Tottenham,2,2,D,EPL10,EPL16,Manchester,EPL10,Tottenham Hotspur,54503.0
+E0,2019-08-17,15:00,Aston Villa,Bournemouth,1,2,A,EPL1,EPL2,Birmingham,EPL1,AFC Bournemouth,40996.0
+E0,2019-08-17,15:00,Brighton,West Ham,1,1,D,EPL3,EPL18,Brighton,EPL3,West Ham United,30459.0
+E0,2019-08-17,15:00,Southampton,Liverpool,1,2,A,EPL15,EPL9,Southampton,EPL15,Liverpool,31712.0
+E0,2019-08-17,15:00,Norwich,Newcastle,3,1,H,EPL13,EPL12,Norwich,EPL13,Newcastle United,27059.0
+E0,2019-08-17,12:30,Arsenal,Burnley,2,1,H,EPL0,EPL4,London,EPL0,Burnley,60214.0
+E0,2019-08-17,15:00,Everton,Watford,1,0,H,EPL7,EPL17,Liverpool,EPL7,Watford,39066.0
+E0,2019-08-18,14:00,Sheffield United,Crystal Palace,1,0,H,EPL14,EPL6,Sheffield,EPL14,Crystal Palace,30197.0
+E0,2019-08-18,16:30,Chelsea,Leicester,1,1,D,EPL5,EPL8,London,EPL5,Leicester City,40629.0
+E0,2019-08-19,20:00,Wolves,Man United,1,1,D,EPL19,EPL11,Wolverhampton,EPL19,Manchester United,31314.0
+E0,2019-08-23,20:00,Aston Villa,Everton,2,0,H,EPL1,EPL7,Birmingham,EPL1,Everton,41922.0
+E0,2019-08-24,15:00,Brighton,Southampton,0,2,A,EPL3,EPL15,Brighton,EPL3,Southampton,30019.0
+E0,2019-08-24,17:30,Liverpool,Arsenal,3,1,H,EPL9,EPL0,Liverpool,EPL9,Arsenal,53298.0
+E0,2019-08-24,15:00,Watford,West Ham,1,3,A,EPL17,EPL18,Watford,EPL17,West Ham United,20035.0
+E0,2019-08-24,15:00,Sheffield United,Leicester,1,2,A,EPL14,EPL8,Sheffield,EPL14,Leicester City,30079.0
+E0,2019-08-24,12:30,Norwich,Chelsea,2,3,A,EPL13,EPL5,Norwich,EPL13,Chelsea,27032.0
+E0,2019-08-24,15:00,Man United,Crystal Palace,1,2,A,EPL11,EPL6,Manchester,EPL11,Crystal Palace,73454.0
+E0,2019-08-25,14:00,Bournemouth,Man City,1,3,A,EPL2,EPL10,Bournemouth,EPL2,Manchester City,10486.0
+E0,2019-08-25,16:30,Tottenham,Newcastle,0,1,A,EPL16,EPL12,London,EPL16,Newcastle United,59245.0
+E0,2019-08-25,16:30,Wolves,Burnley,1,1,D,EPL19,EPL4,Wolverhampton,EPL19,Burnley,30522.0
+E0,2019-08-31,15:00,Newcastle,Watford,1,1,D,EPL12,EPL17,Newcastle upon Tyne,EPL12,Watford,44157.0
+E0,2019-08-31,15:00,Man City,Brighton,4,0,H,EPL10,EPL3,Manchester,EPL10,Brighton & Hove Albion,54386.0
+E0,2019-08-31,15:00,Chelsea,Sheffield United,2,2,D,EPL5,EPL14,London,EPL5,Sheffield United,40560.0
+E0,2019-08-31,15:00,West Ham,Norwich,2,0,H,EPL18,EPL13,London,EPL18,Norwich City,59950.0
+E0,2019-08-31,15:00,Crystal Palace,Aston Villa,1,0,H,EPL6,EPL1,London,EPL6,Aston Villa,
+E0,2019-08-31,15:00,Leicester,Bournemouth,3,1,H,EPL8,EPL2,Leicester,EPL8,AFC Bournemouth,31613.0
+E0,2019-08-31,12:30,Southampton,Man United,1,1,D,EPL15,EPL11,Southampton,EPL15,Manchester United,30499.0
+E0,2019-08-31,17:30,Burnley,Liverpool,0,3,A,EPL4,EPL9,Burnley,EPL4,Liverpool,21762.0
+E0,2019-09-01,16:30,Arsenal,Tottenham,2,2,D,EPL0,EPL16,London,EPL0,Tottenham Hotspur,60333.0
+E0,2019-09-01,14:00,Everton,Wolves,3,2,H,EPL7,EPL19,Liverpool,EPL7,Wolverhampton Wanderers,39374.0
+E0,2019-09-14,15:00,Tottenham,Crystal Palace,4,0,H,EPL16,EPL6,London,EPL16,Crystal Palace,59812.0
+E0,2019-09-14,15:00,Wolves,Chelsea,2,5,A,EPL19,EPL5,Wolverhampton,EPL19,Chelsea,31534.0
+E0,2019-09-14,17:30,Norwich,Man City,3,2,H,EPL13,EPL10,Norwich,EPL13,Manchester City,27035.0
+E0,2019-09-14,15:00,Man United,Leicester,1,0,H,EPL11,EPL8,Manchester,EPL11,Leicester City,73689.0
+E0,2019-09-14,15:00,Brighton,Burnley,1,1,D,EPL3,EPL4,Brighton,EPL3,Burnley,29398.0
+E0,2019-09-14,15:00,Sheffield United,Southampton,0,1,A,EPL14,EPL15,Sheffield,EPL14,Southampton,30985.0
+E0,2019-09-14,12:30,Liverpool,Newcastle,3,1,H,EPL9,EPL12,Liverpool,EPL9,Newcastle United,51430.0
+E0,2019-09-15,16:30,Watford,Arsenal,2,2,D,EPL17,EPL0,Watford,EPL17,Arsenal,21360.0
+E0,2019-09-15,14:00,Bournemouth,Everton,3,1,H,EPL2,EPL7,Bournemouth,EPL2,Everton,10416.0
+E0,2019-09-16,20:00,Aston Villa,West Ham,0,0,D,EPL1,EPL18,Birmingham,EPL1,West Ham United,42010.0
+E0,2019-09-20,20:00,Southampton,Bournemouth,1,3,A,EPL15,EPL2,Southampton,EPL15,AFC Bournemouth,30168.0
+E0,2019-09-21,17:30,Newcastle,Brighton,0,0,D,EPL12,EPL3,Newcastle upon Tyne,EPL12,Brighton & Hove Albion,43360.0
+E0,2019-09-21,15:00,Everton,Sheffield United,0,2,A,EPL7,EPL14,Liverpool,EPL7,Sheffield United,39354.0
+E0,2019-09-21,15:00,Man City,Watford,8,0,H,EPL10,EPL17,Manchester,EPL10,Watford,54273.0
+E0,2019-09-21,15:00,Burnley,Norwich,2,0,H,EPL4,EPL13,Burnley,EPL4,Norwich City,19712.0
+E0,2019-09-21,12:30,Leicester,Tottenham,2,1,H,EPL8,EPL16,Leicester,EPL8,Tottenham Hotspur,32129.0
+E0,2019-09-22,14:00,West Ham,Man United,2,0,H,EPL18,EPL11,London,EPL18,Manchester United,59936.0
+E0,2019-09-22,16:30,Arsenal,Aston Villa,3,2,H,EPL0,EPL1,London,EPL0,Aston Villa,60331.0
+E0,2019-09-22,14:00,Crystal Palace,Wolves,1,1,D,EPL6,EPL19,London,EPL6,Wolverhampton Wanderers,25122.0
+E0,2019-09-22,16:30,Chelsea,Liverpool,1,2,A,EPL5,EPL9,London,EPL5,Liverpool,40638.0
+E0,2019-09-28,12:30,Sheffield United,Liverpool,0,1,A,EPL14,EPL9,Sheffield,EPL14,Liverpool,31774.0
+E0,2019-09-28,15:00,Aston Villa,Burnley,2,2,D,EPL1,EPL4,Birmingham,EPL1,Burnley,41546.0
+E0,2019-09-28,15:00,Wolves,Watford,2,0,H,EPL19,EPL17,Wolverhampton,EPL19,Watford,30711.0
+E0,2019-09-28,15:00,Bournemouth,West Ham,2,2,D,EPL2,EPL18,Bournemouth,EPL2,West Ham United,10729.0
+E0,2019-09-28,15:00,Tottenham,Southampton,2,1,H,EPL16,EPL15,London,EPL16,Southampton,59645.0
+E0,2019-09-28,17:30,Everton,Man City,1,3,A,EPL7,EPL10,Liverpool,EPL7,Manchester City,39222.0
+E0,2019-09-28,15:00,Chelsea,Brighton,2,0,H,EPL5,EPL3,London,EPL5,Brighton & Hove Albion,40683.0
+E0,2019-09-28,15:00,Crystal Palace,Norwich,2,0,H,EPL6,EPL13,London,EPL6,Norwich City,
+E0,2019-09-29,16:30,Leicester,Newcastle,5,0,H,EPL8,EPL12,Leicester,EPL8,Newcastle United,32168.0
+E0,2019-09-30,20:00,Man United,Arsenal,1,1,D,EPL11,EPL0,Manchester,EPL11,Arsenal,73201.0
+E0,2019-10-05,15:00,Norwich,Aston Villa,1,5,A,EPL13,EPL1,Norwich,EPL13,Aston Villa,27045.0
+E0,2019-10-05,15:00,Liverpool,Leicester,2,1,H,EPL9,EPL8,Liverpool,EPL9,Leicester City,
+E0,2019-10-05,15:00,Burnley,Everton,1,0,H,EPL4,EPL7,Burnley,EPL4,Everton,20650.0
+E0,2019-10-05,15:00,Watford,Sheffield United,0,0,D,EPL17,EPL14,Watford,EPL17,Sheffield United,
+E0,2019-10-05,17:30,West Ham,Crystal Palace,1,2,A,EPL18,EPL6,London,EPL18,Crystal Palace,59912.0
+E0,2019-10-05,12:30,Brighton,Tottenham,3,0,H,EPL3,EPL16,Brighton,EPL3,Tottenham Hotspur,30610.0
+E0,2019-10-06,14:00,Arsenal,Bournemouth,1,0,H,EPL0,EPL2,London,EPL0,AFC Bournemouth,60326.0
+E0,2019-10-06,16:30,Newcastle,Man United,1,0,H,EPL12,EPL11,Newcastle upon Tyne,EPL12,Manchester United,51198.0
+E0,2019-10-06,14:00,Southampton,Chelsea,1,4,A,EPL15,EPL5,Southampton,EPL15,Chelsea,31473.0
+E0,2019-10-06,14:00,Man City,Wolves,0,2,A,EPL10,EPL19,Manchester,EPL10,Wolverhampton Wanderers,54435.0
+E0,2019-10-19,15:00,Tottenham,Watford,1,1,D,EPL16,EPL17,London,EPL16,Watford,58754.0
+E0,2019-10-19,15:00,Bournemouth,Norwich,0,0,D,EPL2,EPL13,Bournemouth,EPL2,Norwich City,10669.0
+E0,2019-10-19,15:00,Chelsea,Newcastle,1,0,H,EPL5,EPL12,London,EPL5,Newcastle United,40513.0
+E0,2019-10-19,17:30,Crystal Palace,Man City,0,2,A,EPL6,EPL10,London,EPL6,Manchester City,25480.0
+E0,2019-10-19,15:00,Leicester,Burnley,2,1,H,EPL8,EPL4,Leicester,EPL8,Burnley,32105.0
+E0,2019-10-19,15:00,Aston Villa,Brighton,2,1,H,EPL1,EPL3,Birmingham,EPL1,Brighton & Hove Albion,41826.0
+E0,2019-10-19,15:00,Wolves,Southampton,1,1,D,EPL19,EPL15,Wolverhampton,EPL19,Southampton,30915.0
+E0,2019-10-19,12:30,Everton,West Ham,2,0,H,EPL7,EPL18,Liverpool,EPL7,West Ham United,39263.0
+E0,2019-10-20,16:30,Man United,Liverpool,1,1,D,EPL11,EPL9,Manchester,EPL11,Liverpool,73737.0
+E0,2019-10-21,20:00,Sheffield United,Arsenal,1,0,H,EPL14,EPL0,Sheffield,EPL14,Arsenal,30775.0
+E0,2019-10-25,20:00,Southampton,Leicester,0,9,A,EPL15,EPL8,Southampton,EPL15,Leicester City,28762.0
+E0,2019-10-26,15:00,Brighton,Everton,3,2,H,EPL3,EPL7,Brighton,EPL3,Everton,30529.0
+E0,2019-10-26,15:00,Watford,Bournemouth,0,0,D,EPL17,EPL2,Watford,EPL17,AFC Bournemouth,20821.0
+E0,2019-10-26,15:00,West Ham,Sheffield United,1,1,D,EPL18,EPL14,London,EPL18,Sheffield United,59878.0
+E0,2019-10-26,12:30,Man City,Aston Villa,3,0,H,EPL10,EPL1,Manchester,EPL10,Aston Villa,54506.0
+E0,2019-10-26,17:30,Burnley,Chelsea,2,4,A,EPL4,EPL5,Burnley,EPL4,Chelsea,20975.0
+E0,2019-10-27,16:30,Arsenal,Crystal Palace,2,2,D,EPL0,EPL6,London,EPL0,Crystal Palace,60345.0
+E0,2019-10-27,16:30,Norwich,Man United,1,3,A,EPL13,EPL11,Norwich,EPL13,Manchester United,27108.0
+E0,2019-10-27,16:30,Liverpool,Tottenham,2,1,H,EPL9,EPL16,Liverpool,EPL9,Tottenham Hotspur,53222.0
+E0,2019-10-27,14:00,Newcastle,Wolves,1,1,D,EPL12,EPL19,Newcastle upon Tyne,EPL12,Wolverhampton Wanderers,46019.0
+E0,2019-11-02,15:00,Man City,Southampton,2,1,H,EPL10,EPL15,Manchester,EPL10,Southampton,53922.0
+E0,2019-11-02,12:30,Bournemouth,Man United,1,0,H,EPL2,EPL11,Bournemouth,EPL2,Manchester United,10669.0
+E0,2019-11-02,15:00,Sheffield United,Burnley,3,0,H,EPL14,EPL4,Sheffield,EPL14,Burnley,31131.0
+E0,2019-11-02,17:30,Watford,Chelsea,1,2,A,EPL17,EPL5,Watford,EPL17,Chelsea,21011.0
+E0,2019-11-02,15:00,Arsenal,Wolves,1,1,D,EPL0,EPL19,London,EPL0,Wolverhampton Wanderers,60383.0
+E0,2019-11-02,15:00,Brighton,Norwich,2,0,H,EPL3,EPL13,Brighton,EPL3,Norwich City,30539.0
+E0,2019-11-02,15:00,West Ham,Newcastle,2,3,A,EPL18,EPL12,London,EPL18,Newcastle United,59907.0
+E0,2019-11-02,15:00,Aston Villa,Liverpool,1,2,A,EPL1,EPL9,Birmingham,EPL1,Liverpool,41878.0
+E0,2019-11-03,14:00,Crystal Palace,Leicester,0,2,A,EPL6,EPL8,London,EPL6,Leicester City,25480.0
+E0,2019-11-03,16:30,Everton,Tottenham,1,1,D,EPL7,EPL16,Liverpool,EPL7,Tottenham Hotspur,39001.0
+E0,2019-11-03,16:30,Everton,Tottenham,1,1,D,EPL7,EPL16,Liverpool,EPL7,Manchester United Women,
+E0,2019-11-08,20:00,Norwich,Watford,0,2,A,EPL13,EPL17,Norwich,EPL13,Watford,
+E0,2019-11-09,15:00,Newcastle,Bournemouth,2,1,H,EPL12,EPL2,Newcastle upon Tyne,EPL12,AFC Bournemouth,44424.0
+E0,2019-11-09,15:00,Burnley,West Ham,3,0,H,EPL4,EPL18,Burnley,EPL4,West Ham United,20255.0
+E0,2019-11-09,15:00,Tottenham,Sheffield United,1,1,D,EPL16,EPL14,London,EPL16,Sheffield United,59781.0
+E0,2019-11-09,12:30,Chelsea,Crystal Palace,2,0,H,EPL5,EPL6,London,EPL5,Crystal Palace,40525.0
+E0,2019-11-09,15:00,Southampton,Everton,1,2,A,EPL15,EPL7,Southampton,EPL15,Everton,29754.0
+E0,2019-11-09,17:30,Leicester,Arsenal,2,0,H,EPL8,EPL0,Leicester,EPL8,Arsenal,32209.0
+E0,2019-11-10,14:00,Wolves,Aston Villa,2,1,H,EPL19,EPL1,Wolverhampton,EPL19,Aston Villa,31607.0
+E0,2019-11-10,14:00,Man United,Brighton,3,1,H,EPL11,EPL3,Manchester,EPL11,Brighton & Hove Albion,73556.0
+E0,2019-11-10,16:30,Liverpool,Man City,3,1,H,EPL9,EPL10,Liverpool,EPL9,Manchester City,53324.0
+E0,2019-11-23,15:00,Watford,Burnley,0,3,A,EPL17,EPL4,Watford,EPL17,Burnley,19711.0
+E0,2019-11-23,15:00,Bournemouth,Wolves,1,2,A,EPL2,EPL19,Bournemouth,EPL2,Wolverhampton Wanderers,10539.0
+E0,2019-11-23,17:30,Man City,Chelsea,2,1,H,EPL10,EPL5,Manchester,EPL10,Chelsea,54486.0
+E0,2019-11-23,15:00,Everton,Norwich,0,2,A,EPL7,EPL13,Liverpool,EPL7,Norwich City,39241.0
+E0,2019-11-23,15:00,Crystal Palace,Liverpool,1,2,A,EPL6,EPL9,London,EPL6,Liverpool,25486.0
+E0,2019-11-23,12:30,West Ham,Tottenham,2,3,A,EPL18,EPL16,London,EPL18,Tottenham Hotspur,59930.0
+E0,2019-11-23,15:00,Arsenal,Southampton,2,2,D,EPL0,EPL15,London,EPL0,Southampton,60295.0
+E0,2019-11-23,15:00,Brighton,Leicester,0,2,A,EPL3,EPL8,Brighton,EPL3,Leicester City,30640.0
+E0,2019-11-24,16:30,Sheffield United,Man United,3,3,D,EPL14,EPL11,Sheffield,EPL14,Manchester United,32024.0
+E0,2019-11-25,20:00,Aston Villa,Newcastle,2,0,H,EPL1,EPL12,Birmingham,EPL1,Newcastle United,41821.0
+E0,2019-11-30,15:00,Tottenham,Bournemouth,3,2,H,EPL16,EPL2,London,EPL16,AFC Bournemouth,59626.0
+E0,2019-11-30,15:00,Liverpool,Brighton,2,1,H,EPL9,EPL3,Liverpool,EPL9,Brighton & Hove Albion,53319.0
+E0,2019-11-30,17:30,Southampton,Watford,2,1,H,EPL15,EPL17,Southampton,EPL15,Watford,26929.0
+E0,2019-11-30,15:00,Chelsea,West Ham,0,1,A,EPL5,EPL18,London,EPL5,West Ham United,40595.0
+E0,2019-11-30,15:00,Burnley,Crystal Palace,0,2,A,EPL4,EPL6,Burnley,EPL4,Crystal Palace,19818.0
+E0,2019-11-30,12:30,Newcastle,Man City,2,2,D,EPL12,EPL10,Newcastle upon Tyne,EPL12,Manchester City,49937.0
+E0,2019-12-01,14:00,Norwich,Arsenal,2,2,D,EPL13,EPL0,Norwich,EPL13,Arsenal,27067.0
+E0,2019-12-01,16:30,Leicester,Everton,2,1,H,EPL8,EPL7,Leicester,EPL8,Everton,32144.0
+E0,2019-12-01,16:30,Man United,Aston Villa,2,2,D,EPL11,EPL1,Manchester,EPL11,Aston Villa,73381.0
+E0,2019-12-01,14:00,Wolves,Sheffield United,1,1,D,EPL19,EPL14,Wolverhampton,EPL19,Sheffield United,31642.0
+E0,2019-12-03,20:15,Burnley,Man City,1,4,A,EPL4,EPL10,Burnley,EPL4,Manchester City,20101.0
+E0,2019-12-03,19:30,Crystal Palace,Bournemouth,1,0,H,EPL6,EPL2,London,EPL6,AFC Bournemouth,23497.0
+E0,2019-12-04,19:30,Leicester,Watford,2,0,H,EPL8,EPL17,Leicester,EPL8,Watford,31763.0
+E0,2019-12-04,19:30,Wolves,West Ham,2,0,H,EPL19,EPL18,Wolverhampton,EPL19,West Ham United,31217.0
+E0,2019-12-04,19:30,Man United,Tottenham,2,1,H,EPL11,EPL16,Manchester,EPL11,Tottenham Hotspur,73252.0
+E0,2019-12-04,20:15,Liverpool,Everton,5,2,H,EPL9,EPL7,Liverpool,EPL9,Everton,53094.0
+E0,2019-12-04,19:30,Southampton,Norwich,2,1,H,EPL15,EPL13,Southampton,EPL15,Norwich City,27019.0
+E0,2019-12-04,19:30,Chelsea,Aston Villa,2,1,H,EPL5,EPL1,London,EPL5,Aston Villa,40628.0
+E0,2019-12-05,19:30,Sheffield United,Newcastle,0,2,A,EPL14,EPL12,Sheffield,EPL14,Newcastle United,30409.0
+E0,2019-12-05,20:15,Arsenal,Brighton,1,2,A,EPL0,EPL3,London,EPL0,Brighton & Hove Albion,60164.0
+E0,2019-12-07,17:30,Man City,Man United,1,2,A,EPL10,EPL11,Manchester,EPL10,Manchester United,54403.0
+E0,2019-12-07,15:00,Bournemouth,Liverpool,0,3,A,EPL2,EPL9,Bournemouth,EPL2,Liverpool,10832.0
+E0,2019-12-07,12:30,Everton,Chelsea,3,1,H,EPL7,EPL5,Liverpool,EPL7,Chelsea,39114.0
+E0,2019-12-07,15:00,Tottenham,Burnley,5,0,H,EPL16,EPL4,London,EPL16,Burnley,58401.0
+E0,2019-12-07,15:00,Watford,Crystal Palace,0,0,D,EPL17,EPL6,Watford,EPL17,Crystal Palace,20070.0
+E0,2019-12-08,14:00,Aston Villa,Leicester,1,4,A,EPL1,EPL8,Birmingham,EPL1,Leicester City,41908.0
+E0,2019-12-08,14:00,Newcastle,Southampton,2,1,H,EPL12,EPL15,Newcastle upon Tyne,EPL12,Southampton,42303.0
+E0,2019-12-08,16:30,Brighton,Wolves,2,2,D,EPL3,EPL19,Brighton,EPL3,Wolverhampton Wanderers,30189.0
+E0,2019-12-08,14:00,Norwich,Sheffield United,1,2,A,EPL13,EPL14,Norwich,EPL13,Sheffield United,26881.0
+E0,2019-12-09,20:00,West Ham,Arsenal,1,3,A,EPL18,EPL0,London,EPL18,Arsenal,59936.0
+E0,2019-12-14,15:00,Chelsea,Bournemouth,0,1,A,EPL5,EPL2,London,EPL5,AFC Bournemouth,40243.0
+E0,2019-12-14,15:00,Leicester,Norwich,1,1,D,EPL8,EPL13,Leicester,EPL8,Norwich City,32101.0
+E0,2019-12-14,15:00,Sheffield United,Aston Villa,2,0,H,EPL14,EPL1,Sheffield,EPL14,Aston Villa,30396.0
+E0,2019-12-14,15:00,Burnley,Newcastle,1,0,H,EPL4,EPL12,Burnley,EPL4,Newcastle United,19798.0
+E0,2019-12-14,17:30,Southampton,West Ham,0,1,A,EPL15,EPL18,Southampton,EPL15,West Ham United,27701.0
+E0,2019-12-14,12:30,Liverpool,Watford,2,0,H,EPL9,EPL17,Liverpool,EPL9,Watford,
+E0,2019-12-15,16:30,Arsenal,Man City,0,3,A,EPL0,EPL10,London,EPL0,Manchester City,60031.0
+E0,2019-12-15,14:00,Man United,Everton,1,1,D,EPL11,EPL7,Manchester,EPL11,Everton,63328.0
+E0,2019-12-15,14:00,Wolves,Tottenham,1,2,A,EPL19,EPL16,Wolverhampton,EPL19,Tottenham Hotspur,31674.0
+E0,2019-12-16,19:45,Crystal Palace,Brighton,1,1,D,EPL6,EPL3,London,EPL6,Brighton & Hove Albion,24175.0
+E0,2019-12-21,15:00,Bournemouth,Burnley,0,1,A,EPL2,EPL4,Bournemouth,EPL2,Burnley,10020.0
+E0,2019-12-21,12:30,Everton,Arsenal,0,0,D,EPL7,EPL0,Liverpool,EPL7,Arsenal,39336.0
+E0,2019-12-21,15:00,Aston Villa,Southampton,1,3,A,EPL1,EPL15,Birmingham,EPL1,Southampton,41834.0
+E0,2019-12-21,15:00,Brighton,Sheffield United,0,1,A,EPL3,EPL14,Brighton,EPL3,Sheffield United,30505.0
+E0,2019-12-21,17:30,Man City,Leicester,3,1,H,EPL10,EPL8,Manchester,EPL10,Leicester City,54415.0
+E0,2019-12-21,15:00,Newcastle,Crystal Palace,1,0,H,EPL12,EPL6,Newcastle upon Tyne,EPL12,Crystal Palace,45453.0
+E0,2019-12-21,15:00,Norwich,Wolves,1,2,A,EPL13,EPL19,Norwich,EPL13,Wolverhampton Wanderers,27053.0
+E0,2019-12-22,14:00,Watford,Man United,2,0,H,EPL17,EPL11,Watford,EPL17,Manchester United,21488.0
+E0,2019-12-22,16:30,Tottenham,Chelsea,0,2,A,EPL16,EPL5,London,EPL16,Chelsea,61104.0
+E0,2019-12-26,15:00,Chelsea,Southampton,0,2,A,EPL5,EPL15,London,EPL5,Southampton,40651.0
+E0,2019-12-26,15:00,Crystal Palace,West Ham,2,1,H,EPL6,EPL18,London,EPL6,West Ham United,25462.0
+E0,2019-12-26,20:00,Leicester,Liverpool,0,4,A,EPL8,EPL9,Leicester,EPL8,Liverpool,32211.0
+E0,2019-12-26,15:00,Aston Villa,Norwich,1,0,H,EPL1,EPL13,Birmingham,EPL1,Norwich City,41289.0
+E0,2019-12-26,15:00,Bournemouth,Arsenal,1,1,D,EPL2,EPL0,Bournemouth,EPL2,Arsenal,10234.0
+E0,2019-12-26,15:00,Everton,Burnley,1,0,H,EPL7,EPL4,Liverpool,EPL7,Burnley,39177.0
+E0,2019-12-26,15:00,Sheffield United,Watford,1,1,D,EPL14,EPL17,Sheffield,EPL14,Watford,30222.0
+E0,2019-12-26,17:30,Man United,Newcastle,4,1,H,EPL11,EPL12,Manchester,EPL11,Newcastle United,73206.0
+E0,2019-12-26,12:30,Tottenham,Brighton,2,1,H,EPL16,EPL3,London,EPL16,Brighton & Hove Albion,56308.0
+E0,2019-12-27,19:45,Wolves,Man City,3,2,H,EPL19,EPL10,Wolverhampton,EPL19,Manchester City,31737.0
+E0,2019-12-28,15:00,Watford,Aston Villa,3,0,H,EPL17,EPL1,Watford,EPL17,Aston Villa,21348.0
+E0,2019-12-28,17:30,Norwich,Tottenham,2,2,D,EPL13,EPL16,Norwich,EPL13,Tottenham Hotspur,27072.0
+E0,2019-12-28,15:00,Southampton,Crystal Palace,1,1,D,EPL15,EPL6,Southampton,EPL15,Crystal Palace,31108.0
+E0,2019-12-28,12:30,Brighton,Bournemouth,2,0,H,EPL3,EPL2,Brighton,EPL3,AFC Bournemouth,30441.0
+E0,2019-12-28,17:30,West Ham,Leicester,1,2,A,EPL18,EPL8,London,EPL18,Leicester City,59919.0
+E0,2019-12-28,15:00,Newcastle,Everton,1,2,A,EPL12,EPL7,Newcastle upon Tyne,EPL12,Everton,52211.0
+E0,2019-12-28,19:45,Burnley,Man United,0,2,A,EPL4,EPL11,Burnley,EPL4,Manchester United,21924.0
+E0,2019-12-29,16:30,Liverpool,Wolves,1,0,H,EPL9,EPL19,Liverpool,EPL9,Wolverhampton Wanderers,53326.0
+E0,2019-12-29,14:00,Arsenal,Chelsea,1,2,A,EPL0,EPL5,London,EPL0,Chelsea,60309.0
+E0,2019-12-29,18:00,Man City,Sheffield United,2,0,H,EPL10,EPL14,Manchester,EPL10,Sheffield United,54512.0
+E0,2020-01-01,12:30,Brighton,Chelsea,1,1,D,EPL3,EPL5,Brighton,EPL3,Chelsea,30559.0
+E0,2020-01-01,15:00,Watford,Wolves,2,1,H,EPL17,EPL19,Watford,EPL17,Wolverhampton Wanderers,20584.0
+E0,2020-01-01,12:30,Burnley,Aston Villa,1,2,A,EPL4,EPL1,Burnley,EPL4,Aston Villa,19561.0
+E0,2020-01-01,20:00,Arsenal,Man United,2,0,H,EPL0,EPL11,London,EPL0,Manchester United,60328.0
+E0,2020-01-01,17:30,Man City,Everton,2,1,H,EPL10,EPL7,Manchester,EPL10,Everton,54407.0
+E0,2020-01-01,15:00,Newcastle,Leicester,0,3,A,EPL12,EPL8,Newcastle upon Tyne,EPL12,Leicester City,52178.0
+E0,2020-01-01,17:30,Norwich,Crystal Palace,1,1,D,EPL13,EPL6,Norwich,EPL13,Crystal Palace,27021.0
+E0,2020-01-01,17:30,West Ham,Bournemouth,4,0,H,EPL18,EPL2,London,EPL18,AFC Bournemouth,59917.0
+E0,2020-01-01,15:00,Southampton,Tottenham,1,0,H,EPL15,EPL16,Southampton,EPL15,Tottenham Hotspur,30976.0
+E0,2020-01-02,20:00,Liverpool,Sheffield United,2,0,H,EPL9,EPL14,Liverpool,EPL9,Sheffield United,53321.0
+E0,2020-01-10,20:00,Sheffield United,West Ham,1,0,H,EPL14,EPL18,Sheffield,EPL14,West Ham United,30124.0
+E0,2020-01-11,15:00,Chelsea,Burnley,3,0,H,EPL5,EPL4,London,EPL5,Burnley,40396.0
+E0,2020-01-11,15:00,Wolves,Newcastle,1,1,D,EPL19,EPL12,Wolverhampton,EPL19,Newcastle United,31570.0
+E0,2020-01-11,15:00,Leicester,Southampton,1,2,A,EPL8,EPL15,Leicester,EPL8,Southampton,32115.0
+E0,2020-01-11,15:00,Man United,Norwich,4,0,H,EPL11,EPL13,Manchester,EPL11,Norwich City,73271.0
+E0,2020-01-11,15:00,Everton,Brighton,1,0,H,EPL7,EPL3,Liverpool,EPL7,Brighton & Hove Albion,38772.0
+E0,2020-01-11,17:30,Tottenham,Liverpool,0,1,A,EPL16,EPL9,London,EPL16,Liverpool,61023.0
+E0,2020-01-11,12:30,Crystal Palace,Arsenal,1,1,D,EPL6,EPL0,London,EPL6,Arsenal,25468.0
+E0,2020-01-12,16:30,Aston Villa,Man City,1,6,A,EPL1,EPL10,Birmingham,EPL1,Manchester City,41823.0
+E0,2020-01-12,14:00,Bournemouth,Watford,0,3,A,EPL2,EPL17,Bournemouth,EPL2,Watford,10384.0
+E0,2020-01-18,15:00,Man City,Crystal Palace,2,2,D,EPL10,EPL6,Manchester,EPL10,Crystal Palace,54439.0
+E0,2020-01-18,17:30,Newcastle,Chelsea,1,0,H,EPL12,EPL5,Newcastle upon Tyne,EPL12,Chelsea,52217.0
+E0,2020-01-18,15:00,Southampton,Wolves,2,3,A,EPL15,EPL19,Southampton,EPL15,Wolverhampton Wanderers,31152.0
+E0,2020-01-18,12:30,Watford,Tottenham,0,0,D,EPL17,EPL16,Watford,EPL17,Tottenham Hotspur,21366.0
+E0,2020-01-18,15:00,Brighton,Aston Villa,1,1,D,EPL3,EPL1,Brighton,EPL3,Aston Villa,30551.0
+E0,2020-01-18,15:00,West Ham,Everton,1,1,D,EPL18,EPL7,London,EPL18,Everton,59915.0
+E0,2020-01-18,15:00,Arsenal,Sheffield United,1,1,D,EPL0,EPL14,London,EPL0,Sheffield United,60310.0
+E0,2020-01-18,15:00,Norwich,Bournemouth,1,0,H,EPL13,EPL2,Norwich,EPL13,AFC Bournemouth,26781.0
+E0,2020-01-19,14:00,Burnley,Leicester,2,1,H,EPL4,EPL8,Burnley,EPL4,Leicester City,19788.0
+E0,2020-01-19,16:30,Liverpool,Man United,2,0,H,EPL9,EPL11,Liverpool,EPL9,Manchester United,52916.0
+E0,2020-01-21,20:15,Chelsea,Arsenal,2,2,D,EPL5,EPL0,London,EPL5,Arsenal,40577.0
+E0,2020-01-21,19:30,Sheffield United,Man City,0,1,A,EPL14,EPL10,Sheffield,EPL14,Manchester City,31285.0
+E0,2020-01-21,19:30,Everton,Newcastle,2,2,D,EPL7,EPL12,Liverpool,EPL7,Newcastle United,38822.0
+E0,2020-01-21,19:30,Aston Villa,Watford,2,1,H,EPL1,EPL17,Birmingham,EPL1,Watford,40867.0
+E0,2020-01-21,19:30,Crystal Palace,Southampton,0,2,A,EPL6,EPL15,London,EPL6,Southampton,23739.0
+E0,2020-01-21,19:30,Bournemouth,Brighton,3,1,H,EPL2,EPL3,Bournemouth,EPL2,Brighton & Hove Albion,10065.0
+E0,2020-01-22,19:30,Leicester,West Ham,4,1,H,EPL8,EPL18,Leicester,EPL8,West Ham United,31968.0
+E0,2020-01-22,19:30,Tottenham,Norwich,2,1,H,EPL16,EPL13,London,EPL16,Norwich City,58182.0
+E0,2020-01-22,20:15,Man United,Burnley,0,2,A,EPL11,EPL4,Manchester,EPL11,Burnley,73198.0
+E0,2020-01-23,20:00,Wolves,Liverpool,1,2,A,EPL19,EPL9,Wolverhampton,EPL19,Liverpool,31746.0
+E0,2020-01-29,19:45,West Ham,Liverpool,0,2,A,EPL18,EPL9,London,EPL18,Liverpool,59959.0
+E0,2020-02-01,12:30,Leicester,Chelsea,2,2,D,EPL8,EPL5,Leicester,EPL8,Chelsea,32186.0
+E0,2020-02-01,15:00,Newcastle,Norwich,0,0,D,EPL12,EPL13,Newcastle upon Tyne,EPL12,Norwich City,52204.0
+E0,2020-02-01,15:00,Crystal Palace,Sheffield United,0,1,A,EPL6,EPL14,London,EPL6,Sheffield United,25170.0
+E0,2020-02-01,15:00,Liverpool,Southampton,4,0,H,EPL9,EPL15,Liverpool,EPL9,Southampton,53291.0
+E0,2020-02-01,15:00,Bournemouth,Aston Villa,2,1,H,EPL2,EPL1,Bournemouth,EPL2,Aston Villa,10722.0
+E0,2020-02-01,17:30,Man United,Wolves,0,0,D,EPL11,EPL19,Manchester,EPL11,Wolverhampton Wanderers,73363.0
+E0,2020-02-01,15:00,Watford,Everton,2,3,A,EPL17,EPL7,Watford,EPL17,Everton,21229.0
+E0,2020-02-01,15:00,West Ham,Brighton,3,3,D,EPL18,EPL3,London,EPL18,Brighton & Hove Albion,59952.0
+E0,2020-02-02,14:00,Burnley,Arsenal,0,0,D,EPL4,EPL0,Burnley,EPL4,Arsenal,21048.0
+E0,2020-02-02,16:30,Tottenham,Man City,2,0,H,EPL16,EPL10,London,EPL16,Manchester City,61022.0
+E0,2020-02-08,17:30,Brighton,Watford,1,1,D,EPL3,EPL17,Brighton,EPL3,Watford,30443.0
+E0,2020-02-08,12:30,Everton,Crystal Palace,3,1,H,EPL7,EPL6,Liverpool,EPL7,Crystal Palace,38987.0
+E0,2020-02-09,14:00,Sheffield United,Bournemouth,2,1,H,EPL14,EPL2,Sheffield,EPL14,AFC Bournemouth,30361.0
+E0,2020-02-14,20:00,Wolves,Leicester,0,0,D,EPL19,EPL8,Wolverhampton,EPL19,Leicester City,31682.0
+E0,2020-02-15,12:30,Southampton,Burnley,1,2,A,EPL15,EPL4,Southampton,EPL15,Burnley,26302.0
+E0,2020-02-15,17:30,Norwich,Liverpool,0,1,A,EPL13,EPL9,Norwich,EPL13,Liverpool,27110.0
+E0,2020-02-16,16:30,Arsenal,Newcastle,4,0,H,EPL0,EPL12,London,EPL0,Newcastle United,60188.0
+E0,2020-02-16,14:00,Aston Villa,Tottenham,2,3,A,EPL1,EPL16,Birmingham,EPL1,Tottenham Hotspur,41874.0
+E0,2020-02-17,20:00,Chelsea,Man United,0,2,A,EPL5,EPL11,London,EPL5,Manchester United,40504.0
+E0,2020-02-19,19:30,Man City,West Ham,2,0,H,EPL10,EPL18,Manchester,EPL10,West Ham United,
+E0,2020-02-22,17:30,Leicester,Man City,0,1,A,EPL8,EPL10,Leicester,EPL8,Manchester City,32068.0
+E0,2020-02-22,15:00,Crystal Palace,Newcastle,1,0,H,EPL6,EPL12,London,EPL6,Newcastle United,25486.0
+E0,2020-02-22,15:00,Burnley,Bournemouth,3,0,H,EPL4,EPL2,Burnley,EPL4,AFC Bournemouth,18227.0
+E0,2020-02-22,15:00,Southampton,Aston Villa,2,0,H,EPL15,EPL1,Southampton,EPL15,Aston Villa,31478.0
+E0,2020-02-22,15:00,Sheffield United,Brighton,1,1,D,EPL14,EPL3,Sheffield,EPL14,Brighton & Hove Albion,31888.0
+E0,2020-02-22,12:30,Chelsea,Tottenham,2,1,H,EPL5,EPL16,London,EPL5,Tottenham Hotspur,40608.0
+E0,2020-02-23,14:00,Man United,Watford,3,0,H,EPL11,EPL17,Manchester,EPL11,Watford,73347.0
+E0,2020-02-23,14:00,Wolves,Norwich,3,0,H,EPL19,EPL13,Wolverhampton,EPL19,Norwich City,31046.0
+E0,2020-02-23,16:30,Arsenal,Everton,3,2,H,EPL0,EPL7,London,EPL0,Everton,60296.0
+E0,2020-02-24,20:00,Liverpool,West Ham,3,2,H,EPL9,EPL18,Liverpool,EPL9,West Ham United,53313.0
+E0,2020-02-28,20:00,Norwich,Leicester,1,0,H,EPL13,EPL8,Norwich,EPL13,Leicester City,27010.0
+E0,2020-02-29,15:00,Bournemouth,Chelsea,2,2,D,EPL2,EPL5,Bournemouth,EPL2,Chelsea,10667.0
+E0,2020-02-29,15:00,Newcastle,Burnley,0,0,D,EPL12,EPL4,Newcastle upon Tyne,EPL12,Burnley,52219.0
+E0,2020-02-29,12:30,Brighton,Crystal Palace,0,1,A,EPL3,EPL6,Brighton,EPL3,Crystal Palace,
+E0,2020-02-29,17:30,Watford,Liverpool,3,0,H,EPL17,EPL9,Watford,EPL17,Liverpool,21634.0
+E0,2020-02-29,15:00,West Ham,Southampton,3,1,H,EPL18,EPL15,London,EPL18,Southampton,59962.0
+E0,2020-03-01,14:00,Everton,Man United,1,1,D,EPL7,EPL11,Liverpool,EPL7,Manchester United,39374.0
+E0,2020-03-01,14:00,Tottenham,Wolves,2,3,A,EPL16,EPL19,London,EPL16,Wolverhampton Wanderers,58064.0
+E0,2020-03-07,15:00,Southampton,Newcastle,0,1,A,EPL15,EPL12,Southampton,EPL15,Newcastle United,30096.0
+E0,2020-03-07,12:30,Liverpool,Bournemouth,2,1,H,EPL9,EPL2,Liverpool,EPL9,AFC Bournemouth,53323.0
+E0,2020-03-07,17:30,Burnley,Tottenham,1,1,D,EPL4,EPL16,Burnley,EPL4,Tottenham Hotspur,20496.0
+E0,2020-03-07,15:00,Wolves,Brighton,0,0,D,EPL19,EPL3,Wolverhampton,EPL19,Brighton & Hove Albion,31490.0
+E0,2020-03-07,15:00,Crystal Palace,Watford,1,0,H,EPL6,EPL17,London,EPL6,Watford,25461.0
+E0,2020-03-07,15:00,Sheffield United,Norwich,1,0,H,EPL14,EPL13,Sheffield,EPL14,Norwich City,31379.0
+E0,2020-03-07,15:00,Arsenal,West Ham,1,0,H,EPL0,EPL18,London,EPL0,West Ham United,60335.0
+E0,2020-03-08,14:00,Chelsea,Everton,4,0,H,EPL5,EPL7,London,EPL5,Everton,40694.0
+E0,2020-03-08,16:30,Man United,Man City,2,0,H,EPL11,EPL10,Manchester,EPL11,Manchester City,73288.0
+E0,2020-03-09,20:00,Leicester,Aston Villa,4,0,H,EPL8,EPL1,Leicester,EPL8,Aston Villa,32125.0
+E0,2020-06-17,20:15,Man City,Arsenal,3,0,H,EPL10,EPL0,Manchester,EPL10,Arsenal,
+E0,2020-06-17,18:00,Aston Villa,Sheffield United,0,0,D,EPL1,EPL14,Birmingham,EPL1,Sheffield United,
+E0,2020-06-19,18:00,Norwich,Southampton,0,3,A,EPL13,EPL15,Norwich,EPL13,Southampton,
+E0,2020-06-19,20:15,Tottenham,Man United,1,1,D,EPL16,EPL11,London,EPL16,Manchester United,
+E0,2020-06-20,17:30,West Ham,Wolves,0,2,A,EPL18,EPL19,London,EPL18,Wolverhampton Wanderers,
+E0,2020-06-20,19:45,Bournemouth,Crystal Palace,0,2,A,EPL2,EPL6,Bournemouth,EPL2,Crystal Palace,
+E0,2020-06-20,12:30,Watford,Leicester,1,1,D,EPL17,EPL8,Watford,EPL17,Leicester City,
+E0,2020-06-20,15:00,Brighton,Arsenal,2,1,H,EPL3,EPL0,Brighton,EPL3,Arsenal,
+E0,2020-06-21,19:00,Everton,Liverpool,0,0,D,EPL7,EPL9,Liverpool,EPL7,Liverpool,
+E0,2020-06-21,16:15,Aston Villa,Chelsea,1,2,A,EPL1,EPL5,Birmingham,EPL1,Chelsea,
+E0,2020-06-21,14:00,Newcastle,Sheffield United,3,0,H,EPL12,EPL14,Newcastle upon Tyne,EPL12,Sheffield United,
+E0,2020-06-22,20:00,Man City,Burnley,5,0,H,EPL10,EPL4,Manchester,EPL10,Burnley,
+E0,2020-06-23,18:00,Leicester,Brighton,0,0,D,EPL8,EPL3,Leicester,EPL8,Brighton & Hove Albion,
+E0,2020-06-23,20:15,Tottenham,West Ham,2,0,H,EPL16,EPL18,London,EPL16,West Ham United,
+E0,2020-06-24,20:15,Liverpool,Crystal Palace,4,0,H,EPL9,EPL6,Liverpool,EPL9,Crystal Palace,
+E0,2020-06-24,18:00,Norwich,Everton,0,1,A,EPL13,EPL7,Norwich,EPL13,Everton,
+E0,2020-06-24,18:00,Wolves,Bournemouth,1,0,H,EPL19,EPL2,Wolverhampton,EPL19,AFC Bournemouth,
+E0,2020-06-24,18:00,Newcastle,Aston Villa,1,1,D,EPL12,EPL1,Newcastle upon Tyne,EPL12,Aston Villa,
+E0,2020-06-24,18:00,Man United,Sheffield United,3,0,H,EPL11,EPL14,Manchester,EPL11,Sheffield United,
+E0,2020-06-25,18:00,Burnley,Watford,1,0,H,EPL4,EPL17,Burnley,EPL4,Watford,
+E0,2020-06-25,20:15,Chelsea,Man City,2,1,H,EPL5,EPL10,London,EPL5,Manchester City,
+E0,2020-06-25,18:00,Southampton,Arsenal,0,2,A,EPL15,EPL0,Southampton,EPL15,Arsenal,
+E0,2020-06-27,12:30,Aston Villa,Wolves,0,1,A,EPL1,EPL19,Birmingham,EPL1,Wolverhampton Wanderers,
+E0,2020-06-28,16:30,Watford,Southampton,1,3,A,EPL17,EPL15,Watford,EPL17,Southampton,
+E0,2020-06-29,20:00,Crystal Palace,Burnley,0,1,A,EPL6,EPL4,London,EPL6,Burnley,
+E0,2020-06-30,20:15,Brighton,Man United,0,3,A,EPL3,EPL11,Brighton,EPL3,Manchester United,
+E0,2020-07-01,18:00,Everton,Leicester,2,1,H,EPL7,EPL8,Liverpool,EPL7,Leicester City,
+E0,2020-07-01,18:00,Bournemouth,Newcastle,1,4,A,EPL2,EPL12,Bournemouth,EPL2,Newcastle United,
+E0,2020-07-01,18:00,Arsenal,Norwich,4,0,H,EPL0,EPL13,London,EPL0,Norwich City,
+E0,2020-07-01,20:15,West Ham,Chelsea,3,2,H,EPL18,EPL5,London,EPL18,Chelsea,
+E0,2020-07-02,18:00,Sheffield United,Tottenham,3,1,H,EPL14,EPL16,Sheffield,EPL14,Tottenham Hotspur,
+E0,2020-07-02,20:15,Man City,Liverpool,4,0,H,EPL10,EPL9,Manchester,EPL10,Liverpool,
+E0,2020-07-04,17:30,Wolves,Arsenal,0,2,A,EPL19,EPL0,Wolverhampton,EPL19,Arsenal,
+E0,2020-07-04,20:00,Chelsea,Watford,3,0,H,EPL5,EPL17,London,EPL5,Watford,
+E0,2020-07-04,12:30,Norwich,Brighton,0,1,A,EPL13,EPL3,Norwich,EPL13,Brighton & Hove Albion,
+E0,2020-07-04,15:00,Man United,Bournemouth,5,2,H,EPL11,EPL2,Manchester,EPL11,AFC Bournemouth,
+E0,2020-07-04,15:00,Leicester,Crystal Palace,3,0,H,EPL8,EPL6,Leicester,EPL8,Crystal Palace,
+E0,2020-07-05,16:30,Liverpool,Aston Villa,2,0,H,EPL9,EPL1,Liverpool,EPL9,Aston Villa,
+E0,2020-07-05,14:15,Newcastle,West Ham,2,2,D,EPL12,EPL18,Newcastle upon Tyne,EPL12,West Ham United,
+E0,2020-07-05,19:00,Southampton,Man City,1,0,H,EPL15,EPL10,Southampton,EPL15,Manchester City,
+E0,2020-07-05,12:00,Burnley,Sheffield United,1,1,D,EPL4,EPL14,Burnley,EPL4,Sheffield United,
+E0,2020-07-06,20:00,Tottenham,Everton,1,0,H,EPL16,EPL7,London,EPL16,Everton,
+E0,2020-07-07,18:00,Crystal Palace,Chelsea,2,3,A,EPL6,EPL5,London,EPL6,Chelsea,
+E0,2020-07-07,18:00,Watford,Norwich,2,1,H,EPL17,EPL13,Watford,EPL17,Norwich City,
+E0,2020-07-07,20:15,Arsenal,Leicester,1,1,D,EPL0,EPL8,London,EPL0,Leicester City,
+E0,2020-07-08,18:00,West Ham,Burnley,0,1,A,EPL18,EPL4,London,EPL18,Burnley,
+E0,2020-07-08,18:00,Man City,Newcastle,5,0,H,EPL10,EPL12,Manchester,EPL10,Newcastle United,
+E0,2020-07-08,20:15,Brighton,Liverpool,1,3,A,EPL3,EPL9,Brighton,EPL3,Liverpool,
+E0,2020-07-08,18:00,Sheffield United,Wolves,1,0,H,EPL14,EPL19,Sheffield,EPL14,Wolverhampton Wanderers,
+E0,2020-07-09,20:15,Aston Villa,Man United,0,3,A,EPL1,EPL11,Birmingham,EPL1,Manchester United,
+E0,2020-07-09,18:00,Everton,Southampton,1,1,D,EPL7,EPL15,Liverpool,EPL7,Southampton,
+E0,2020-07-09,18:00,Bournemouth,Tottenham,0,0,D,EPL2,EPL16,Bournemouth,EPL2,Tottenham Hotspur,
+E0,2020-07-11,15:00,Liverpool,Burnley,1,1,D,EPL9,EPL4,Liverpool,EPL9,Burnley,
+E0,2020-07-11,12:30,Norwich,West Ham,0,4,A,EPL13,EPL18,Norwich,EPL13,West Ham United,
+E0,2020-07-11,20:00,Brighton,Man City,0,5,A,EPL3,EPL10,Brighton,EPL3,Manchester City,
+E0,2020-07-11,12:30,Watford,Newcastle,2,1,H,EPL17,EPL12,Watford,EPL17,Newcastle United,
+E0,2020-07-11,17:30,Sheffield United,Chelsea,3,0,H,EPL14,EPL5,Sheffield,EPL14,Chelsea,
+E0,2020-07-12,14:15,Aston Villa,Crystal Palace,2,0,H,EPL1,EPL6,Birmingham,EPL1,Crystal Palace,
+E0,2020-07-12,12:00,Wolves,Everton,3,0,H,EPL19,EPL7,Wolverhampton,EPL19,Everton,
+E0,2020-07-12,19:00,Bournemouth,Leicester,4,1,H,EPL2,EPL8,Bournemouth,EPL2,Leicester City,
+E0,2020-07-12,16:30,Tottenham,Arsenal,2,1,H,EPL16,EPL0,London,EPL16,Arsenal,
+E0,2020-07-13,20:00,Man United,Southampton,2,2,D,EPL11,EPL15,Manchester,EPL11,Southampton,
