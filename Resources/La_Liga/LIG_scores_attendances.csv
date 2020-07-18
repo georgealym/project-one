@@ -1,0 +1,361 @@
+Div,Date,Time,HomeTeam,AwayTeam,HomeScore,AwayScore,Result,HomeTeam ID,AwayTeam ID,City,Team ID,Opponent,Attendance
+SP1,2019-08-16,20:00,Ath Bilbao,Barcelona,1,0,H,LIG1,LIG3,Bilbao,LIG1,Barcelona,"47,693"
+SP1,2019-08-17,19:00,Mallorca,Eibar,2,1,H,LIG12,LIG6,Palma,LIG12,Eibar,"15,127"
+SP1,2019-08-17,20:00,Leganes,Osasuna,0,1,A,LIG10,LIG13,Leganes,LIG10,Osasuna,"10,020"
+SP1,2019-08-17,18:00,Valencia,Sociedad,1,1,D,LIG17,LIG16,Valencia,LIG17,Real Sociedad,"41,846"
+SP1,2019-08-17,20:00,Villarreal,Granada,4,4,D,LIG19,LIG9,Villarreal,LIG19,Granada,"14,753"
+SP1,2019-08-17,16:00,Celta,Real Madrid,1,3,A,LIG5,LIG14,Vigo,LIG5,Real Madrid,"23,566"
+SP1,2019-08-18,21:00,Ath Madrid,Getafe,1,0,H,LIG2,LIG8,Madrid,LIG2,Getafe,"55,099"
+SP1,2019-08-18,20:00,Betis,Valladolid,1,2,A,LIG4,LIG18,Seville,LIG4,Real Valladolid,"51,497"
+SP1,2019-08-18,16:00,Alaves,Levante,1,0,H,LIG0,LIG11,Vitoria-Gasteiz,LIG0,Levante,"12,029"
+SP1,2019-08-18,18:00,Espanol,Sevilla,0,2,A,LIG7,LIG15,Barcelona,LIG7,Sevilla,"19,832"
+SP1,2019-08-23,19:00,Granada,Sevilla,0,1,A,LIG9,LIG15,Granada,LIG9,Sevilla,"15,849"
+SP1,2019-08-23,21:00,Levante,Villarreal,2,1,H,LIG11,LIG19,Valencia,LIG11,Villarreal,"20,240"
+SP1,2019-08-24,20:00,Celta,Valencia,1,0,H,LIG5,LIG17,Vigo,LIG5,Valencia,"20,034"
+SP1,2019-08-24,16:00,Osasuna,Eibar,0,0,D,LIG13,LIG6,Pamplona,LIG13,Eibar,"13,978"
+SP1,2019-08-24,18:00,Real Madrid,Valladolid,1,1,D,LIG14,LIG18,Madrid,LIG14,Real Valladolid,"63,037"
+SP1,2019-08-24,20:00,Getafe,Ath Bilbao,1,1,D,LIG8,LIG1,Getafe,LIG8,Athletic Bilbao,"10,103"
+SP1,2019-08-25,16:00,Mallorca,Sociedad,0,1,A,LIG12,LIG16,Palma,LIG12,Real Sociedad,"18,028"
+SP1,2019-08-25,16:00,Alaves,Espanol,0,0,D,LIG0,LIG7,Vitoria-Gasteiz,LIG0,Espanyol,"14,567"
+SP1,2019-08-25,20:00,Barcelona,Betis,5,2,H,LIG3,LIG4,Barcelona,LIG3,Real Betis,"79,159"
+SP1,2019-08-25,18:00,Leganes,Ath Madrid,0,1,A,LIG10,LIG2,Leganes,LIG10,Atlético Madrid,"11,742"
+SP1,2019-08-30,19:00,Sevilla,Celta,1,1,D,LIG15,LIG5,Seville,LIG15,Celta Vigo,"37,787"
+SP1,2019-08-30,21:00,Ath Bilbao,Sociedad,2,0,H,LIG1,LIG16,Bilbao,LIG1,Real Sociedad,"46,697"
+SP1,2019-08-31,16:00,Osasuna,Barcelona,2,2,D,LIG13,LIG3,Pamplona,LIG13,Barcelona,"16,742"
+SP1,2019-08-31,20:00,Betis,Leganes,2,1,H,LIG4,LIG10,Seville,LIG4,LeganÃ©s,"47,819"
+SP1,2019-08-31,18:00,Getafe,Alaves,1,1,D,LIG8,LIG0,Getafe,LIG8,Alavés,"10,806"
+SP1,2019-08-31,18:00,Levante,Valladolid,2,0,H,LIG11,LIG18,Valencia,LIG11,Real Valladolid,"19,347"
+SP1,2019-09-01,20:00,Villarreal,Real Madrid,2,2,D,LIG19,LIG14,Villarreal,LIG19,Real Madrid,"20,128"
+SP1,2019-09-01,18:00,Ath Madrid,Eibar,3,2,H,LIG2,LIG6,Madrid,LIG2,Eibar,"56,664"
+SP1,2019-09-01,16:00,Valencia,Mallorca,2,0,H,LIG17,LIG12,Valencia,LIG17,Mallorca,"40,441"
+SP1,2019-09-01,18:00,Espanol,Granada,0,3,A,LIG7,LIG9,Barcelona,LIG7,Granada,"20,870"
+SP1,2019-09-13,20:00,Mallorca,Ath Bilbao,0,0,D,LIG12,LIG1,Palma,LIG12,Athletic Bilbao,"16,390"
+SP1,2019-09-14,15:00,Leganes,Villarreal,0,3,A,LIG10,LIG19,Leganes,LIG10,Villarreal,"7,670"
+SP1,2019-09-14,17:30,Sociedad,Ath Madrid,2,0,H,LIG16,LIG2,San Sebastian,LIG16,AtlÃ©tico Madrid,"34,719"
+SP1,2019-09-14,20:00,Barcelona,Valencia,5,2,H,LIG3,LIG17,Barcelona,LIG3,Valencia,"81,617"
+SP1,2019-09-14,12:00,Real Madrid,Levante,3,2,H,LIG14,LIG11,Madrid,LIG14,Levante,"60,401"
+SP1,2019-09-15,15:00,Celta,Granada,0,2,A,LIG5,LIG9,Vigo,LIG5,Granada,"18,259"
+SP1,2019-09-15,20:00,Betis,Getafe,1,1,D,LIG4,LIG8,Getafe,LIG4,Getafe,"47,884"
+SP1,2019-09-15,17:30,Valladolid,Osasuna,1,1,D,LIG18,LIG13,Valladolid,LIG18,Osasuna,"20,670"
+SP1,2019-09-15,11:00,Eibar,Espanol,1,2,A,LIG6,LIG7,Eibar,LIG6,Espanyol,"5,410"
+SP1,2019-09-15,13:00,Alaves,Sevilla,0,1,A,LIG0,LIG15,Vitoria-Gasteiz,LIG0,Sevilla,"16,309"
+SP1,2019-09-20,20:00,Osasuna,Betis,0,0,D,LIG13,LIG4,Pamplona,LIG13,Real Betis,"15,569"
+SP1,2019-09-21,17:30,Ath Madrid,Celta,0,0,D,LIG2,LIG5,Madrid,LIG2,Celta Vigo,"57,701"
+SP1,2019-09-21,12:00,Villarreal,Valladolid,2,0,H,LIG19,LIG18,Villarreal,LIG19,Real Valladolid,"16,195"
+SP1,2019-09-21,20:00,Granada,Barcelona,2,0,H,LIG9,LIG3,Granada,LIG9,Barcelona,"18,880"
+SP1,2019-09-21,15:00,Levante,Eibar,0,0,D,LIG11,LIG6,Valencia,LIG11,Eibar,"18,904"
+SP1,2019-09-22,15:00,Valencia,Leganes,1,1,D,LIG17,LIG10,Valencia,LIG17,Leganés,"39,014"
+SP1,2019-09-22,20:00,Sevilla,Real Madrid,0,1,A,LIG15,LIG14,Seville,LIG15,Real Madrid,"42,354"
+SP1,2019-09-22,13:00,Espanol,Sociedad,1,3,A,LIG7,LIG16,Barcelona,LIG7,Real Sociedad,"19,173"
+SP1,2019-09-22,11:00,Getafe,Mallorca,4,2,H,LIG8,LIG12,Getafe,LIG8,Mallorca,"11,338"
+SP1,2019-09-22,17:30,Ath Bilbao,Alaves,2,0,H,LIG1,LIG0,Bilbao,LIG1,AlavÃ©s,"45,143"
+SP1,2019-09-24,18:00,Valladolid,Granada,1,1,D,LIG18,LIG9,Valladolid,LIG18,Granada,"18,410"
+SP1,2019-09-24,20:00,Barcelona,Villarreal,2,1,H,LIG3,LIG19,Barcelona,LIG3,Villarreal,"70,316"
+SP1,2019-09-24,19:00,Betis,Levante,3,1,H,LIG4,LIG11,Seville,LIG4,Levante,"44,560"
+SP1,2019-09-25,18:00,Leganes,Ath Bilbao,1,1,D,LIG10,LIG1,Leganes,LIG10,Athletic Bilbao,"11,036"
+SP1,2019-09-25,19:00,Valencia,Getafe,3,3,D,LIG17,LIG8,Valencia,LIG17,Getafe,"37,814"
+SP1,2019-09-25,20:00,Real Madrid,Osasuna,2,0,H,LIG14,LIG13,Madrid,LIG14,Osasuna,"57,520"
+SP1,2019-09-25,18:00,Mallorca,Ath Madrid,0,2,A,LIG12,LIG2,Palma,LIG12,Atlético Madrid,"19,348"
+SP1,2019-09-26,18:00,Eibar,Sevilla,3,2,H,LIG6,LIG15,Eibar,LIG6,Sevilla,"5,434"
+SP1,2019-09-26,19:00,Celta,Espanol,1,1,D,LIG5,LIG7,Vigo,LIG5,Espanyol,"16,361"
+SP1,2019-09-26,20:00,Sociedad,Alaves,3,0,H,LIG16,LIG0,San Sebastian,LIG16,AlavÃ©s,"28,720"
+SP1,2019-09-27,20:00,Villarreal,Betis,5,1,H,LIG19,LIG4,Villarreal,LIG19,Real Betis,"18,135"
+SP1,2019-09-28,20:00,Ath Madrid,Real Madrid,0,0,D,LIG2,LIG14,Madrid,LIG2,Real Madrid,"68,032"
+SP1,2019-09-28,15:00,Getafe,Barcelona,0,2,A,LIG8,LIG3,Getafe,LIG8,Barcelona,"15,135"
+SP1,2019-09-28,17:30,Granada,Leganes,1,0,H,LIG9,LIG10,Granada,LIG9,Leganés,"15,519"
+SP1,2019-09-28,12:00,Ath Bilbao,Valencia,0,1,A,LIG1,LIG17,Bilbao,LIG1,Valencia,"42,420"
+SP1,2019-09-29,11:00,Espanol,Valladolid,0,2,A,LIG7,LIG18,Barcelona,LIG7,Real Valladolid,"20,911"
+SP1,2019-09-29,15:00,Alaves,Mallorca,2,0,H,LIG0,LIG12,Vitoria-Gasteiz,LIG0,Mallorca,"17,135"
+SP1,2019-09-29,13:00,Eibar,Celta,2,0,H,LIG6,LIG5,Eibar,LIG6,Celta Vigo,"5,453"
+SP1,2019-09-29,20:00,Sevilla,Sociedad,3,2,H,LIG15,LIG16,Seville,LIG15,Real Sociedad,"37,414"
+SP1,2019-09-29,17:30,Levante,Osasuna,1,1,D,LIG11,LIG13,Valencia,LIG11,Osasuna,"19,362"
+SP1,2019-10-04,20:00,Betis,Eibar,1,1,D,LIG4,LIG6,Seville,LIG4,Eibar,"47,056"
+SP1,2019-10-05,12:00,Leganes,Levante,1,2,A,LIG10,LIG11,Leganes,LIG10,Levante,"10,160"
+SP1,2019-10-05,17:30,Valencia,Alaves,2,1,H,LIG17,LIG0,Valencia,LIG17,Alavés,"38,943"
+SP1,2019-10-05,15:00,Real Madrid,Granada,4,2,H,LIG14,LIG9,Madrid,LIG14,Granada,"70,315"
+SP1,2019-10-05,20:00,Osasuna,Villarreal,2,1,H,LIG13,LIG19,Pamplona,LIG13,Villarreal,"15,349"
+SP1,2019-10-06,17:30,Sociedad,Getafe,1,2,A,LIG16,LIG8,San Sebastian,LIG16,Getafe,"30,153"
+SP1,2019-10-06,15:00,Valladolid,Ath Madrid,0,0,D,LIG18,LIG2,Valladolid,LIG18,AtlÃ©tico Madrid,"23,650"
+SP1,2019-10-06,11:00,Mallorca,Espanol,2,0,H,LIG12,LIG7,Palma,LIG12,Espanyol,"15,052"
+SP1,2019-10-06,20:00,Barcelona,Sevilla,4,0,H,LIG3,LIG15,Barcelona,LIG3,Sevilla,"81,331"
+SP1,2019-10-06,13:00,Celta,Ath Bilbao,1,0,H,LIG5,LIG1,Vigo,LIG5,Athletic Bilbao,"19,690"
+SP1,2019-10-18,20:00,Granada,Osasuna,1,0,H,LIG9,LIG13,Granada,LIG9,Osasuna,"16,986"
+SP1,2019-10-19,12:00,Eibar,Barcelona,0,3,A,LIG6,LIG3,Eibar,LIG6,Barcelona,"7,295"
+SP1,2019-10-19,20:00,Mallorca,Real Madrid,1,0,H,LIG12,LIG14,Palma,LIG12,Real Madrid,"20,275"
+SP1,2019-10-19,17:30,Getafe,Leganes,2,0,H,LIG8,LIG10,Getafe,LIG8,Leganés,"13,018"
+SP1,2019-10-19,15:00,Ath Madrid,Valencia,1,1,D,LIG2,LIG17,Madrid,LIG2,Valencia,"61,603"
+SP1,2019-10-20,15:00,Espanol,Villarreal,0,1,A,LIG7,LIG19,Barcelona,LIG7,Villarreal,"20,653"
+SP1,2019-10-20,20:00,Sevilla,Levante,1,0,H,LIG15,LIG11,Seville,LIG15,Levante,"34,612"
+SP1,2019-10-20,17:30,Ath Bilbao,Valladolid,1,1,D,LIG1,LIG18,Bilbao,LIG1,Real Valladolid,"37,107"
+SP1,2019-10-20,13:00,Sociedad,Betis,3,1,H,LIG16,LIG4,San Sebastian,LIG16,Real Betis,"28,032"
+SP1,2019-10-20,11:00,Alaves,Celta,2,0,H,LIG0,LIG5,Vitoria-Gasteiz,LIG0,Celta Vigo,"16,584"
+SP1,2019-10-25,20:00,Villarreal,Alaves,4,1,H,LIG19,LIG0,Villarreal,LIG19,Alavés,"16,049"
+SP1,2019-10-26,20:00,Ath Madrid,Ath Bilbao,2,0,H,LIG2,LIG1,Madrid,LIG2,Athletic Bilbao,"59,211"
+SP1,2019-10-26,17:30,Valladolid,Eibar,2,0,H,LIG18,LIG6,Valladolid,LIG18,Eibar,"20,036"
+SP1,2019-10-26,15:00,Leganes,Mallorca,1,0,H,LIG10,LIG12,Leganes,LIG10,Mallorca,"10,058"
+SP1,2019-10-27,11:00,Celta,Sociedad,0,1,A,LIG5,LIG16,Vigo,LIG5,Real Sociedad,"18,002"
+SP1,2019-10-27,20:00,Osasuna,Valencia,3,1,H,LIG13,LIG17,Pamplona,LIG13,Valencia,"14,976"
+SP1,2019-10-27,15:00,Levante,Espanol,0,1,A,LIG11,LIG7,Valencia,LIG11,Espanyol,"18,934"
+SP1,2019-10-27,17:30,Sevilla,Getafe,2,0,H,LIG15,LIG8,Seville,LIG15,Getafe,"38,181"
+SP1,2019-10-27,13:00,Granada,Betis,1,0,H,LIG9,LIG4,Granada,LIG9,Real Betis,"18,985"
+SP1,2019-10-29,20:15,Barcelona,Valladolid,5,1,H,LIG3,LIG18,Barcelona,LIG3,Real Valladolid,"59,896"
+SP1,2019-10-29,18:00,Alaves,Ath Madrid,1,1,D,LIG0,LIG2,Vitoria-Gasteiz,LIG0,Atlético Madrid,"17,235"
+SP1,2019-10-30,18:00,Sociedad,Levante,1,2,A,LIG16,LIG11,San Sebastian,LIG16,Levante,
+SP1,2019-10-30,18:00,Valencia,Sevilla,1,1,D,LIG17,LIG15,Valencia,LIG17,Sevilla,
+SP1,2019-10-30,20:00,Betis,Celta,2,1,H,LIG4,LIG5,Seville,LIG4,Celta Vigo,
+SP1,2019-10-30,20:15,Real Madrid,Leganes,5,0,H,LIG14,LIG10,Madrid,LIG14,Leganés,
+SP1,2019-10-30,19:00,Ath Bilbao,Espanol,3,0,H,LIG1,LIG7,Bilbao,LIG1,Espanyol,
+SP1,2019-10-31,18:00,Mallorca,Osasuna,2,2,D,LIG12,LIG13,Palma,LIG12,Osasuna,"12,641"
+SP1,2019-10-31,18:00,Eibar,Villarreal,2,1,H,LIG6,LIG19,Eibar,LIG6,Villarreal,"5,583"
+SP1,2019-10-31,20:15,Getafe,Granada,3,1,H,LIG8,LIG9,Getafe,LIG8,Granada,"10,227"
+SP1,2019-11-02,12:00,Espanol,Valencia,1,2,A,LIG7,LIG17,Barcelona,LIG7,Valencia,"18,428"
+SP1,2019-11-02,20:00,Real Madrid,Betis,0,0,D,LIG14,LIG4,Madrid,LIG14,Real Betis,"70,375"
+SP1,2019-11-02,17:30,Sevilla,Ath Madrid,1,1,D,LIG15,LIG2,Seville,LIG15,Atlético Madrid,"39,957"
+SP1,2019-11-02,15:00,Levante,Barcelona,3,1,H,LIG11,LIG3,Valencia,LIG11,Barcelona,"23,341"
+SP1,2019-11-03,17:30,Leganes,Eibar,1,2,A,LIG10,LIG6,Leganes,LIG10,Eibar,"9,649"
+SP1,2019-11-03,15:00,Osasuna,Alaves,4,2,H,LIG13,LIG0,Pamplona,LIG13,Alavés,"15,954"
+SP1,2019-11-03,11:00,Valladolid,Mallorca,3,0,H,LIG18,LIG12,Valladolid,LIG18,Mallorca,"18,419"
+SP1,2019-11-03,17:30,Celta,Getafe,0,1,A,LIG5,LIG8,Vigo,LIG5,Getafe,"14,704"
+SP1,2019-11-03,13:00,Villarreal,Ath Bilbao,0,0,D,LIG19,LIG1,Villarreal,LIG19,Athletic Bilbao,"17,460"
+SP1,2019-11-03,20:00,Granada,Sociedad,1,2,A,LIG9,LIG16,Granada,LIG9,Real Sociedad,"16,898"
+SP1,2019-11-08,20:00,Sociedad,Leganes,1,1,D,LIG16,LIG10,San Sebastian,LIG16,LeganÃ©s,"27,684"
+SP1,2019-11-09,12:00,Alaves,Valladolid,3,0,H,LIG0,LIG18,Vitoria-Gasteiz,LIG0,Real Valladolid,"16,148"
+SP1,2019-11-09,17:30,Eibar,Real Madrid,0,4,A,LIG6,LIG14,Eibar,LIG6,Real Madrid,"7,045"
+SP1,2019-11-09,20:00,Barcelona,Celta,4,1,H,LIG3,LIG5,Barcelona,LIG3,Celta Vigo,"71,209"
+SP1,2019-11-09,15:00,Valencia,Granada,2,0,H,LIG17,LIG9,Valencia,LIG17,Granada,"39,882"
+SP1,2019-11-10,15:00,Ath Madrid,Espanol,3,1,H,LIG2,LIG7,Madrid,LIG2,Espanyol,"53,069"
+SP1,2019-11-10,20:00,Betis,Sevilla,1,2,A,LIG4,LIG15,Seville,LIG4,Sevilla,"52,123"
+SP1,2019-11-10,17:30,Getafe,Osasuna,0,0,D,LIG8,LIG13,Getafe,LIG8,Osasuna,"10,558"
+SP1,2019-11-10,11:00,Mallorca,Villarreal,3,1,H,LIG12,LIG19,Palma,LIG12,Villarreal,"8,348"
+SP1,2019-11-10,13:00,Ath Bilbao,Levante,2,1,H,LIG1,LIG11,Bilbao,LIG1,Levante,"33,202"
+SP1,2019-11-22,20:00,Levante,Mallorca,2,1,H,LIG11,LIG12,Valencia,LIG11,Mallorca,"15,110"
+SP1,2019-11-23,12:00,Leganes,Barcelona,1,2,A,LIG10,LIG3,Leganes,LIG10,Barcelona,"12,110"
+SP1,2019-11-23,20:00,Real Madrid,Sociedad,3,1,H,LIG14,LIG16,Madrid,LIG14,Real Sociedad,"69,305"
+SP1,2019-11-23,15:00,Betis,Valencia,2,1,H,LIG4,LIG17,Seville,LIG4,Valencia,"46,545"
+SP1,2019-11-23,17:30,Granada,Ath Madrid,1,1,D,LIG9,LIG2,Granada,LIG9,Atlético Madrid,"17,003"
+SP1,2019-11-24,15:00,Eibar,Alaves,0,2,A,LIG6,LIG0,Eibar,LIG6,Alavés,"6,315"
+SP1,2019-11-24,17:30,Villarreal,Celta,1,3,A,LIG19,LIG5,Villarreal,LIG19,Celta Vigo,"17,352"
+SP1,2019-11-24,20:00,Valladolid,Sevilla,0,1,A,LIG18,LIG15,Valladolid,LIG18,Sevilla,"18,169"
+SP1,2019-11-24,11:00,Espanol,Getafe,1,1,D,LIG7,LIG8,Barcelona,LIG7,Getafe,"22,031"
+SP1,2019-11-24,13:00,Osasuna,Ath Bilbao,1,2,A,LIG13,LIG1,Pamplona,LIG13,Athletic Bilbao,"16,145"
+SP1,2019-11-29,20:00,Celta,Valladolid,0,0,D,LIG5,LIG18,Vigo,LIG5,Real Valladolid,"16,918"
+SP1,2019-11-30,12:00,Alaves,Real Madrid,1,2,A,LIG0,LIG14,Vitoria-Gasteiz,LIG0,Real Madrid,"19,357"
+SP1,2019-11-30,17:30,Mallorca,Betis,1,2,A,LIG12,LIG4,Palma,LIG12,Real Betis,"16,810"
+SP1,2019-11-30,20:00,Valencia,Villarreal,2,1,H,LIG17,LIG19,Valencia,LIG17,Villarreal,"38,521"
+SP1,2019-11-30,15:00,Sociedad,Eibar,4,1,H,LIG16,LIG6,San Sebastian,LIG16,Eibar,"28,612"
+SP1,2019-12-01,17:30,Getafe,Levante,4,0,H,LIG8,LIG11,Getafe,LIG8,Levante,"6,535"
+SP1,2019-12-01,15:00,Espanol,Osasuna,2,4,A,LIG7,LIG13,Barcelona,LIG7,Osasuna,"21,238"
+SP1,2019-12-01,13:00,Ath Bilbao,Granada,2,0,H,LIG1,LIG9,Bilbao,LIG1,Granada,"37,974"
+SP1,2019-12-01,20:00,Ath Madrid,Barcelona,0,1,A,LIG2,LIG3,Madrid,LIG2,Barcelona,"64,226"
+SP1,2019-12-01,11:00,Sevilla,Leganes,1,0,H,LIG15,LIG10,Seville,LIG15,Leganés,"33,648"
+SP1,2019-12-06,20:00,Villarreal,Ath Madrid,0,0,D,LIG19,LIG2,Villarreal,LIG19,Atlético Madrid,"17,964"
+SP1,2019-12-07,17:30,Levante,Valencia,2,4,A,LIG11,LIG17,Valencia,LIG11,Valencia,"23,137"
+SP1,2019-12-07,12:00,Real Madrid,Espanol,2,0,H,LIG14,LIG7,Madrid,LIG14,Espanyol,"64,125"
+SP1,2019-12-07,20:00,Barcelona,Mallorca,5,2,H,LIG3,LIG12,Barcelona,LIG3,Mallorca,"71,072"
+SP1,2019-12-07,15:00,Granada,Alaves,3,0,H,LIG9,LIG0,Granada,LIG9,Alavés,"14,773"
+SP1,2019-12-08,17:30,Leganes,Celta,3,2,H,LIG10,LIG5,Leganes,LIG10,Celta Vigo,"7,115"
+SP1,2019-12-08,20:00,Osasuna,Sevilla,1,1,D,LIG13,LIG15,Pamplona,LIG13,Sevilla,"15,045"
+SP1,2019-12-08,13:00,Betis,Ath Bilbao,3,2,H,LIG4,LIG1,Seville,LIG4,Athletic Bilbao,"46,106"
+SP1,2019-12-08,15:00,Valladolid,Sociedad,0,0,D,LIG18,LIG16,Valladolid,LIG18,Real Sociedad,"18,654"
+SP1,2019-12-08,11:00,Eibar,Getafe,0,1,A,LIG6,LIG8,Eibar,LIG6,Getafe,"5,969"
+SP1,2019-12-13,20:00,Alaves,Leganes,1,1,D,LIG0,LIG10,Vitoria-Gasteiz,LIG0,Leganés,"15,567"
+SP1,2019-12-14,17:30,Ath Bilbao,Eibar,0,0,D,LIG1,LIG6,Bilbao,LIG1,Eibar,"43,203"
+SP1,2019-12-14,20:00,Ath Madrid,Osasuna,2,0,H,LIG2,LIG13,Madrid,LIG2,Osasuna,"46,033"
+SP1,2019-12-14,12:00,Granada,Levante,1,2,A,LIG9,LIG11,Granada,LIG9,Levante,"14,127"
+SP1,2019-12-14,15:00,Sociedad,Barcelona,2,2,D,LIG16,LIG3,San Sebastian,LIG16,Barcelona,"36,639"
+SP1,2019-12-15,13:00,Celta,Mallorca,2,2,D,LIG5,LIG12,Vigo,LIG5,Mallorca,"13,247"
+SP1,2019-12-15,11:00,Getafe,Valladolid,2,0,H,LIG8,LIG18,Getafe,LIG8,Real Valladolid,"10,816"
+SP1,2019-12-15,15:00,Espanol,Betis,2,2,D,LIG7,LIG4,Barcelona,LIG7,Real Betis,"22,248"
+SP1,2019-12-15,20:00,Valencia,Real Madrid,1,1,D,LIG17,LIG14,Valencia,LIG17,Real Madrid,"44,230"
+SP1,2019-12-15,17:30,Sevilla,Villarreal,1,2,A,LIG15,LIG19,Seville,LIG15,Villarreal,"36,521"
+SP1,2019-12-18,19:00,Barcelona,Real Madrid,0,0,D,LIG3,LIG14,Barcelona,LIG3,Real Madrid,"93,426"
+SP1,2019-12-20,20:00,Eibar,Granada,3,0,H,LIG6,LIG9,Eibar,LIG6,Granada,"5,341"
+SP1,2019-12-21,15:00,Barcelona,Alaves,4,1,H,LIG3,LIG0,Barcelona,LIG3,Alavés,"63,054"
+SP1,2019-12-21,20:00,Valladolid,Valencia,1,1,D,LIG18,LIG17,Valladolid,LIG18,Valencia,"16,295"
+SP1,2019-12-21,17:30,Villarreal,Getafe,1,0,H,LIG19,LIG8,Villarreal,LIG19,Getafe,"14,526"
+SP1,2019-12-21,12:00,Mallorca,Sevilla,0,2,A,LIG12,LIG15,Palma,LIG12,Sevilla,"14,321"
+SP1,2019-12-22,17:30,Levante,Celta,3,1,H,LIG11,LIG5,Valencia,LIG11,Celta Vigo,"18,653"
+SP1,2019-12-22,11:00,Leganes,Espanol,2,0,H,LIG10,LIG7,Leganes,LIG10,Espanyol,"10,183"
+SP1,2019-12-22,20:00,Real Madrid,Ath Bilbao,0,0,D,LIG14,LIG1,Madrid,LIG14,Athletic Bilbao,"71,306"
+SP1,2019-12-22,13:00,Osasuna,Sociedad,3,4,A,LIG13,LIG16,Pamplona,LIG13,Real Sociedad,"16,197"
+SP1,2019-12-22,15:00,Betis,Ath Madrid,1,2,A,LIG4,LIG2,Seville,LIG4,AtlÃ©tico Madrid,"52,017"
+SP1,2020-01-03,18:00,Valladolid,Leganes,2,2,D,LIG18,LIG10,Valladolid,LIG18,LeganÃ©s,"21,492"
+SP1,2020-01-03,20:00,Sevilla,Ath Bilbao,1,1,D,LIG15,LIG1,Seville,LIG15,Athletic Bilbao,"37,972"
+SP1,2020-01-04,12:00,Valencia,Eibar,1,0,H,LIG17,LIG6,Valencia,LIG17,Eibar,"39,702"
+SP1,2020-01-04,20:00,Espanol,Barcelona,2,2,D,LIG7,LIG3,Barcelona,LIG7,Barcelona,"33,562"
+SP1,2020-01-04,15:00,Getafe,Real Madrid,0,3,A,LIG8,LIG14,Getafe,LIG8,Real Madrid,"15,426"
+SP1,2020-01-04,17:30,Ath Madrid,Levante,2,1,H,LIG2,LIG11,Madrid,LIG2,Levante,"59,084"
+SP1,2020-01-05,15:00,Alaves,Betis,1,1,D,LIG0,LIG4,Vitoria-Gasteiz,LIG0,Real Betis,"17,689"
+SP1,2020-01-05,11:00,Granada,Mallorca,1,0,H,LIG9,LIG12,Granada,LIG9,Mallorca,"16,395"
+SP1,2020-01-05,13:00,Sociedad,Villarreal,1,2,A,LIG16,LIG19,San Sebastian,LIG16,Villarreal,"31,538"
+SP1,2020-01-05,20:00,Celta,Osasuna,1,1,D,LIG5,LIG13,Vigo,LIG5,Osasuna,"11,932"
+SP1,2020-01-17,20:00,Leganes,Getafe,0,3,A,LIG10,LIG8,Leganes,LIG10,Getafe,"11,450"
+SP1,2020-01-18,12:00,Levante,Alaves,0,1,A,LIG11,LIG0,Valencia,LIG11,Alavés,"16,848"
+SP1,2020-01-18,20:00,Eibar,Ath Madrid,2,0,H,LIG6,LIG2,Eibar,LIG6,Atlético Madrid,"6,429"
+SP1,2020-01-18,15:00,Real Madrid,Sevilla,2,1,H,LIG14,LIG15,Madrid,LIG14,Sevilla,"72,512"
+SP1,2020-01-18,17:30,Osasuna,Valladolid,0,0,D,LIG13,LIG18,Pamplona,LIG13,Real Valladolid,"15,382"
+SP1,2020-01-19,20:00,Barcelona,Granada,1,0,H,LIG3,LIG9,Barcelona,LIG3,Granada,"65,444"
+SP1,2020-01-19,13:00,Betis,Sociedad,3,0,H,LIG4,LIG16,Seville,LIG4,Real Sociedad,"51,171"
+SP1,2020-01-19,11:00,Mallorca,Valencia,4,1,H,LIG12,LIG17,Palma,LIG12,Valencia,"9,856"
+SP1,2020-01-19,17:30,Ath Bilbao,Celta,1,1,D,LIG1,LIG5,Bilbao,LIG1,Celta Vigo,"41,348"
+SP1,2020-01-19,15:00,Villarreal,Espanol,1,2,A,LIG19,LIG7,Villarreal,LIG19,Espanyol,"12,053"
+SP1,2020-01-24,20:00,Osasuna,Levante,2,0,H,LIG13,LIG11,Pamplona,LIG13,Levante,"14,667"
+SP1,2020-01-25,12:00,Espanol,Ath Bilbao,1,1,D,LIG7,LIG1,Barcelona,LIG7,Athletic Bilbao,"27,542"
+SP1,2020-01-25,17:30,Alaves,Villarreal,1,2,A,LIG0,LIG19,Vitoria-Gasteiz,LIG0,Villarreal,"18,153"
+SP1,2020-01-25,15:00,Valencia,Barcelona,2,0,H,LIG17,LIG3,Valencia,LIG17,Barcelona,"45,882"
+SP1,2020-01-25,20:00,Sevilla,Granada,2,0,H,LIG15,LIG9,Seville,LIG15,Granada,"33,533"
+SP1,2020-01-26,13:00,Celta,Eibar,0,0,D,LIG5,LIG6,Vigo,LIG5,Eibar,"15,490"
+SP1,2020-01-26,15:00,Getafe,Betis,1,0,H,LIG8,LIG4,Getafe,LIG8,Real Betis,"13,244"
+SP1,2020-01-26,17:30,Sociedad,Mallorca,3,0,H,LIG16,LIG12,San Sebastian,LIG16,Mallorca,"29,912"
+SP1,2020-01-26,11:00,Ath Madrid,Leganes,0,0,D,LIG2,LIG10,Madrid,LIG2,LeganÃ©s,"52,767"
+SP1,2020-01-26,20:00,Valladolid,Real Madrid,0,1,A,LIG18,LIG14,Valladolid,LIG18,Real Madrid,"23,404"
+SP1,2020-02-01,17:30,Mallorca,Valladolid,0,1,A,LIG12,LIG18,Palma,LIG12,Real Valladolid,"13,891"
+SP1,2020-02-01,20:00,Valencia,Celta,1,0,H,LIG17,LIG5,Valencia,LIG17,Celta Vigo,"39,637"
+SP1,2020-02-01,15:00,Real Madrid,Ath Madrid,1,0,H,LIG14,LIG2,Madrid,LIG14,Atlético Madrid,"77,223"
+SP1,2020-02-01,12:00,Granada,Espanol,2,1,H,LIG9,LIG7,Granada,LIG9,Espanyol,"15,226"
+SP1,2020-02-02,15:00,Ath Bilbao,Getafe,0,2,A,LIG1,LIG8,Bilbao,LIG1,Getafe,"40,291"
+SP1,2020-02-02,13:00,Eibar,Betis,1,1,D,LIG6,LIG4,Eibar,LIG6,Real Betis,"6,558"
+SP1,2020-02-02,17:30,Villarreal,Osasuna,3,1,H,LIG19,LIG13,Villarreal,LIG19,Osasuna,"17,081"
+SP1,2020-02-02,20:00,Barcelona,Levante,2,1,H,LIG3,LIG11,Barcelona,LIG3,Levante,"60,295"
+SP1,2020-02-02,11:00,Leganes,Sociedad,2,1,H,LIG10,LIG16,Leganes,LIG10,Real Sociedad,"10,842"
+SP1,2020-02-02,17:30,Sevilla,Alaves,1,1,D,LIG15,LIG0,Seville,LIG15,Alavés,"36,286"
+SP1,2020-02-07,20:00,Alaves,Eibar,2,1,H,LIG0,LIG6,Vitoria-Gasteiz,LIG0,Eibar,"17,089"
+SP1,2020-02-08,17:30,Valladolid,Villarreal,1,1,D,LIG18,LIG19,Valladolid,LIG18,Villarreal,"17,547"
+SP1,2020-02-08,20:00,Ath Madrid,Granada,1,0,H,LIG2,LIG9,Madrid,LIG2,Granada,"54,113"
+SP1,2020-02-08,12:00,Levante,Leganes,2,0,H,LIG11,LIG10,Valencia,LIG11,Leganés,"17,110"
+SP1,2020-02-08,15:00,Getafe,Valencia,3,0,H,LIG8,LIG17,Getafe,LIG8,Valencia,"13,070"
+SP1,2020-02-09,13:00,Sociedad,Ath Bilbao,2,1,H,LIG16,LIG1,San Sebastian,LIG16,Athletic Bilbao,"36,730"
+SP1,2020-02-09,20:00,Betis,Barcelona,2,3,A,LIG4,LIG3,Seville,LIG4,Barcelona,"54,526"
+SP1,2020-02-09,17:30,Celta,Sevilla,2,1,H,LIG5,LIG15,Vigo,LIG5,Sevilla,"20,375"
+SP1,2020-02-09,11:00,Espanol,Mallorca,1,0,H,LIG7,LIG12,Barcelona,LIG7,Mallorca,"32,084"
+SP1,2020-02-09,15:00,Osasuna,Real Madrid,1,4,A,LIG13,LIG14,Pamplona,LIG13,Real Madrid,"17,000"
+SP1,2020-02-14,20:00,Valencia,Ath Madrid,2,2,D,LIG17,LIG2,Valencia,LIG17,Atlético Madrid,"42,297"
+SP1,2020-02-15,20:00,Granada,Valladolid,2,1,H,LIG9,LIG18,Granada,LIG9,Real Valladolid,"15,782"
+SP1,2020-02-15,12:00,Mallorca,Alaves,1,0,H,LIG12,LIG0,Palma,LIG12,Alavés,"12,329"
+SP1,2020-02-15,15:00,Barcelona,Getafe,2,1,H,LIG3,LIG8,Barcelona,LIG3,Getafe,"89,409"
+SP1,2020-02-15,17:30,Villarreal,Levante,2,1,H,LIG19,LIG11,Villarreal,LIG19,Levante,"17,269"
+SP1,2020-02-16,13:00,Leganes,Betis,0,0,D,LIG10,LIG4,Leganes,LIG10,Real Betis,"11,160"
+SP1,2020-02-16,17:30,Ath Bilbao,Osasuna,0,1,A,LIG1,LIG13,Bilbao,LIG1,Osasuna,"44,222"
+SP1,2020-02-16,11:00,Sevilla,Espanol,2,2,D,LIG15,LIG7,Seville,LIG15,Espanyol,"35,661"
+SP1,2020-02-16,20:00,Real Madrid,Celta,2,2,D,LIG14,LIG5,Madrid,LIG14,Celta Vigo,"62,477"
+SP1,2020-02-21,20:00,Betis,Mallorca,3,3,D,LIG4,LIG12,Seville,LIG4,Mallorca,
+SP1,2020-02-22,15:00,Barcelona,Eibar,5,0,H,LIG3,LIG6,Barcelona,LIG3,Eibar,"66,970"
+SP1,2020-02-22,20:00,Levante,Real Madrid,1,0,H,LIG11,LIG14,Valencia,LIG11,Real Madrid,"23,566"
+SP1,2020-02-22,12:00,Celta,Leganes,1,0,H,LIG5,LIG10,Vigo,LIG5,LeganÃ©s,"19,335"
+SP1,2020-02-22,17:30,Sociedad,Valencia,3,0,H,LIG16,LIG17,San Sebastian,LIG16,Valencia,"31,381"
+SP1,2020-02-23,17:30,Getafe,Sevilla,0,3,A,LIG8,LIG15,Getafe,LIG8,Sevilla,"13,438"
+SP1,2020-02-23,13:00,Alaves,Ath Bilbao,2,1,H,LIG0,LIG1,Vitoria-Gasteiz,LIG0,Athletic Bilbao,"19,412"
+SP1,2020-02-23,15:00,Valladolid,Espanol,2,1,H,LIG18,LIG7,Valladolid,LIG18,Espanyol,"19,645"
+SP1,2020-02-23,20:00,Ath Madrid,Villarreal,3,1,H,LIG2,LIG19,Madrid,LIG2,Villarreal,"54,462"
+SP1,2020-02-23,11:00,Osasuna,Granada,0,3,A,LIG13,LIG9,Pamplona,LIG13,Granada,"14,866"
+SP1,2020-02-28,20:00,Sociedad,Valladolid,1,0,H,LIG16,LIG18,San Sebastian,LIG16,Real Valladolid,"30,611"
+SP1,2020-02-29,15:00,Valencia,Betis,2,1,H,LIG17,LIG4,Valencia,LIG17,Real Betis,"37,418"
+SP1,2020-02-29,17:30,Leganes,Alaves,1,1,D,LIG10,LIG0,Leganes,LIG10,Alavés,"10,043"
+SP1,2020-02-29,20:00,Granada,Celta,0,0,D,LIG9,LIG5,Granada,LIG9,Celta Vigo,"15,877"
+SP1,2020-02-29,12:00,Eibar,Levante,3,0,H,LIG6,LIG11,Eibar,LIG6,Levante,"5,920"
+SP1,2020-03-01,20:00,Real Madrid,Barcelona,2,0,H,LIG14,LIG3,Madrid,LIG14,Barcelona,"78,357"
+SP1,2020-03-01,11:00,Sevilla,Osasuna,3,2,H,LIG15,LIG13,Seville,LIG15,Osasuna,"31,382"
+SP1,2020-03-01,15:00,Espanol,Ath Madrid,1,1,D,LIG7,LIG2,Barcelona,LIG7,AtlÃ©tico Madrid,"30,360"
+SP1,2020-03-01,17:30,Mallorca,Getafe,0,1,A,LIG12,LIG8,Palma,LIG12,Getafe,"14,241"
+SP1,2020-03-01,13:00,Ath Bilbao,Villarreal,1,0,H,LIG1,LIG19,Bilbao,LIG1,Villarreal,"36,350"
+SP1,2020-03-06,20:00,Alaves,Valencia,1,1,D,LIG0,LIG17,Vitoria-Gasteiz,LIG0,Valencia,"14,083"
+SP1,2020-03-07,17:30,Barcelona,Sociedad,1,0,H,LIG3,LIG16,Barcelona,LIG3,Real Sociedad,"77,035"
+SP1,2020-03-07,20:00,Getafe,Celta,0,0,D,LIG8,LIG5,Getafe,LIG8,Celta Vigo,"11,286"
+SP1,2020-03-07,15:00,Ath Madrid,Sevilla,2,2,D,LIG2,LIG15,Madrid,LIG2,Sevilla,"60,422"
+SP1,2020-03-07,12:00,Eibar,Mallorca,1,2,A,LIG6,LIG12,Eibar,LIG6,Mallorca,"6,110"
+SP1,2020-03-08,13:00,Valladolid,Ath Bilbao,1,4,A,LIG18,LIG1,Valladolid,LIG18,Athletic Bilbao,"21,632"
+SP1,2020-03-08,15:00,Levante,Granada,1,1,D,LIG11,LIG9,Valencia,LIG11,Granada,"16,168"
+SP1,2020-03-08,17:30,Villarreal,Leganes,1,2,A,LIG19,LIG10,Villarreal,LIG19,Leganés,"16,143"
+SP1,2020-03-08,20:00,Betis,Real Madrid,2,1,H,LIG4,LIG14,Seville,LIG4,Real Madrid,"51,521"
+SP1,2020-03-08,11:00,Osasuna,Espanol,1,0,H,LIG13,LIG7,Pamplona,LIG13,Espanyol,"15,737"
+SP1,2020-03-10,19:00,Eibar,Sociedad,1,2,A,LIG6,LIG16,Eibar,LIG6,Real Sociedad,
+SP1,2020-06-11,21:00,Sevilla,Betis,2,0,H,LIG15,LIG4,Seville,LIG15,Real Betis,
+SP1,2020-06-12,18:30,Granada,Getafe,2,1,H,LIG9,LIG8,Granada,LIG9,Getafe,
+SP1,2020-06-12,21:00,Valencia,Levante,1,1,D,LIG17,LIG11,Valencia,LIG17,Levante,
+SP1,2020-06-13,13:00,Espanol,Alaves,2,0,H,LIG7,LIG0,Barcelona,LIG7,AlavÃ©s,
+SP1,2020-06-13,21:00,Mallorca,Barcelona,0,4,A,LIG12,LIG3,Palma,LIG12,Barcelona,
+SP1,2020-06-13,16:00,Celta,Villarreal,0,1,A,LIG5,LIG19,Vigo,LIG5,Villarreal,
+SP1,2020-06-13,18:30,Leganes,Valladolid,1,2,A,LIG10,LIG18,Leganes,LIG10,Real Valladolid,
+SP1,2020-06-14,18:30,Real Madrid,Eibar,3,1,H,LIG14,LIG6,Madrid,LIG14,Eibar,
+SP1,2020-06-14,21:00,Sociedad,Osasuna,1,1,D,LIG16,LIG13,San Sebastian,LIG16,Osasuna,
+SP1,2020-06-14,13:00,Ath Bilbao,Ath Madrid,1,1,D,LIG1,LIG2,Bilbao,LIG1,AtlÃ©tico Madrid,
+SP1,2020-06-15,21:00,Betis,Granada,2,2,D,LIG4,LIG9,Seville,LIG4,Granada,
+SP1,2020-06-15,18:30,Levante,Sevilla,1,1,D,LIG11,LIG15,Valencia,LIG11,Sevilla,
+SP1,2020-06-16,18:30,Getafe,Espanol,0,0,D,LIG8,LIG7,Getafe,LIG8,Espanyol,
+SP1,2020-06-16,21:00,Barcelona,Leganes,2,0,H,LIG3,LIG10,Barcelona,LIG3,Leganés,
+SP1,2020-06-16,18:30,Villarreal,Mallorca,1,0,H,LIG19,LIG12,Villarreal,LIG19,Mallorca,
+SP1,2020-06-17,18:30,Valladolid,Celta,0,0,D,LIG18,LIG5,Valladolid,LIG18,Celta Vigo,
+SP1,2020-06-17,18:30,Eibar,Ath Bilbao,2,2,D,LIG6,LIG1,Eibar,LIG6,Athletic Bilbao,
+SP1,2020-06-17,21:00,Osasuna,Ath Madrid,0,5,A,LIG13,LIG2,Pamplona,LIG13,Atlético Madrid,
+SP1,2020-06-18,21:00,Real Madrid,Valencia,3,0,H,LIG14,LIG17,Madrid,LIG14,Valencia,
+SP1,2020-06-18,18:30,Alaves,Sociedad,2,0,H,LIG0,LIG16,Vitoria-Gasteiz,LIG0,Real Sociedad,
+SP1,2020-06-19,18:30,Mallorca,Leganes,1,1,D,LIG12,LIG10,Palma,LIG12,Leganés,
+SP1,2020-06-19,21:00,Sevilla,Barcelona,0,0,D,LIG15,LIG3,Seville,LIG15,Barcelona,
+SP1,2020-06-19,18:30,Granada,Villarreal,0,1,A,LIG9,LIG19,Granada,LIG9,Villarreal,
+SP1,2020-06-20,18:30,Getafe,Eibar,1,1,D,LIG8,LIG6,Getafe,LIG8,Eibar,
+SP1,2020-06-20,21:00,Ath Madrid,Valladolid,1,0,H,LIG2,LIG18,Madrid,LIG2,Real Valladolid,
+SP1,2020-06-20,13:00,Espanol,Levante,1,3,A,LIG7,LIG11,Barcelona,LIG7,Levante,
+SP1,2020-06-20,16:00,Ath Bilbao,Betis,1,0,H,LIG1,LIG4,Bilbao,LIG1,Real Betis,
+SP1,2020-06-21,18:30,Valencia,Osasuna,2,0,H,LIG17,LIG13,Valencia,LIG17,Osasuna,
+SP1,2020-06-21,21:00,Sociedad,Real Madrid,1,2,A,LIG16,LIG14,San Sebastian,LIG16,Real Madrid,
+SP1,2020-06-21,13:00,Celta,Alaves,6,0,H,LIG5,LIG0,Vigo,LIG5,AlavÃ©s,
+SP1,2020-06-22,18:30,Villarreal,Sevilla,2,2,D,LIG19,LIG15,Villarreal,LIG19,Sevilla,
+SP1,2020-06-22,21:00,Leganes,Granada,0,0,D,LIG10,LIG9,Leganes,LIG10,Granada,
+SP1,2020-06-23,18:30,Levante,Ath Madrid,0,1,A,LIG11,LIG2,Valencia,LIG11,Atlético Madrid,
+SP1,2020-06-23,18:30,Valladolid,Getafe,1,1,D,LIG18,LIG8,Valladolid,LIG18,Getafe,
+SP1,2020-06-23,21:00,Barcelona,Ath Bilbao,1,0,H,LIG3,LIG1,Barcelona,LIG3,Athletic Bilbao,
+SP1,2020-06-24,18:30,Sociedad,Celta,0,1,A,LIG16,LIG5,San Sebastian,LIG16,Celta Vigo,
+SP1,2020-06-24,18:30,Alaves,Osasuna,0,1,A,LIG0,LIG13,Vitoria-Gasteiz,LIG0,Osasuna,
+SP1,2020-06-24,21:00,Real Madrid,Mallorca,2,0,H,LIG14,LIG12,Madrid,LIG14,Mallorca,
+SP1,2020-06-25,18:30,Eibar,Valencia,1,0,H,LIG6,LIG17,Eibar,LIG6,Valencia,
+SP1,2020-06-25,21:00,Betis,Espanol,1,0,H,LIG4,LIG7,Seville,LIG4,Espanyol,
+SP1,2020-06-26,21:00,Sevilla,Valladolid,1,1,D,LIG15,LIG18,Seville,LIG15,Real Valladolid,
+SP1,2020-06-27,13:00,Ath Bilbao,Mallorca,3,1,H,LIG1,LIG12,Bilbao,LIG1,Mallorca,
+SP1,2020-06-27,18:30,Osasuna,Leganes,2,1,H,LIG13,LIG10,Pamplona,LIG13,Leganés,
+SP1,2020-06-27,21:00,Ath Madrid,Alaves,2,1,H,LIG2,LIG0,Madrid,LIG2,AlavÃ©s,
+SP1,2020-06-27,16:00,Celta,Barcelona,2,2,D,LIG5,LIG3,Vigo,LIG5,Barcelona,
+SP1,2020-06-28,16:00,Villarreal,Valencia,2,0,H,LIG19,LIG17,Villarreal,LIG19,Valencia,
+SP1,2020-06-28,18:30,Granada,Eibar,1,2,A,LIG9,LIG6,Granada,LIG9,Eibar,
+SP1,2020-06-28,21:00,Espanol,Real Madrid,0,1,A,LIG7,LIG14,Barcelona,LIG7,Real Madrid,
+SP1,2020-06-28,13:00,Levante,Betis,4,2,H,LIG11,LIG4,Valencia,LIG11,Real Betis,
+SP1,2020-06-29,21:00,Getafe,Sociedad,2,1,H,LIG8,LIG16,Getafe,LIG8,Real Sociedad,
+SP1,2020-06-30,18:30,Mallorca,Celta,5,1,H,LIG12,LIG5,Palma,LIG12,Celta Vigo,
+SP1,2020-06-30,20:00,Leganes,Sevilla,0,3,A,LIG10,LIG15,Leganes,LIG10,Sevilla,
+SP1,2020-06-30,21:00,Barcelona,Ath Madrid,2,2,D,LIG3,LIG2,Barcelona,LIG3,Atlético Madrid,
+SP1,2020-07-01,21:00,Valladolid,Levante,0,0,D,LIG18,LIG11,Valladolid,LIG18,Levante,
+SP1,2020-07-01,21:00,Betis,Villarreal,0,2,A,LIG4,LIG19,Seville,LIG4,Villarreal,
+SP1,2020-07-01,18:30,Alaves,Granada,0,2,A,LIG0,LIG9,Vitoria-Gasteiz,LIG0,Granada,
+SP1,2020-07-01,18:30,Valencia,Ath Bilbao,0,2,A,LIG17,LIG1,Valencia,LIG17,Athletic Bilbao,
+SP1,2020-07-02,18:30,Eibar,Osasuna,0,2,A,LIG6,LIG13,Eibar,LIG6,Osasuna,
+SP1,2020-07-02,21:00,Real Madrid,Getafe,1,0,H,LIG14,LIG8,Madrid,LIG14,Getafe,
+SP1,2020-07-02,18:30,Sociedad,Espanol,2,1,H,LIG16,LIG7,San Sebastian,LIG16,Espanyol,
+SP1,2020-07-03,21:00,Ath Madrid,Mallorca,3,0,H,LIG2,LIG12,Madrid,LIG2,Mallorca,
+SP1,2020-07-04,21:00,Granada,Valencia,2,2,D,LIG9,LIG17,Granada,LIG9,Valencia,
+SP1,2020-07-04,18:30,Valladolid,Alaves,1,0,H,LIG18,LIG0,Valladolid,LIG18,AlavÃ©s,
+SP1,2020-07-04,16:00,Celta,Betis,1,1,D,LIG5,LIG4,Vigo,LIG5,Real Betis,
+SP1,2020-07-05,13:00,Ath Bilbao,Real Madrid,0,1,A,LIG1,LIG14,Bilbao,LIG1,Real Madrid,
+SP1,2020-07-05,16:00,Espanol,Leganes,0,1,A,LIG7,LIG10,Barcelona,LIG7,LeganÃ©s,
+SP1,2020-07-05,18:30,Osasuna,Getafe,0,0,D,LIG13,LIG8,Pamplona,LIG13,Getafe,
+SP1,2020-07-05,21:00,Villarreal,Barcelona,1,4,A,LIG19,LIG3,Villarreal,LIG19,Barcelona,
+SP1,2020-07-06,21:00,Sevilla,Eibar,1,0,H,LIG15,LIG6,Seville,LIG15,Eibar,
+SP1,2020-07-06,18:30,Levante,Sociedad,1,1,D,LIG11,LIG16,Valencia,LIG11,Real Sociedad,
+SP1,2020-07-07,21:00,Celta,Ath Madrid,1,1,D,LIG5,LIG2,Vigo,LIG5,AtlÃ©tico Madrid,
+SP1,2020-07-07,18:30,Valencia,Valladolid,2,1,H,LIG17,LIG18,Valencia,LIG17,Real Valladolid,
+SP1,2020-07-08,21:00,Barcelona,Espanol,1,0,H,LIG3,LIG7,Barcelona,LIG3,Espanyol,
+SP1,2020-07-08,19:30,Betis,Osasuna,3,0,H,LIG4,LIG13,Seville,LIG4,Osasuna,
+SP1,2020-07-08,19:30,Getafe,Villarreal,1,3,A,LIG8,LIG19,Getafe,LIG8,Villarreal,
+SP1,2020-07-09,21:00,Ath Bilbao,Sevilla,1,2,A,LIG1,LIG15,Bilbao,LIG1,Sevilla,
+SP1,2020-07-09,18:30,Mallorca,Levante,2,0,H,LIG12,LIG11,Palma,LIG12,Levante,
+SP1,2020-07-09,18:30,Eibar,Leganes,0,0,D,LIG6,LIG10,Eibar,LIG6,Leganés,
+SP1,2020-07-10,21:00,Real Madrid,Alaves,2,0,H,LIG14,LIG0,Madrid,LIG14,Alavés,
+SP1,2020-07-10,18:30,Sociedad,Granada,2,3,A,LIG16,LIG9,San Sebastian,LIG16,Granada,
+SP1,2020-07-11,16:00,Osasuna,Celta,2,1,H,LIG13,LIG5,Pamplona,LIG13,Celta Vigo,
+SP1,2020-07-11,18:30,Valladolid,Barcelona,0,1,A,LIG18,LIG3,Valladolid,LIG18,Barcelona,
+SP1,2020-07-11,21:00,Ath Madrid,Betis,1,0,H,LIG2,LIG4,Madrid,LIG2,Real Betis,
+SP1,2020-07-12,18:30,Leganes,Valencia,1,0,H,LIG10,LIG17,Leganes,LIG10,Valencia,
+SP1,2020-07-12,13:00,Espanol,Eibar,0,2,A,LIG7,LIG6,Barcelona,LIG7,Eibar,
+SP1,2020-07-12,21:00,Sevilla,Mallorca,2,0,H,LIG15,LIG12,Seville,LIG15,Mallorca,
+SP1,2020-07-12,16:00,Levante,Ath Bilbao,1,2,A,LIG11,LIG1,Valencia,LIG11,Athletic Bilbao,
+SP1,2020-07-13,21:00,Granada,Real Madrid,1,2,A,LIG9,LIG14,Granada,LIG9,Real Madrid,
+SP1,2020-07-13,18:30,Alaves,Getafe,0,0,D,LIG0,LIG8,Vitoria-Gasteiz,LIG0,Getafe,
+SP1,2020-07-13,18:30,Villarreal,Sociedad,1,2,A,LIG19,LIG16,Villarreal,LIG19,Real Sociedad,
