@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,HomeScore,AwayScore,Result,HomeTeam ID,AwayTeam ID,City,Team ID,Opponent,Attendance
+D1,2019-08-16,19:30,Bayern Munich,Hertha,2,2,D,BUN1,BUN7,Munich,BUN1,Hertha Berlin,"75,000"
+D1,2019-08-17,14:30,Leverkusen,Paderborn,3,2,H,BUN9,BUN12,Leverkusen,BUN9,SC Paderborn 07,"26,208"
+D1,2019-08-17,14:30,Freiburg,Mainz,3,0,H,BUN6,BUN10,Freiburg,BUN6,Mainz 05,"24,000"
+D1,2019-08-17,17:30,M'gladbach,Schalke 04,0,0,D,BUN11,BUN14,Monchengladbach,BUN11,FC Schalke 04,"54,022"
+D1,2019-08-17,14:30,Dortmund,Augsburg,5,1,H,BUN2,BUN0,Dortmund,BUN2,FC Augsburg,"81,365"
+D1,2019-08-17,14:30,Werder Bremen,Fortuna Dusseldorf,1,3,A,BUN16,BUN5,Bremen,BUN16,Fortuna Düsseldorf,"42,100"
+D1,2019-08-17,14:30,Wolfsburg,FC Koln,2,1,H,BUN17,BUN4,Wolfsburg,BUN17,1. FC Köln,"25,099"
+D1,2019-08-18,14:30,Ein Frankfurt,Hoffenheim,1,0,H,BUN3,BUN8,Frankfurt,BUN3,1899 Hoffenheim,"50,200"
+D1,2019-08-18,17:00,Union Berlin,RB Leipzig,0,4,A,BUN15,BUN13,Berlin,BUN15,RB Leipzig,"22,467"
+D1,2019-08-23,19:30,FC Koln,Dortmund,1,3,A,BUN4,BUN2,Cologne,BUN4,Borussia Dortmund,"50,000"
+D1,2019-08-24,14:30,Augsburg,Union Berlin,1,1,D,BUN0,BUN15,Augsburg,BUN0,1. FC Union Berlin,"27,703"
+D1,2019-08-24,14:30,Mainz,M'gladbach,1,3,A,BUN10,BUN11,Mainz,BUN10,Borussia Mönchengladbach,"28,005"
+D1,2019-08-24,14:30,Fortuna Dusseldorf,Leverkusen,1,3,A,BUN5,BUN9,Dusseldorf,BUN5,Bayer 04 Leverkusen,"44,538"
+D1,2019-08-24,14:30,Paderborn,Freiburg,1,3,A,BUN12,BUN6,Paderborn,BUN12,SC Freiburg,"14,322"
+D1,2019-08-24,17:30,Schalke 04,Bayern Munich,0,3,A,BUN14,BUN1,Gelsenkirchen,BUN14,Bayern Munich,"62,271"
+D1,2019-08-24,14:30,Hoffenheim,Werder Bremen,3,2,H,BUN8,BUN16,Sinsheim,BUN8,Werder Bremen,"27,333"
+D1,2019-08-25,17:00,Hertha,Wolfsburg,0,3,A,BUN7,BUN17,Berlin,BUN7,VfL Wolfsburg,"42,738"
+D1,2019-08-25,14:30,RB Leipzig,Ein Frankfurt,2,1,H,BUN13,BUN3,Leipzig,BUN13,Eintracht Frankfurt,"40,108"
+D1,2019-08-30,19:30,M'gladbach,RB Leipzig,1,3,A,BUN11,BUN13,Monchengladbach,BUN11,RB Leipzig,
+D1,2019-08-31,14:30,Leverkusen,Hoffenheim,0,0,D,BUN9,BUN8,Leverkusen,BUN9,1899 Hoffenheim,"26,506"
+D1,2019-08-31,14:30,Bayern Munich,Mainz,6,1,H,BUN1,BUN10,Munich,BUN1,Mainz 05,"75,000"
+D1,2019-08-31,14:30,Wolfsburg,Paderborn,1,1,D,BUN17,BUN12,Wolfsburg,BUN17,SC Paderborn 07,"23,750"
+D1,2019-08-31,17:30,Union Berlin,Dortmund,3,1,H,BUN15,BUN2,Berlin,BUN15,Borussia Dortmund,"22,467"
+D1,2019-08-31,14:30,Schalke 04,Hertha,3,0,H,BUN14,BUN7,Gelsenkirchen,BUN14,Hertha Berlin,"58,875"
+D1,2019-08-31,14:30,Freiburg,FC Koln,1,2,A,BUN6,BUN4,Freiburg,BUN6,1. FC Köln,"24,000"
+D1,2019-09-01,17:00,Ein Frankfurt,Fortuna Dusseldorf,2,1,H,BUN3,BUN5,Frankfurt,BUN3,Fortuna Düsseldorf,"49,800"
+D1,2019-09-01,14:30,Werder Bremen,Augsburg,3,2,H,BUN16,BUN0,Bremen,BUN16,FC Augsburg,"40,041"
+D1,2019-09-13,19:30,Fortuna Dusseldorf,Wolfsburg,1,1,D,BUN5,BUN17,Dusseldorf,BUN5,VfL Wolfsburg,"36,758"
+D1,2019-09-14,14:30,FC Koln,M'gladbach,0,1,A,BUN4,BUN11,Cologne,BUN4,Borussia Mönchengladbach,"50,000"
+D1,2019-09-14,14:30,Union Berlin,Werder Bremen,1,2,A,BUN15,BUN16,Berlin,BUN15,Werder Bremen,"22,012"
+D1,2019-09-14,14:30,Mainz,Hertha,2,1,H,BUN10,BUN7,Mainz,BUN10,Hertha Berlin,"22,798"
+D1,2019-09-14,17:30,RB Leipzig,Bayern Munich,1,1,D,BUN13,BUN1,Leipzig,BUN13,Bayern Munich,"42,146"
+D1,2019-09-14,14:30,Augsburg,Ein Frankfurt,2,1,H,BUN0,BUN3,Augsburg,BUN0,Eintracht Frankfurt,"28,513"
+D1,2019-09-14,14:30,Dortmund,Leverkusen,4,0,H,BUN2,BUN9,Dortmund,BUN2,Bayer 04 Leverkusen,"81,365"
+D1,2019-09-15,17:00,Paderborn,Schalke 04,1,5,A,BUN12,BUN14,Paderborn,BUN12,FC Schalke 04,"15,000"
+D1,2019-09-15,14:30,Hoffenheim,Freiburg,0,3,A,BUN8,BUN6,Sinsheim,BUN8,SC Freiburg,"29,395"
+D1,2019-09-20,19:30,Schalke 04,Mainz,2,1,H,BUN14,BUN10,Gelsenkirchen,BUN14,Mainz 05,"58,687"
+D1,2019-09-21,14:30,Hertha,Paderborn,2,1,H,BUN7,BUN12,Berlin,BUN7,SC Paderborn 07,"43,588"
+D1,2019-09-21,14:30,Leverkusen,Union Berlin,2,0,H,BUN9,BUN15,Leverkusen,BUN9,1. FC Union Berlin,"27,430"
+D1,2019-09-21,17:30,Werder Bremen,RB Leipzig,0,3,A,BUN16,BUN13,Bremen,BUN16,RB Leipzig,"40,550"
+D1,2019-09-21,14:30,Freiburg,Augsburg,1,1,D,BUN6,BUN0,Freiburg,BUN6,FC Augsburg,"23,800"
+D1,2019-09-21,14:30,Bayern Munich,FC Koln,4,0,H,BUN1,BUN4,Munich,BUN1,1. FC Köln,"75,000"
+D1,2019-09-22,14:30,M'gladbach,Fortuna Dusseldorf,2,1,H,BUN11,BUN5,Monchengladbach,BUN11,Fortuna Düsseldorf,"52,413"
+D1,2019-09-22,17:00,Ein Frankfurt,Dortmund,2,2,D,BUN3,BUN2,Frankfurt,BUN3,Borussia Dortmund,"51,500"
+D1,2019-09-23,19:30,Wolfsburg,Hoffenheim,1,1,D,BUN17,BUN8,Wolfsburg,BUN17,1899 Hoffenheim,"21,120"
+D1,2019-09-27,19:30,Union Berlin,Ein Frankfurt,1,2,A,BUN15,BUN3,Berlin,BUN15,Eintracht Frankfurt,"22,012"
+D1,2019-09-28,14:30,Paderborn,Bayern Munich,2,3,A,BUN12,BUN1,Paderborn,BUN12,Bayern Munich,"15,000"
+D1,2019-09-28,14:30,Mainz,Wolfsburg,0,1,A,BUN10,BUN17,Mainz,BUN10,VfL Wolfsburg,"24,303"
+D1,2019-09-28,14:30,Augsburg,Leverkusen,0,3,A,BUN0,BUN9,Augsburg,BUN0,Bayer 04 Leverkusen,"27,113"
+D1,2019-09-28,14:30,RB Leipzig,Schalke 04,1,3,A,BUN13,BUN14,Leipzig,BUN13,FC Schalke 04,"42,146"
+D1,2019-09-28,17:30,Dortmund,Werder Bremen,2,2,D,BUN2,BUN16,Dortmund,BUN2,Werder Bremen,"81,365"
+D1,2019-09-28,14:30,Hoffenheim,M'gladbach,0,3,A,BUN8,BUN11,Sinsheim,BUN8,Borussia Mönchengladbach,"29,030"
+D1,2019-09-29,14:30,Fortuna Dusseldorf,Freiburg,1,2,A,BUN5,BUN6,Dusseldorf,BUN5,SC Freiburg,"39,244"
+D1,2019-09-29,17:00,FC Koln,Hertha,0,4,A,BUN4,BUN7,Cologne,BUN4,Hertha Berlin,"49,700"
+D1,2019-10-04,19:30,Hertha,Fortuna Dusseldorf,3,1,H,BUN7,BUN5,Berlin,BUN7,Fortuna Düsseldorf,"37,128"
+D1,2019-10-05,14:30,Freiburg,Dortmund,2,2,D,BUN6,BUN2,Freiburg,BUN6,Borussia Dortmund,"24,000"
+D1,2019-10-05,14:30,Bayern Munich,Hoffenheim,1,2,A,BUN1,BUN8,Munich,BUN1,1899 Hoffenheim,"75,000"
+D1,2019-10-05,14:30,Leverkusen,RB Leipzig,1,1,D,BUN9,BUN13,Leverkusen,BUN9,RB Leipzig,"26,355"
+D1,2019-10-05,17:30,Schalke 04,FC Koln,1,1,D,BUN14,BUN4,Gelsenkirchen,BUN14,1. FC KÃ¶ln,"61,883"
+D1,2019-10-05,14:30,Paderborn,Mainz,1,2,A,BUN12,BUN10,Paderborn,BUN12,Mainz 05,"14,217"
+D1,2019-10-06,12:30,M'gladbach,Augsburg,5,1,H,BUN11,BUN0,Monchengladbach,BUN11,FC Augsburg,"50,352"
+D1,2019-10-06,17:00,Ein Frankfurt,Werder Bremen,2,2,D,BUN3,BUN16,Frankfurt,BUN3,Werder Bremen,"51,500"
+D1,2019-10-06,14:30,Wolfsburg,Union Berlin,1,0,H,BUN17,BUN15,Wolfsburg,BUN17,1. FC Union Berlin,"27,012"
+D1,2019-10-18,19:30,Ein Frankfurt,Leverkusen,3,0,H,BUN3,BUN9,Frankfurt,BUN3,Bayer 04 Leverkusen,"50,800"
+D1,2019-10-19,14:30,RB Leipzig,Wolfsburg,1,1,D,BUN13,BUN17,Leipzig,BUN13,VfL Wolfsburg,"39,182"
+D1,2019-10-19,14:30,Werder Bremen,Hertha,1,1,D,BUN16,BUN7,Bremen,BUN16,Hertha Berlin,"41,447"
+D1,2019-10-19,17:30,Dortmund,M'gladbach,1,0,H,BUN2,BUN11,Dortmund,BUN2,Borussia Mönchengladbach,"81,365"
+D1,2019-10-19,14:30,Fortuna Dusseldorf,Mainz,1,0,H,BUN5,BUN10,Dusseldorf,BUN5,Mainz 05,"40,660"
+D1,2019-10-19,14:30,Union Berlin,Freiburg,2,0,H,BUN15,BUN6,Berlin,BUN15,SC Freiburg,"22,012"
+D1,2019-10-19,14:30,Augsburg,Bayern Munich,2,2,D,BUN0,BUN1,Augsburg,BUN0,Bayern Munich,"30,660"
+D1,2019-10-20,17:00,Hoffenheim,Schalke 04,2,0,H,BUN8,BUN14,Sinsheim,BUN8,FC Schalke 04,"29,477"
+D1,2019-10-20,14:30,FC Koln,Paderborn,3,0,H,BUN4,BUN12,Cologne,BUN4,SC Paderborn 07,"50,000"
+D1,2019-10-25,19:30,Mainz,FC Koln,3,1,H,BUN10,BUN4,Mainz,BUN10,1. FC Köln,"31,999"
+D1,2019-10-26,14:30,Bayern Munich,Union Berlin,2,1,H,BUN1,BUN15,Munich,BUN1,1. FC Union Berlin,"75,000"
+D1,2019-10-26,14:30,Paderborn,Fortuna Dusseldorf,2,0,H,BUN12,BUN5,Paderborn,BUN12,Fortuna Düsseldorf,"14,182"
+D1,2019-10-26,17:30,Leverkusen,Werder Bremen,2,2,D,BUN9,BUN16,Leverkusen,BUN9,Werder Bremen,"30,210"
+D1,2019-10-26,14:30,Freiburg,RB Leipzig,2,1,H,BUN6,BUN13,Freiburg,BUN6,RB Leipzig,"24,000"
+D1,2019-10-26,14:30,Hertha,Hoffenheim,2,3,A,BUN7,BUN8,Berlin,BUN7,1899 Hoffenheim,"44,702"
+D1,2019-10-26,14:30,Schalke 04,Dortmund,0,0,D,BUN14,BUN2,Gelsenkirchen,BUN14,Borussia Dortmund,"61,873"
+D1,2019-10-27,17:00,M'gladbach,Ein Frankfurt,4,2,H,BUN11,BUN3,Monchengladbach,BUN11,Eintracht Frankfurt,"52,300"
+D1,2019-10-27,14:30,Wolfsburg,Augsburg,0,0,D,BUN17,BUN0,Wolfsburg,BUN17,FC Augsburg,"22,630"
+D1,2019-11-01,19:30,Hoffenheim,Paderborn,3,0,H,BUN8,BUN12,Sinsheim,BUN8,SC Paderborn 07,"23,629"
+D1,2019-11-02,17:30,Union Berlin,Hertha,1,0,H,BUN15,BUN7,Berlin,BUN15,Hertha Berlin,"22,012"
+D1,2019-11-02,14:30,Leverkusen,M'gladbach,1,2,A,BUN9,BUN11,Leverkusen,BUN9,Borussia Mönchengladbach,"30,210"
+D1,2019-11-02,14:30,Dortmund,Wolfsburg,3,0,H,BUN2,BUN17,Dortmund,BUN2,VfL Wolfsburg,"80,200"
+D1,2019-11-02,14:30,Werder Bremen,Freiburg,2,2,D,BUN16,BUN6,Bremen,BUN16,SC Freiburg,"41,000"
+D1,2019-11-02,14:30,RB Leipzig,Mainz,8,0,H,BUN13,BUN10,Leipzig,BUN13,Mainz 05,"38,517"
+D1,2019-11-02,14:30,Ein Frankfurt,Bayern Munich,5,1,H,BUN3,BUN1,Frankfurt,BUN3,Bayern Munich,"51,500"
+D1,2019-11-03,17:00,Augsburg,Schalke 04,2,3,A,BUN0,BUN14,Augsburg,BUN0,FC Schalke 04,"30,361"
+D1,2019-11-03,14:30,Fortuna Dusseldorf,FC Koln,2,0,H,BUN5,BUN4,Dusseldorf,BUN5,1. FC Köln,"51,155"
+D1,2019-11-08,19:30,FC Koln,Hoffenheim,1,2,A,BUN4,BUN8,Cologne,BUN4,1899 Hoffenheim,"49,100"
+D1,2019-11-09,14:30,Hertha,RB Leipzig,2,4,A,BUN7,BUN13,Berlin,BUN7,RB Leipzig,"48,532"
+D1,2019-11-09,14:30,Mainz,Union Berlin,2,3,A,BUN10,BUN15,Mainz,BUN10,1. FC Union Berlin,"24,349"
+D1,2019-11-09,14:30,Paderborn,Augsburg,0,1,A,BUN12,BUN0,Paderborn,BUN12,FC Augsburg,"13,758"
+D1,2019-11-09,17:30,Bayern Munich,Dortmund,4,0,H,BUN1,BUN2,Munich,BUN1,Borussia Dortmund,"75,000"
+D1,2019-11-09,14:30,Schalke 04,Fortuna Dusseldorf,3,3,D,BUN14,BUN5,Gelsenkirchen,BUN14,Fortuna DÃ¼sseldorf,"61,831"
+D1,2019-11-10,14:30,Wolfsburg,Leverkusen,0,2,A,BUN17,BUN9,Wolfsburg,BUN17,Bayer 04 Leverkusen,"24,112"
+D1,2019-11-10,12:30,M'gladbach,Werder Bremen,3,1,H,BUN11,BUN16,Monchengladbach,BUN11,Werder Bremen,"54,022"
+D1,2019-11-10,17:00,Freiburg,Ein Frankfurt,1,0,H,BUN6,BUN3,Freiburg,BUN6,Eintracht Frankfurt,"24,000"
+D1,2019-11-22,19:30,Dortmund,Paderborn,3,3,D,BUN2,BUN12,Dortmund,BUN2,SC Paderborn 07,"81,365"
+D1,2019-11-23,14:30,Union Berlin,M'gladbach,2,0,H,BUN15,BUN11,Berlin,BUN15,Borussia Mönchengladbach,"22,012"
+D1,2019-11-23,14:30,Fortuna Dusseldorf,Bayern Munich,0,4,A,BUN5,BUN1,Dusseldorf,BUN5,Bayern Munich,"53,000"
+D1,2019-11-23,17:30,RB Leipzig,FC Koln,4,1,H,BUN13,BUN4,Leipzig,BUN13,1. FC Köln,"42,036"
+D1,2019-11-23,14:30,Werder Bremen,Schalke 04,1,2,A,BUN16,BUN14,Bremen,BUN16,FC Schalke 04,"42,100"
+D1,2019-11-23,14:30,Ein Frankfurt,Wolfsburg,0,2,A,BUN3,BUN17,Frankfurt,BUN3,VfL Wolfsburg,"50,700"
+D1,2019-11-23,14:30,Leverkusen,Freiburg,1,1,D,BUN9,BUN6,Leverkusen,BUN9,SC Freiburg,"29,032"
+D1,2019-11-24,14:30,Augsburg,Hertha,4,0,H,BUN0,BUN7,Augsburg,BUN0,Hertha Berlin,"29,233"
+D1,2019-11-24,17:00,Hoffenheim,Mainz,1,5,A,BUN8,BUN10,Sinsheim,BUN8,Mainz 05,"23,129"
+D1,2019-11-29,19:30,Schalke 04,Union Berlin,2,1,H,BUN14,BUN15,Gelsenkirchen,BUN14,1. FC Union Berlin,"61,837"
+D1,2019-11-30,14:30,Hoffenheim,Fortuna Dusseldorf,1,1,D,BUN8,BUN5,Sinsheim,BUN8,Fortuna Düsseldorf,"25,427"
+D1,2019-11-30,17:30,Bayern Munich,Leverkusen,1,2,A,BUN1,BUN9,Munich,BUN1,Bayer 04 Leverkusen,"75,000"
+D1,2019-11-30,14:30,Hertha,Dortmund,1,2,A,BUN7,BUN2,Berlin,BUN7,Borussia Dortmund,"74,667"
+D1,2019-11-30,14:30,Paderborn,RB Leipzig,2,3,A,BUN12,BUN13,Paderborn,BUN12,RB Leipzig,"13,253"
+D1,2019-11-30,14:30,FC Koln,Augsburg,1,1,D,BUN4,BUN0,Cologne,BUN4,FC Augsburg,"49,200"
+D1,2019-12-01,14:30,M'gladbach,Freiburg,4,2,H,BUN11,BUN6,Monchengladbach,BUN11,SC Freiburg,"51,080"
+D1,2019-12-01,17:00,Wolfsburg,Werder Bremen,2,3,A,BUN17,BUN16,Wolfsburg,BUN17,Werder Bremen,"26,012"
+D1,2019-12-02,19:30,Mainz,Ein Frankfurt,2,1,H,BUN10,BUN3,Mainz,BUN10,Eintracht Frankfurt,"33,134"
+D1,2019-12-06,19:30,Ein Frankfurt,Hertha,2,2,D,BUN3,BUN7,Frankfurt,BUN3,Hertha Berlin,"50,000"
+D1,2019-12-07,14:30,Augsburg,Mainz,2,1,H,BUN0,BUN10,Augsburg,BUN0,Mainz 05,"26,950"
+D1,2019-12-07,14:30,Freiburg,Wolfsburg,1,0,H,BUN6,BUN17,Freiburg,BUN6,VfL Wolfsburg,"23,800"
+D1,2019-12-07,14:30,M'gladbach,Bayern Munich,2,1,H,BUN11,BUN1,Monchengladbach,BUN11,Bayern Munich,"54,022"
+D1,2019-12-07,14:30,RB Leipzig,Hoffenheim,3,1,H,BUN13,BUN8,Leipzig,BUN13,1899 Hoffenheim,"38,407"
+D1,2019-12-07,14:30,Dortmund,Fortuna Dusseldorf,5,0,H,BUN2,BUN5,Dortmund,BUN2,Fortuna Düsseldorf,"81,365"
+D1,2019-12-07,17:30,Leverkusen,Schalke 04,2,1,H,BUN9,BUN14,Leverkusen,BUN9,FC Schalke 04,"30,210"
+D1,2019-12-08,14:30,Union Berlin,FC Koln,2,0,H,BUN15,BUN4,Berlin,BUN15,1. FC Köln,"22,012"
+D1,2019-12-08,17:00,Werder Bremen,Paderborn,0,1,A,BUN16,BUN12,Bremen,BUN16,SC Paderborn 07,"39,870"
+D1,2019-12-13,19:30,Hoffenheim,Augsburg,2,4,A,BUN8,BUN0,Sinsheim,BUN8,FC Augsburg,"23,309"
+D1,2019-12-14,14:30,Hertha,Freiburg,1,0,H,BUN7,BUN6,Berlin,BUN7,SC Freiburg,"37,343"
+D1,2019-12-14,14:30,Paderborn,Union Berlin,1,1,D,BUN12,BUN15,Paderborn,BUN12,1. FC Union Berlin,"14,414"
+D1,2019-12-14,14:30,Bayern Munich,Werder Bremen,6,1,H,BUN1,BUN16,Munich,BUN1,Werder Bremen,"75,000"
+D1,2019-12-14,14:30,Mainz,Dortmund,0,4,A,BUN10,BUN2,Mainz,BUN10,Borussia Dortmund,"33,305"
+D1,2019-12-14,14:30,FC Koln,Leverkusen,2,0,H,BUN4,BUN9,Cologne,BUN4,Bayer 04 Leverkusen,"49,500"
+D1,2019-12-14,17:30,Fortuna Dusseldorf,RB Leipzig,0,3,A,BUN5,BUN13,Dusseldorf,BUN5,RB Leipzig,"35,387"
+D1,2019-12-15,17:00,Schalke 04,Ein Frankfurt,1,0,H,BUN14,BUN3,Gelsenkirchen,BUN14,Eintracht Frankfurt,"60,811"
+D1,2019-12-15,14:30,Wolfsburg,M'gladbach,2,1,H,BUN17,BUN11,Wolfsburg,BUN17,Borussia Mönchengladbach,"25,580"
+D1,2019-12-17,19:30,Dortmund,RB Leipzig,3,3,D,BUN2,BUN13,Dortmund,BUN2,RB Leipzig,"80,200"
+D1,2019-12-17,19:30,Union Berlin,Hoffenheim,0,2,A,BUN15,BUN8,Berlin,BUN15,1899 Hoffenheim,"20,350"
+D1,2019-12-17,19:30,Augsburg,Fortuna Dusseldorf,3,0,H,BUN0,BUN5,Augsburg,BUN0,Fortuna Düsseldorf,"27,763"
+D1,2019-12-17,17:30,Werder Bremen,Mainz,0,5,A,BUN16,BUN10,Bremen,BUN16,Mainz 05,"37,720"
+D1,2019-12-18,19:30,Freiburg,Bayern Munich,1,3,A,BUN6,BUN1,Freiburg,BUN6,Bayern Munich,"24,000"
+D1,2019-12-18,19:30,Wolfsburg,Schalke 04,1,1,D,BUN17,BUN14,Wolfsburg,BUN17,FC Schalke 04,"24,651"
+D1,2019-12-18,19:30,Ein Frankfurt,FC Koln,2,4,A,BUN3,BUN4,Frankfurt,BUN3,1. FC Köln,"50,300"
+D1,2019-12-18,19:30,M'gladbach,Paderborn,2,0,H,BUN11,BUN12,Monchengladbach,BUN11,SC Paderborn 07,"44,494"
+D1,2019-12-18,17:30,Leverkusen,Hertha,0,1,A,BUN9,BUN7,Leverkusen,BUN9,Hertha Berlin,"24,472"
+D1,2019-12-20,19:30,Hoffenheim,Dortmund,2,1,H,BUN8,BUN2,Sinsheim,BUN8,Borussia Dortmund,"30,150"
+D1,2019-12-21,14:30,FC Koln,Werder Bremen,1,0,H,BUN4,BUN16,Cologne,BUN4,Werder Bremen,"50,000"
+D1,2019-12-21,14:30,Mainz,Leverkusen,0,1,A,BUN10,BUN9,Mainz,BUN10,Bayer 04 Leverkusen,"24,345"
+D1,2019-12-21,17:30,Hertha,M'gladbach,0,0,D,BUN7,BUN11,Berlin,BUN7,Borussia Mönchengladbach,"50,208"
+D1,2019-12-21,14:30,RB Leipzig,Augsburg,3,1,H,BUN13,BUN0,Leipzig,BUN13,FC Augsburg,"40,562"
+D1,2019-12-21,14:30,Schalke 04,Freiburg,2,2,D,BUN14,BUN6,Gelsenkirchen,BUN14,SC Freiburg,"61,867"
+D1,2019-12-21,14:30,Bayern Munich,Wolfsburg,2,0,H,BUN1,BUN17,Munich,BUN1,VfL Wolfsburg,"75,000"
+D1,2019-12-22,17:00,Paderborn,Ein Frankfurt,2,1,H,BUN12,BUN3,Paderborn,BUN12,Eintracht Frankfurt,"15,000"
+D1,2019-12-22,14:30,Fortuna Dusseldorf,Union Berlin,2,1,H,BUN5,BUN15,Dusseldorf,BUN5,1. FC Union Berlin,"45,490"
+D1,2020-01-17,19:30,Schalke 04,M'gladbach,2,0,H,BUN14,BUN11,Gelsenkirchen,BUN14,Borussia MÃ¶nchengladbach,"62,271"
+D1,2020-01-18,14:30,Mainz,Freiburg,1,2,A,BUN10,BUN6,Mainz,BUN10,SC Freiburg,"23,138"
+D1,2020-01-18,17:30,RB Leipzig,Union Berlin,3,1,H,BUN13,BUN15,Leipzig,BUN13,1. FC Union Berlin,"42,146"
+D1,2020-01-18,14:30,Fortuna Dusseldorf,Werder Bremen,0,1,A,BUN5,BUN16,Dusseldorf,BUN5,Werder Bremen,"46,000"
+D1,2020-01-18,14:30,Augsburg,Dortmund,3,5,A,BUN0,BUN2,Augsburg,BUN0,Borussia Dortmund,"30,660"
+D1,2020-01-18,14:30,Hoffenheim,Ein Frankfurt,1,2,A,BUN8,BUN3,Sinsheim,BUN8,Eintracht Frankfurt,"29,610"
+D1,2020-01-18,14:30,FC Koln,Wolfsburg,3,1,H,BUN4,BUN17,Cologne,BUN4,VfL Wolfsburg,"49,100"
+D1,2020-01-19,17:00,Paderborn,Leverkusen,1,4,A,BUN12,BUN9,Paderborn,BUN12,Bayer 04 Leverkusen,"14,889"
+D1,2020-01-19,14:30,Hertha,Bayern Munich,0,4,A,BUN7,BUN1,Berlin,BUN7,Bayern Munich,"74,667"
+D1,2020-01-24,19:30,Dortmund,FC Koln,5,1,H,BUN2,BUN4,Dortmund,BUN2,1. FC Köln,"81,365"
+D1,2020-01-25,14:30,Union Berlin,Augsburg,2,0,H,BUN15,BUN0,Berlin,BUN15,FC Augsburg,"22,012"
+D1,2020-01-25,14:30,Ein Frankfurt,RB Leipzig,2,0,H,BUN3,BUN13,Frankfurt,BUN3,RB Leipzig,"50,300"
+D1,2020-01-25,17:30,Bayern Munich,Schalke 04,5,0,H,BUN1,BUN14,Munich,BUN1,FC Schalke 04,"75,000"
+D1,2020-01-25,14:30,Wolfsburg,Hertha,1,2,A,BUN17,BUN7,Wolfsburg,BUN17,Hertha Berlin,"24,894"
+D1,2020-01-25,14:30,M'gladbach,Mainz,3,1,H,BUN11,BUN10,Monchengladbach,BUN11,Mainz 05,"49,175"
+D1,2020-01-25,14:30,Freiburg,Paderborn,0,2,A,BUN6,BUN12,Freiburg,BUN6,SC Paderborn 07,"23,500"
+D1,2020-01-26,17:00,Leverkusen,Fortuna Dusseldorf,3,0,H,BUN9,BUN5,Leverkusen,BUN9,Fortuna Düsseldorf,"26,250"
+D1,2020-01-26,14:30,Werder Bremen,Hoffenheim,0,3,A,BUN16,BUN8,Bremen,BUN16,1899 Hoffenheim,"40,000"
+D1,2020-01-31,19:30,Hertha,Schalke 04,0,0,D,BUN7,BUN14,Berlin,BUN7,FC Schalke 04,"47,863"
+D1,2020-02-01,14:30,Hoffenheim,Leverkusen,2,1,H,BUN8,BUN9,Sinsheim,BUN8,Bayer 04 Leverkusen,"24,489"
+D1,2020-02-01,14:30,Dortmund,Union Berlin,5,0,H,BUN2,BUN15,Dortmund,BUN2,1. FC Union Berlin,"81,365"
+D1,2020-02-01,14:30,Augsburg,Werder Bremen,2,1,H,BUN0,BUN16,Augsburg,BUN0,Werder Bremen,"29,432"
+D1,2020-02-01,17:30,RB Leipzig,M'gladbach,2,2,D,BUN13,BUN11,Leipzig,BUN13,Borussia Mönchengladbach,"42,146"
+D1,2020-02-01,14:30,Fortuna Dusseldorf,Ein Frankfurt,1,1,D,BUN5,BUN3,Dusseldorf,BUN5,Eintracht Frankfurt,"45,018"
+D1,2020-02-01,14:30,Mainz,Bayern Munich,1,3,A,BUN10,BUN1,Mainz,BUN10,Bayern Munich,"33,305"
+D1,2020-02-02,17:00,Paderborn,Wolfsburg,2,4,A,BUN12,BUN17,Paderborn,BUN12,VfL Wolfsburg,"13,926"
+D1,2020-02-02,14:30,FC Koln,Freiburg,4,0,H,BUN4,BUN6,Cologne,BUN4,SC Freiburg,"50,000"
+D1,2020-02-07,19:30,Ein Frankfurt,Augsburg,5,0,H,BUN3,BUN0,Frankfurt,BUN3,FC Augsburg,"48,800"
+D1,2020-02-08,14:30,Freiburg,Hoffenheim,1,0,H,BUN6,BUN8,Freiburg,BUN6,1899 Hoffenheim,"24,000"
+D1,2020-02-08,14:30,Hertha,Mainz,1,3,A,BUN7,BUN10,Berlin,BUN7,Mainz 05,"35,049"
+D1,2020-02-08,14:30,Werder Bremen,Union Berlin,0,2,A,BUN16,BUN15,Bremen,BUN16,1. FC Union Berlin,"42,100"
+D1,2020-02-08,17:30,Leverkusen,Dortmund,4,3,H,BUN9,BUN2,Leverkusen,BUN9,Borussia Dortmund,"30,210"
+D1,2020-02-08,14:30,Schalke 04,Paderborn,1,1,D,BUN14,BUN12,Gelsenkirchen,BUN14,SC Paderborn 07,"61,614"
+D1,2020-02-08,14:30,Wolfsburg,Fortuna Dusseldorf,1,1,D,BUN17,BUN5,Wolfsburg,BUN17,Fortuna Düsseldorf,"23,445"
+D1,2020-02-09,17:00,Bayern Munich,RB Leipzig,0,0,D,BUN1,BUN13,Munich,BUN1,RB Leipzig,"75,000"
+D1,2020-02-14,19:30,Dortmund,Ein Frankfurt,4,0,H,BUN2,BUN3,Dortmund,BUN2,Eintracht Frankfurt,"81,365"
+D1,2020-02-15,14:30,RB Leipzig,Werder Bremen,3,0,H,BUN13,BUN16,Leipzig,BUN13,Werder Bremen,"41,308"
+D1,2020-02-15,14:30,Union Berlin,Leverkusen,2,3,A,BUN15,BUN9,Berlin,BUN15,Bayer 04 Leverkusen,"22,012"
+D1,2020-02-15,14:30,Hoffenheim,Wolfsburg,2,3,A,BUN8,BUN17,Sinsheim,BUN8,VfL Wolfsburg,"22,506"
+D1,2020-02-15,14:30,Paderborn,Hertha,1,2,A,BUN12,BUN7,Paderborn,BUN12,Hertha Berlin,"14,687"
+D1,2020-02-15,14:30,Augsburg,Freiburg,1,1,D,BUN0,BUN6,Augsburg,BUN0,SC Freiburg,"26,822"
+D1,2020-02-15,17:30,Fortuna Dusseldorf,M'gladbach,1,4,A,BUN5,BUN11,Dusseldorf,BUN5,Borussia Mönchengladbach,"51,000"
+D1,2020-02-16,17:00,Mainz,Schalke 04,0,0,D,BUN10,BUN14,Mainz,BUN10,FC Schalke 04,"27,482"
+D1,2020-02-16,14:30,FC Koln,Bayern Munich,1,4,A,BUN4,BUN1,Cologne,BUN4,Bayern Munich,"50,000"
+D1,2020-02-21,19:30,Bayern Munich,Paderborn,3,2,H,BUN1,BUN12,Munich,BUN1,SC Paderborn 07,"75,000"
+D1,2020-02-22,14:30,Hertha,FC Koln,0,5,A,BUN7,BUN4,Berlin,BUN7,1. FC Köln,"46,207"
+D1,2020-02-22,14:30,Freiburg,Fortuna Dusseldorf,0,2,A,BUN6,BUN5,Freiburg,BUN6,Fortuna Düsseldorf,"24,000"
+D1,2020-02-22,17:30,Schalke 04,RB Leipzig,0,5,A,BUN14,BUN13,Gelsenkirchen,BUN14,RB Leipzig,"61,433"
+D1,2020-02-22,14:30,Werder Bremen,Dortmund,0,2,A,BUN16,BUN2,Bremen,BUN16,Borussia Dortmund,"42,100"
+D1,2020-02-22,14:30,M'gladbach,Hoffenheim,1,1,D,BUN11,BUN8,Monchengladbach,BUN11,1899 Hoffenheim,"50,250"
+D1,2020-02-23,14:30,Leverkusen,Augsburg,2,0,H,BUN9,BUN0,Leverkusen,BUN9,FC Augsburg,"23,703"
+D1,2020-02-23,17:00,Wolfsburg,Mainz,4,0,H,BUN17,BUN10,Wolfsburg,BUN17,Mainz 05,"21,058"
+D1,2020-02-24,19:30,Ein Frankfurt,Union Berlin,1,2,A,BUN3,BUN15,Frankfurt,BUN3,1. FC Union Berlin,"47,000"
+D1,2020-02-28,19:30,Fortuna Dusseldorf,Hertha,3,3,D,BUN5,BUN7,Dusseldorf,BUN5,Hertha Berlin,"31,632"
+D1,2020-02-29,14:30,Mainz,Paderborn,2,0,H,BUN10,BUN12,Mainz,BUN10,SC Paderborn 07,"24,231"
+D1,2020-02-29,17:30,FC Koln,Schalke 04,3,0,H,BUN4,BUN14,Cologne,BUN4,FC Schalke 04,"50,000"
+D1,2020-02-29,14:30,Augsburg,M'gladbach,2,3,A,BUN0,BUN11,Augsburg,BUN0,Borussia Mönchengladbach,"29,303"
+D1,2020-02-29,14:30,Dortmund,Freiburg,1,0,H,BUN2,BUN6,Dortmund,BUN2,SC Freiburg,"81,365"
+D1,2020-02-29,14:30,Hoffenheim,Bayern Munich,0,6,A,BUN8,BUN1,Sinsheim,BUN8,Bayern Munich,"30,150"
+D1,2020-03-01,12:30,Union Berlin,Wolfsburg,2,2,D,BUN15,BUN17,Berlin,BUN15,VfL Wolfsburg,"22,012"
+D1,2020-03-01,14:30,RB Leipzig,Leverkusen,1,1,D,BUN13,BUN9,Leipzig,BUN13,Bayer 04 Leverkusen,"41,216"
+D1,2020-03-06,19:00,Paderborn,FC Koln,1,2,A,BUN12,BUN4,Paderborn,BUN12,1. FC Köln,"15,000"
+D1,2020-03-07,14:30,Hertha,Werder Bremen,2,2,D,BUN7,BUN16,Berlin,BUN7,Werder Bremen,"58,028"
+D1,2020-03-07,14:30,Wolfsburg,RB Leipzig,0,0,D,BUN17,BUN13,Wolfsburg,BUN17,RB Leipzig,"27,195"
+D1,2020-03-07,14:30,Schalke 04,Hoffenheim,1,1,D,BUN14,BUN8,Gelsenkirchen,BUN14,1899 Hoffenheim,"58,324"
+D1,2020-03-07,14:30,Freiburg,Union Berlin,3,1,H,BUN6,BUN15,Freiburg,BUN6,1. FC Union Berlin,"24,000"
+D1,2020-03-07,17:30,M'gladbach,Dortmund,1,2,A,BUN11,BUN2,Monchengladbach,BUN11,Borussia Dortmund,"54,022"
+D1,2020-03-07,14:30,Leverkusen,Ein Frankfurt,4,0,H,BUN9,BUN3,Leverkusen,BUN9,Eintracht Frankfurt,"30,210"
+D1,2020-03-08,17:00,Mainz,Fortuna Dusseldorf,1,1,D,BUN10,BUN5,Mainz,BUN10,Fortuna Düsseldorf,"21,409"
+D1,2020-03-08,14:30,Bayern Munich,Augsburg,2,0,H,BUN1,BUN0,Munich,BUN1,FC Augsburg,"75,000"
+D1,2020-03-11,17:30,M'gladbach,FC Koln,2,1,H,BUN11,BUN4,Monchengladbach,BUN11,1. FC Köln,
+D1,2020-05-16,14:30,Hoffenheim,Hertha,0,3,A,BUN8,BUN7,Sinsheim,BUN8,Hertha Berlin,
+D1,2020-05-16,14:30,Fortuna Dusseldorf,Paderborn,0,0,D,BUN5,BUN12,Dusseldorf,BUN5,SC Paderborn 07,
+D1,2020-05-16,14:30,Augsburg,Wolfsburg,1,2,A,BUN0,BUN17,Augsburg,BUN0,VfL Wolfsburg,
+D1,2020-05-16,14:30,RB Leipzig,Freiburg,1,1,D,BUN13,BUN6,Leipzig,BUN13,SC Freiburg,
+D1,2020-05-16,14:30,Dortmund,Schalke 04,4,0,H,BUN2,BUN14,Dortmund,BUN2,FC Schalke 04,
+D1,2020-05-16,17:30,Ein Frankfurt,M'gladbach,1,3,A,BUN3,BUN11,Frankfurt,BUN3,Borussia Mönchengladbach,
+D1,2020-05-17,14:30,FC Koln,Mainz,2,2,D,BUN4,BUN10,Cologne,BUN4,Mainz 05,
+D1,2020-05-17,17:00,Union Berlin,Bayern Munich,0,2,A,BUN15,BUN1,Berlin,BUN15,Bayern Munich,
+D1,2020-05-18,19:30,Werder Bremen,Leverkusen,1,4,A,BUN16,BUN9,Bremen,BUN16,Bayer 04 Leverkusen,
+D1,2020-05-22,19:30,Hertha,Union Berlin,4,0,H,BUN7,BUN15,Berlin,BUN7,1. FC Union Berlin,
+D1,2020-05-23,17:30,Bayern Munich,Ein Frankfurt,5,2,H,BUN1,BUN3,Munich,BUN1,Eintracht Frankfurt,
+D1,2020-05-23,14:30,Freiburg,Werder Bremen,0,1,A,BUN6,BUN16,Freiburg,BUN6,Werder Bremen,
+D1,2020-05-23,14:30,M'gladbach,Leverkusen,1,3,A,BUN11,BUN9,Monchengladbach,BUN11,Bayer 04 Leverkusen,
+D1,2020-05-23,14:30,Wolfsburg,Dortmund,0,2,A,BUN17,BUN2,Wolfsburg,BUN17,Borussia Dortmund,
+D1,2020-05-23,14:30,Paderborn,Hoffenheim,1,1,D,BUN12,BUN8,Paderborn,BUN12,1899 Hoffenheim,
+D1,2020-05-24,12:30,Schalke 04,Augsburg,0,3,A,BUN14,BUN0,Gelsenkirchen,BUN14,FC Augsburg,
+D1,2020-05-24,14:30,Mainz,RB Leipzig,0,5,A,BUN10,BUN13,Mainz,BUN10,RB Leipzig,
+D1,2020-05-24,17:00,FC Koln,Fortuna Dusseldorf,2,2,D,BUN4,BUN5,Cologne,BUN4,Fortuna Düsseldorf,
+D1,2020-05-26,19:30,Werder Bremen,M'gladbach,0,0,D,BUN16,BUN11,Bremen,BUN16,Borussia Mönchengladbach,
+D1,2020-05-26,17:30,Dortmund,Bayern Munich,0,1,A,BUN2,BUN1,Dortmund,BUN2,Bayern Munich,
+D1,2020-05-26,19:30,Leverkusen,Wolfsburg,1,4,A,BUN9,BUN17,Leverkusen,BUN9,VfL Wolfsburg,
+D1,2020-05-26,19:30,Ein Frankfurt,Freiburg,3,3,D,BUN3,BUN6,Frankfurt,BUN3,SC Freiburg,
+D1,2020-05-27,19:30,Hoffenheim,FC Koln,3,1,H,BUN8,BUN4,Sinsheim,BUN8,1. FC Köln,
+D1,2020-05-27,19:30,Augsburg,Paderborn,0,0,D,BUN0,BUN12,Augsburg,BUN0,SC Paderborn 07,
+D1,2020-05-27,17:30,RB Leipzig,Hertha,2,2,D,BUN13,BUN7,Leipzig,BUN13,Hertha Berlin,
+D1,2020-05-27,19:30,Fortuna Dusseldorf,Schalke 04,2,1,H,BUN5,BUN14,Dusseldorf,BUN5,FC Schalke 04,
+D1,2020-05-27,19:30,Union Berlin,Mainz,1,1,D,BUN15,BUN10,Berlin,BUN15,Mainz 05,
+D1,2020-05-29,19:30,Freiburg,Leverkusen,0,1,A,BUN6,BUN9,Freiburg,BUN6,Bayer 04 Leverkusen,
+D1,2020-05-30,14:30,Mainz,Hoffenheim,0,1,A,BUN10,BUN8,Mainz,BUN10,1899 Hoffenheim,
+D1,2020-05-30,14:30,Hertha,Augsburg,2,0,H,BUN7,BUN0,Berlin,BUN7,FC Augsburg,
+D1,2020-05-30,14:30,Schalke 04,Werder Bremen,0,1,A,BUN14,BUN16,Gelsenkirchen,BUN14,Werder Bremen,
+D1,2020-05-30,17:30,Bayern Munich,Fortuna Dusseldorf,5,0,H,BUN1,BUN5,Munich,BUN1,Fortuna Düsseldorf,
+D1,2020-05-30,14:30,Wolfsburg,Ein Frankfurt,1,2,A,BUN17,BUN3,Wolfsburg,BUN17,Eintracht Frankfurt,
+D1,2020-05-31,17:00,Paderborn,Dortmund,1,6,A,BUN12,BUN2,Paderborn,BUN12,Borussia Dortmund,
+D1,2020-05-31,14:30,M'gladbach,Union Berlin,4,1,H,BUN11,BUN15,Monchengladbach,BUN11,1. FC Union Berlin,
+D1,2020-06-01,19:30,FC Koln,RB Leipzig,2,4,A,BUN4,BUN13,Cologne,BUN4,RB Leipzig,
+D1,2020-06-03,19:30,Werder Bremen,Ein Frankfurt,0,3,A,BUN16,BUN3,Bremen,BUN16,Eintracht Frankfurt,
+D1,2020-06-05,19:30,Freiburg,M'gladbach,1,0,H,BUN6,BUN11,Freiburg,BUN6,Borussia Mönchengladbach,
+D1,2020-06-06,14:30,Ein Frankfurt,Mainz,0,2,A,BUN3,BUN10,Frankfurt,BUN3,Mainz 05,
+D1,2020-06-06,14:30,RB Leipzig,Paderborn,1,1,D,BUN13,BUN12,Leipzig,BUN13,SC Paderborn 07,
+D1,2020-06-06,17:30,Dortmund,Hertha,1,0,H,BUN2,BUN7,Dortmund,BUN2,Hertha Berlin,
+D1,2020-06-06,14:30,Fortuna Dusseldorf,Hoffenheim,2,2,D,BUN5,BUN8,Dusseldorf,BUN5,1899 Hoffenheim,
+D1,2020-06-06,14:30,Leverkusen,Bayern Munich,2,4,A,BUN9,BUN1,Leverkusen,BUN9,Bayern Munich,
+D1,2020-06-07,12:30,Werder Bremen,Wolfsburg,0,1,A,BUN16,BUN17,Bremen,BUN16,VfL Wolfsburg,
+D1,2020-06-07,14:30,Union Berlin,Schalke 04,1,1,D,BUN15,BUN14,Berlin,BUN15,FC Schalke 04,
+D1,2020-06-07,17:00,Augsburg,FC Koln,1,1,D,BUN0,BUN4,Augsburg,BUN0,1. FC Köln,
+D1,2020-06-12,19:30,Hoffenheim,RB Leipzig,0,2,A,BUN8,BUN13,Sinsheim,BUN8,RB Leipzig,
+D1,2020-06-13,14:30,FC Koln,Union Berlin,1,2,A,BUN4,BUN15,Cologne,BUN4,1. FC Union Berlin,
+D1,2020-06-13,17:30,Bayern Munich,M'gladbach,2,1,H,BUN1,BUN11,Munich,BUN1,Borussia Mönchengladbach,
+D1,2020-06-13,14:30,Hertha,Ein Frankfurt,1,4,A,BUN7,BUN3,Berlin,BUN7,Eintracht Frankfurt,
+D1,2020-06-13,14:30,Paderborn,Werder Bremen,1,5,A,BUN12,BUN16,Paderborn,BUN12,Werder Bremen,
+D1,2020-06-13,14:30,Wolfsburg,Freiburg,2,2,D,BUN17,BUN6,Wolfsburg,BUN17,SC Freiburg,
+D1,2020-06-13,14:30,Fortuna Dusseldorf,Dortmund,0,1,A,BUN5,BUN2,Dusseldorf,BUN5,Borussia Dortmund,
+D1,2020-06-14,17:00,Schalke 04,Leverkusen,1,1,D,BUN14,BUN9,Gelsenkirchen,BUN14,Bayer 04 Leverkusen,
+D1,2020-06-14,14:30,Mainz,Augsburg,0,1,A,BUN10,BUN0,Mainz,BUN10,FC Augsburg,
+D1,2020-06-16,17:30,M'gladbach,Wolfsburg,3,0,H,BUN11,BUN17,Monchengladbach,BUN11,VfL Wolfsburg,
+D1,2020-06-16,19:30,Union Berlin,Paderborn,1,0,H,BUN15,BUN12,Berlin,BUN15,SC Paderborn 07,
+D1,2020-06-16,19:30,Freiburg,Hertha,2,1,H,BUN6,BUN7,Freiburg,BUN6,Hertha Berlin,
+D1,2020-06-16,19:30,Werder Bremen,Bayern Munich,0,1,A,BUN16,BUN1,Bremen,BUN16,Bayern Munich,
+D1,2020-06-17,19:30,Augsburg,Hoffenheim,1,3,A,BUN0,BUN8,Augsburg,BUN0,1899 Hoffenheim,
+D1,2020-06-17,17:30,Ein Frankfurt,Schalke 04,2,1,H,BUN3,BUN14,Frankfurt,BUN3,FC Schalke 04,
+D1,2020-06-17,19:30,Dortmund,Mainz,0,2,A,BUN2,BUN10,Dortmund,BUN2,Mainz 05,
+D1,2020-06-17,19:30,RB Leipzig,Fortuna Dusseldorf,2,2,D,BUN13,BUN5,Leipzig,BUN13,Fortuna Düsseldorf,
+D1,2020-06-17,19:30,Leverkusen,FC Koln,3,1,H,BUN9,BUN4,Leverkusen,BUN9,1. FC Köln,
+D1,2020-06-20,14:30,Hoffenheim,Union Berlin,4,0,H,BUN8,BUN15,Sinsheim,BUN8,1. FC Union Berlin,
+D1,2020-06-20,14:30,Schalke 04,Wolfsburg,1,4,A,BUN14,BUN17,Gelsenkirchen,BUN14,VfL Wolfsburg,
+D1,2020-06-20,14:30,RB Leipzig,Dortmund,0,2,A,BUN13,BUN2,Leipzig,BUN13,Borussia Dortmund,
+D1,2020-06-20,14:30,Paderborn,M'gladbach,1,3,A,BUN12,BUN11,Paderborn,BUN12,Borussia Mönchengladbach,
+D1,2020-06-20,14:30,Mainz,Werder Bremen,3,1,H,BUN10,BUN16,Mainz,BUN10,Werder Bremen,
+D1,2020-06-20,14:30,Bayern Munich,Freiburg,3,1,H,BUN1,BUN6,Munich,BUN1,SC Freiburg,
+D1,2020-06-20,14:30,Hertha,Leverkusen,2,0,H,BUN7,BUN9,Berlin,BUN7,Bayer 04 Leverkusen,
+D1,2020-06-20,14:30,Fortuna Dusseldorf,Augsburg,1,1,D,BUN5,BUN0,Dusseldorf,BUN5,FC Augsburg,
+D1,2020-06-20,14:30,FC Koln,Ein Frankfurt,1,1,D,BUN4,BUN3,Cologne,BUN4,Eintracht Frankfurt,
+D1,2020-06-27,14:30,Union Berlin,Fortuna Dusseldorf,3,0,H,BUN15,BUN5,Berlin,BUN15,Fortuna Düsseldorf,
+D1,2020-06-27,14:30,Augsburg,RB Leipzig,1,2,A,BUN0,BUN13,Augsburg,BUN0,RB Leipzig,
+D1,2020-06-27,14:30,Dortmund,Hoffenheim,0,4,A,BUN2,BUN8,Dortmund,BUN2,1899 Hoffenheim,
+D1,2020-06-27,14:30,Freiburg,Schalke 04,4,0,H,BUN6,BUN14,Freiburg,BUN6,FC Schalke 04,
+D1,2020-06-27,14:30,Werder Bremen,FC Koln,6,1,H,BUN16,BUN4,Bremen,BUN16,1. FC Köln,
+D1,2020-06-27,14:30,Leverkusen,Mainz,1,0,H,BUN9,BUN10,Leverkusen,BUN9,Mainz 05,
+D1,2020-06-27,14:30,M'gladbach,Hertha,2,1,H,BUN11,BUN7,Monchengladbach,BUN11,Hertha Berlin,
+D1,2020-06-27,14:30,Ein Frankfurt,Paderborn,3,2,H,BUN3,BUN12,Frankfurt,BUN3,SC Paderborn 07,
+D1,2020-06-27,14:30,Wolfsburg,Bayern Munich,0,4,A,BUN17,BUN1,Wolfsburg,BUN17,Bayern Munich,
