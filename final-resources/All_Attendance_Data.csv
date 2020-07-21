@@ -1,0 +1,1117 @@
+Div,Date,Time,HomeTeam,AwayTeam,HomeScore,AwayScore,Result,HomeTeam ID,AwayTeam ID, City,Team ID,Opponent,Attendance,City
+E0,2019-08-09,20:00,Liverpool,Norwich,4,1,H,EPL9,EPL13,Liverpool,EPL9,Norwich City,53333.0,0
+E0,2019-08-10,12:30,West Ham,Man City,0,5,A,EPL18,EPL10,London,EPL18,Manchester City,59870.0,0
+E0,2019-08-10,15:00,Watford,Brighton,0,3,A,EPL17,EPL3,Watford,EPL17,Brighton & Hove Albion,20245.0,0
+E0,2019-08-10,17:30,Tottenham,Aston Villa,3,1,H,EPL16,EPL1,London,EPL16,Aston Villa,60407.0,0
+E0,2019-08-10,15:00,Crystal Palace,Everton,0,0,D,EPL6,EPL7,London,EPL6,Everton,25151.0,0
+E0,2019-08-10,15:00,Burnley,Southampton,3,0,H,EPL4,EPL15,Burnley,EPL4,Southampton,19784.0,0
+E0,2019-08-10,15:00,Bournemouth,Sheffield United,1,1,D,EPL2,EPL14,Bournemouth,EPL2,Sheffield United,10714.0,0
+E0,2019-08-11,14:00,Newcastle,Arsenal,0,1,A,EPL12,EPL0,Newcastle upon Tyne,EPL12,Arsenal,47635.0,0
+E0,2019-08-11,16:30,Man United,Chelsea,4,0,H,EPL11,EPL5,Manchester,EPL11,Chelsea,73620.0,0
+E0,2019-08-11,14:00,Leicester,Wolves,0,0,D,EPL8,EPL19,Leicester,EPL8,Wolverhampton Wanderers,32015.0,0
+E0,2019-08-17,17:30,Man City,Tottenham,2,2,D,EPL10,EPL16,Manchester,EPL10,Tottenham Hotspur,54503.0,0
+E0,2019-08-17,15:00,Aston Villa,Bournemouth,1,2,A,EPL1,EPL2,Birmingham,EPL1,AFC Bournemouth,40996.0,0
+E0,2019-08-17,15:00,Brighton,West Ham,1,1,D,EPL3,EPL18,Brighton,EPL3,West Ham United,30459.0,0
+E0,2019-08-17,15:00,Southampton,Liverpool,1,2,A,EPL15,EPL9,Southampton,EPL15,Liverpool,31712.0,0
+E0,2019-08-17,15:00,Norwich,Newcastle,3,1,H,EPL13,EPL12,Norwich,EPL13,Newcastle United,27059.0,0
+E0,2019-08-17,12:30,Arsenal,Burnley,2,1,H,EPL0,EPL4,London,EPL0,Burnley,60214.0,0
+E0,2019-08-17,15:00,Everton,Watford,1,0,H,EPL7,EPL17,Liverpool,EPL7,Watford,39066.0,0
+E0,2019-08-18,14:00,Sheffield United,Crystal Palace,1,0,H,EPL14,EPL6,Sheffield,EPL14,Crystal Palace,30197.0,0
+E0,2019-08-18,16:30,Chelsea,Leicester,1,1,D,EPL5,EPL8,London,EPL5,Leicester City,40629.0,0
+E0,2019-08-19,20:00,Wolves,Man United,1,1,D,EPL19,EPL11,Wolverhampton,EPL19,Manchester United,31314.0,0
+E0,2019-08-23,20:00,Aston Villa,Everton,2,0,H,EPL1,EPL7,Birmingham,EPL1,Everton,41922.0,0
+E0,2019-08-24,15:00,Brighton,Southampton,0,2,A,EPL3,EPL15,Brighton,EPL3,Southampton,30019.0,0
+E0,2019-08-24,17:30,Liverpool,Arsenal,3,1,H,EPL9,EPL0,Liverpool,EPL9,Arsenal,53298.0,0
+E0,2019-08-24,15:00,Watford,West Ham,1,3,A,EPL17,EPL18,Watford,EPL17,West Ham United,20035.0,0
+E0,2019-08-24,15:00,Sheffield United,Leicester,1,2,A,EPL14,EPL8,Sheffield,EPL14,Leicester City,30079.0,0
+E0,2019-08-24,12:30,Norwich,Chelsea,2,3,A,EPL13,EPL5,Norwich,EPL13,Chelsea,27032.0,0
+E0,2019-08-24,15:00,Man United,Crystal Palace,1,2,A,EPL11,EPL6,Manchester,EPL11,Crystal Palace,73454.0,0
+E0,2019-08-25,14:00,Bournemouth,Man City,1,3,A,EPL2,EPL10,Bournemouth,EPL2,Manchester City,10486.0,0
+E0,2019-08-25,16:30,Tottenham,Newcastle,0,1,A,EPL16,EPL12,London,EPL16,Newcastle United,59245.0,0
+E0,2019-08-25,16:30,Wolves,Burnley,1,1,D,EPL19,EPL4,Wolverhampton,EPL19,Burnley,30522.0,0
+E0,2019-08-31,15:00,Newcastle,Watford,1,1,D,EPL12,EPL17,Newcastle upon Tyne,EPL12,Watford,44157.0,0
+E0,2019-08-31,15:00,Man City,Brighton,4,0,H,EPL10,EPL3,Manchester,EPL10,Brighton & Hove Albion,54386.0,0
+E0,2019-08-31,15:00,Chelsea,Sheffield United,2,2,D,EPL5,EPL14,London,EPL5,Sheffield United,40560.0,0
+E0,2019-08-31,15:00,West Ham,Norwich,2,0,H,EPL18,EPL13,London,EPL18,Norwich City,59950.0,0
+E0,2019-08-31,15:00,Leicester,Bournemouth,3,1,H,EPL8,EPL2,Leicester,EPL8,AFC Bournemouth,31613.0,0
+E0,2019-08-31,12:30,Southampton,Man United,1,1,D,EPL15,EPL11,Southampton,EPL15,Manchester United,30499.0,0
+E0,2019-08-31,17:30,Burnley,Liverpool,0,3,A,EPL4,EPL9,Burnley,EPL4,Liverpool,21762.0,0
+E0,2019-09-01,16:30,Arsenal,Tottenham,2,2,D,EPL0,EPL16,London,EPL0,Tottenham Hotspur,60333.0,0
+E0,2019-09-01,14:00,Everton,Wolves,3,2,H,EPL7,EPL19,Liverpool,EPL7,Wolverhampton Wanderers,39374.0,0
+E0,2019-09-14,15:00,Tottenham,Crystal Palace,4,0,H,EPL16,EPL6,London,EPL16,Crystal Palace,59812.0,0
+E0,2019-09-14,15:00,Wolves,Chelsea,2,5,A,EPL19,EPL5,Wolverhampton,EPL19,Chelsea,31534.0,0
+E0,2019-09-14,17:30,Norwich,Man City,3,2,H,EPL13,EPL10,Norwich,EPL13,Manchester City,27035.0,0
+E0,2019-09-14,15:00,Man United,Leicester,1,0,H,EPL11,EPL8,Manchester,EPL11,Leicester City,73689.0,0
+E0,2019-09-14,15:00,Brighton,Burnley,1,1,D,EPL3,EPL4,Brighton,EPL3,Burnley,29398.0,0
+E0,2019-09-14,15:00,Sheffield United,Southampton,0,1,A,EPL14,EPL15,Sheffield,EPL14,Southampton,30985.0,0
+E0,2019-09-14,12:30,Liverpool,Newcastle,3,1,H,EPL9,EPL12,Liverpool,EPL9,Newcastle United,51430.0,0
+E0,2019-09-15,16:30,Watford,Arsenal,2,2,D,EPL17,EPL0,Watford,EPL17,Arsenal,21360.0,0
+E0,2019-09-15,14:00,Bournemouth,Everton,3,1,H,EPL2,EPL7,Bournemouth,EPL2,Everton,10416.0,0
+E0,2019-09-16,20:00,Aston Villa,West Ham,0,0,D,EPL1,EPL18,Birmingham,EPL1,West Ham United,42010.0,0
+E0,2019-09-20,20:00,Southampton,Bournemouth,1,3,A,EPL15,EPL2,Southampton,EPL15,AFC Bournemouth,30168.0,0
+E0,2019-09-21,17:30,Newcastle,Brighton,0,0,D,EPL12,EPL3,Newcastle upon Tyne,EPL12,Brighton & Hove Albion,43360.0,0
+E0,2019-09-21,15:00,Everton,Sheffield United,0,2,A,EPL7,EPL14,Liverpool,EPL7,Sheffield United,39354.0,0
+E0,2019-09-21,15:00,Man City,Watford,8,0,H,EPL10,EPL17,Manchester,EPL10,Watford,54273.0,0
+E0,2019-09-21,15:00,Burnley,Norwich,2,0,H,EPL4,EPL13,Burnley,EPL4,Norwich City,19712.0,0
+E0,2019-09-21,12:30,Leicester,Tottenham,2,1,H,EPL8,EPL16,Leicester,EPL8,Tottenham Hotspur,32129.0,0
+E0,2019-09-22,14:00,West Ham,Man United,2,0,H,EPL18,EPL11,London,EPL18,Manchester United,59936.0,0
+E0,2019-09-22,16:30,Arsenal,Aston Villa,3,2,H,EPL0,EPL1,London,EPL0,Aston Villa,60331.0,0
+E0,2019-09-22,14:00,Crystal Palace,Wolves,1,1,D,EPL6,EPL19,London,EPL6,Wolverhampton Wanderers,25122.0,0
+E0,2019-09-22,16:30,Chelsea,Liverpool,1,2,A,EPL5,EPL9,London,EPL5,Liverpool,40638.0,0
+E0,2019-09-28,12:30,Sheffield United,Liverpool,0,1,A,EPL14,EPL9,Sheffield,EPL14,Liverpool,31774.0,0
+E0,2019-09-28,15:00,Aston Villa,Burnley,2,2,D,EPL1,EPL4,Birmingham,EPL1,Burnley,41546.0,0
+E0,2019-09-28,15:00,Wolves,Watford,2,0,H,EPL19,EPL17,Wolverhampton,EPL19,Watford,30711.0,0
+E0,2019-09-28,15:00,Bournemouth,West Ham,2,2,D,EPL2,EPL18,Bournemouth,EPL2,West Ham United,10729.0,0
+E0,2019-09-28,15:00,Tottenham,Southampton,2,1,H,EPL16,EPL15,London,EPL16,Southampton,59645.0,0
+E0,2019-09-28,17:30,Everton,Man City,1,3,A,EPL7,EPL10,Liverpool,EPL7,Manchester City,39222.0,0
+E0,2019-09-28,15:00,Chelsea,Brighton,2,0,H,EPL5,EPL3,London,EPL5,Brighton & Hove Albion,40683.0,0
+E0,2019-09-29,16:30,Leicester,Newcastle,5,0,H,EPL8,EPL12,Leicester,EPL8,Newcastle United,32168.0,0
+E0,2019-09-30,20:00,Man United,Arsenal,1,1,D,EPL11,EPL0,Manchester,EPL11,Arsenal,73201.0,0
+E0,2019-10-05,15:00,Norwich,Aston Villa,1,5,A,EPL13,EPL1,Norwich,EPL13,Aston Villa,27045.0,0
+E0,2019-10-05,15:00,Burnley,Everton,1,0,H,EPL4,EPL7,Burnley,EPL4,Everton,20650.0,0
+E0,2019-10-05,17:30,West Ham,Crystal Palace,1,2,A,EPL18,EPL6,London,EPL18,Crystal Palace,59912.0,0
+E0,2019-10-05,12:30,Brighton,Tottenham,3,0,H,EPL3,EPL16,Brighton,EPL3,Tottenham Hotspur,30610.0,0
+E0,2019-10-06,14:00,Arsenal,Bournemouth,1,0,H,EPL0,EPL2,London,EPL0,AFC Bournemouth,60326.0,0
+E0,2019-10-06,16:30,Newcastle,Man United,1,0,H,EPL12,EPL11,Newcastle upon Tyne,EPL12,Manchester United,51198.0,0
+E0,2019-10-06,14:00,Southampton,Chelsea,1,4,A,EPL15,EPL5,Southampton,EPL15,Chelsea,31473.0,0
+E0,2019-10-06,14:00,Man City,Wolves,0,2,A,EPL10,EPL19,Manchester,EPL10,Wolverhampton Wanderers,54435.0,0
+E0,2019-10-19,15:00,Tottenham,Watford,1,1,D,EPL16,EPL17,London,EPL16,Watford,58754.0,0
+E0,2019-10-19,15:00,Bournemouth,Norwich,0,0,D,EPL2,EPL13,Bournemouth,EPL2,Norwich City,10669.0,0
+E0,2019-10-19,15:00,Chelsea,Newcastle,1,0,H,EPL5,EPL12,London,EPL5,Newcastle United,40513.0,0
+E0,2019-10-19,17:30,Crystal Palace,Man City,0,2,A,EPL6,EPL10,London,EPL6,Manchester City,25480.0,0
+E0,2019-10-19,15:00,Leicester,Burnley,2,1,H,EPL8,EPL4,Leicester,EPL8,Burnley,32105.0,0
+E0,2019-10-19,15:00,Aston Villa,Brighton,2,1,H,EPL1,EPL3,Birmingham,EPL1,Brighton & Hove Albion,41826.0,0
+E0,2019-10-19,15:00,Wolves,Southampton,1,1,D,EPL19,EPL15,Wolverhampton,EPL19,Southampton,30915.0,0
+E0,2019-10-19,12:30,Everton,West Ham,2,0,H,EPL7,EPL18,Liverpool,EPL7,West Ham United,39263.0,0
+E0,2019-10-20,16:30,Man United,Liverpool,1,1,D,EPL11,EPL9,Manchester,EPL11,Liverpool,73737.0,0
+E0,2019-10-21,20:00,Sheffield United,Arsenal,1,0,H,EPL14,EPL0,Sheffield,EPL14,Arsenal,30775.0,0
+E0,2019-10-25,20:00,Southampton,Leicester,0,9,A,EPL15,EPL8,Southampton,EPL15,Leicester City,28762.0,0
+E0,2019-10-26,15:00,Brighton,Everton,3,2,H,EPL3,EPL7,Brighton,EPL3,Everton,30529.0,0
+E0,2019-10-26,15:00,Watford,Bournemouth,0,0,D,EPL17,EPL2,Watford,EPL17,AFC Bournemouth,20821.0,0
+E0,2019-10-26,15:00,West Ham,Sheffield United,1,1,D,EPL18,EPL14,London,EPL18,Sheffield United,59878.0,0
+E0,2019-10-26,12:30,Man City,Aston Villa,3,0,H,EPL10,EPL1,Manchester,EPL10,Aston Villa,54506.0,0
+E0,2019-10-26,17:30,Burnley,Chelsea,2,4,A,EPL4,EPL5,Burnley,EPL4,Chelsea,20975.0,0
+E0,2019-10-27,16:30,Arsenal,Crystal Palace,2,2,D,EPL0,EPL6,London,EPL0,Crystal Palace,60345.0,0
+E0,2019-10-27,16:30,Norwich,Man United,1,3,A,EPL13,EPL11,Norwich,EPL13,Manchester United,27108.0,0
+E0,2019-10-27,16:30,Liverpool,Tottenham,2,1,H,EPL9,EPL16,Liverpool,EPL9,Tottenham Hotspur,53222.0,0
+E0,2019-10-27,14:00,Newcastle,Wolves,1,1,D,EPL12,EPL19,Newcastle upon Tyne,EPL12,Wolverhampton Wanderers,46019.0,0
+E0,2019-11-02,15:00,Man City,Southampton,2,1,H,EPL10,EPL15,Manchester,EPL10,Southampton,53922.0,0
+E0,2019-11-02,12:30,Bournemouth,Man United,1,0,H,EPL2,EPL11,Bournemouth,EPL2,Manchester United,10669.0,0
+E0,2019-11-02,15:00,Sheffield United,Burnley,3,0,H,EPL14,EPL4,Sheffield,EPL14,Burnley,31131.0,0
+E0,2019-11-02,17:30,Watford,Chelsea,1,2,A,EPL17,EPL5,Watford,EPL17,Chelsea,21011.0,0
+E0,2019-11-02,15:00,Arsenal,Wolves,1,1,D,EPL0,EPL19,London,EPL0,Wolverhampton Wanderers,60383.0,0
+E0,2019-11-02,15:00,Brighton,Norwich,2,0,H,EPL3,EPL13,Brighton,EPL3,Norwich City,30539.0,0
+E0,2019-11-02,15:00,West Ham,Newcastle,2,3,A,EPL18,EPL12,London,EPL18,Newcastle United,59907.0,0
+E0,2019-11-02,15:00,Aston Villa,Liverpool,1,2,A,EPL1,EPL9,Birmingham,EPL1,Liverpool,41878.0,0
+E0,2019-11-03,14:00,Crystal Palace,Leicester,0,2,A,EPL6,EPL8,London,EPL6,Leicester City,25480.0,0
+E0,2019-11-03,16:30,Everton,Tottenham,1,1,D,EPL7,EPL16,Liverpool,EPL7,Tottenham Hotspur,39001.0,0
+E0,2019-11-09,15:00,Newcastle,Bournemouth,2,1,H,EPL12,EPL2,Newcastle upon Tyne,EPL12,AFC Bournemouth,44424.0,0
+E0,2019-11-09,15:00,Burnley,West Ham,3,0,H,EPL4,EPL18,Burnley,EPL4,West Ham United,20255.0,0
+E0,2019-11-09,15:00,Tottenham,Sheffield United,1,1,D,EPL16,EPL14,London,EPL16,Sheffield United,59781.0,0
+E0,2019-11-09,12:30,Chelsea,Crystal Palace,2,0,H,EPL5,EPL6,London,EPL5,Crystal Palace,40525.0,0
+E0,2019-11-09,15:00,Southampton,Everton,1,2,A,EPL15,EPL7,Southampton,EPL15,Everton,29754.0,0
+E0,2019-11-09,17:30,Leicester,Arsenal,2,0,H,EPL8,EPL0,Leicester,EPL8,Arsenal,32209.0,0
+E0,2019-11-10,14:00,Wolves,Aston Villa,2,1,H,EPL19,EPL1,Wolverhampton,EPL19,Aston Villa,31607.0,0
+E0,2019-11-10,14:00,Man United,Brighton,3,1,H,EPL11,EPL3,Manchester,EPL11,Brighton & Hove Albion,73556.0,0
+E0,2019-11-10,16:30,Liverpool,Man City,3,1,H,EPL9,EPL10,Liverpool,EPL9,Manchester City,53324.0,0
+E0,2019-11-23,15:00,Watford,Burnley,0,3,A,EPL17,EPL4,Watford,EPL17,Burnley,19711.0,0
+E0,2019-11-23,15:00,Bournemouth,Wolves,1,2,A,EPL2,EPL19,Bournemouth,EPL2,Wolverhampton Wanderers,10539.0,0
+E0,2019-11-23,17:30,Man City,Chelsea,2,1,H,EPL10,EPL5,Manchester,EPL10,Chelsea,54486.0,0
+E0,2019-11-23,15:00,Everton,Norwich,0,2,A,EPL7,EPL13,Liverpool,EPL7,Norwich City,39241.0,0
+E0,2019-11-23,15:00,Crystal Palace,Liverpool,1,2,A,EPL6,EPL9,London,EPL6,Liverpool,25486.0,0
+E0,2019-11-23,12:30,West Ham,Tottenham,2,3,A,EPL18,EPL16,London,EPL18,Tottenham Hotspur,59930.0,0
+E0,2019-11-23,15:00,Arsenal,Southampton,2,2,D,EPL0,EPL15,London,EPL0,Southampton,60295.0,0
+E0,2019-11-23,15:00,Brighton,Leicester,0,2,A,EPL3,EPL8,Brighton,EPL3,Leicester City,30640.0,0
+E0,2019-11-24,16:30,Sheffield United,Man United,3,3,D,EPL14,EPL11,Sheffield,EPL14,Manchester United,32024.0,0
+E0,2019-11-25,20:00,Aston Villa,Newcastle,2,0,H,EPL1,EPL12,Birmingham,EPL1,Newcastle United,41821.0,0
+E0,2019-11-30,15:00,Tottenham,Bournemouth,3,2,H,EPL16,EPL2,London,EPL16,AFC Bournemouth,59626.0,0
+E0,2019-11-30,15:00,Liverpool,Brighton,2,1,H,EPL9,EPL3,Liverpool,EPL9,Brighton & Hove Albion,53319.0,0
+E0,2019-11-30,17:30,Southampton,Watford,2,1,H,EPL15,EPL17,Southampton,EPL15,Watford,26929.0,0
+E0,2019-11-30,15:00,Chelsea,West Ham,0,1,A,EPL5,EPL18,London,EPL5,West Ham United,40595.0,0
+E0,2019-11-30,15:00,Burnley,Crystal Palace,0,2,A,EPL4,EPL6,Burnley,EPL4,Crystal Palace,19818.0,0
+E0,2019-11-30,12:30,Newcastle,Man City,2,2,D,EPL12,EPL10,Newcastle upon Tyne,EPL12,Manchester City,49937.0,0
+E0,2019-12-01,14:00,Norwich,Arsenal,2,2,D,EPL13,EPL0,Norwich,EPL13,Arsenal,27067.0,0
+E0,2019-12-01,16:30,Leicester,Everton,2,1,H,EPL8,EPL7,Leicester,EPL8,Everton,32144.0,0
+E0,2019-12-01,16:30,Man United,Aston Villa,2,2,D,EPL11,EPL1,Manchester,EPL11,Aston Villa,73381.0,0
+E0,2019-12-01,14:00,Wolves,Sheffield United,1,1,D,EPL19,EPL14,Wolverhampton,EPL19,Sheffield United,31642.0,0
+E0,2019-12-03,20:15,Burnley,Man City,1,4,A,EPL4,EPL10,Burnley,EPL4,Manchester City,20101.0,0
+E0,2019-12-03,19:30,Crystal Palace,Bournemouth,1,0,H,EPL6,EPL2,London,EPL6,AFC Bournemouth,23497.0,0
+E0,2019-12-04,19:30,Leicester,Watford,2,0,H,EPL8,EPL17,Leicester,EPL8,Watford,31763.0,0
+E0,2019-12-04,19:30,Wolves,West Ham,2,0,H,EPL19,EPL18,Wolverhampton,EPL19,West Ham United,31217.0,0
+E0,2019-12-04,19:30,Man United,Tottenham,2,1,H,EPL11,EPL16,Manchester,EPL11,Tottenham Hotspur,73252.0,0
+E0,2019-12-04,20:15,Liverpool,Everton,5,2,H,EPL9,EPL7,Liverpool,EPL9,Everton,53094.0,0
+E0,2019-12-04,19:30,Southampton,Norwich,2,1,H,EPL15,EPL13,Southampton,EPL15,Norwich City,27019.0,0
+E0,2019-12-04,19:30,Chelsea,Aston Villa,2,1,H,EPL5,EPL1,London,EPL5,Aston Villa,40628.0,0
+E0,2019-12-05,19:30,Sheffield United,Newcastle,0,2,A,EPL14,EPL12,Sheffield,EPL14,Newcastle United,30409.0,0
+E0,2019-12-05,20:15,Arsenal,Brighton,1,2,A,EPL0,EPL3,London,EPL0,Brighton & Hove Albion,60164.0,0
+E0,2019-12-07,17:30,Man City,Man United,1,2,A,EPL10,EPL11,Manchester,EPL10,Manchester United,54403.0,0
+E0,2019-12-07,15:00,Bournemouth,Liverpool,0,3,A,EPL2,EPL9,Bournemouth,EPL2,Liverpool,10832.0,0
+E0,2019-12-07,12:30,Everton,Chelsea,3,1,H,EPL7,EPL5,Liverpool,EPL7,Chelsea,39114.0,0
+E0,2019-12-07,15:00,Tottenham,Burnley,5,0,H,EPL16,EPL4,London,EPL16,Burnley,58401.0,0
+E0,2019-12-07,15:00,Watford,Crystal Palace,0,0,D,EPL17,EPL6,Watford,EPL17,Crystal Palace,20070.0,0
+E0,2019-12-08,14:00,Aston Villa,Leicester,1,4,A,EPL1,EPL8,Birmingham,EPL1,Leicester City,41908.0,0
+E0,2019-12-08,14:00,Newcastle,Southampton,2,1,H,EPL12,EPL15,Newcastle upon Tyne,EPL12,Southampton,42303.0,0
+E0,2019-12-08,16:30,Brighton,Wolves,2,2,D,EPL3,EPL19,Brighton,EPL3,Wolverhampton Wanderers,30189.0,0
+E0,2019-12-08,14:00,Norwich,Sheffield United,1,2,A,EPL13,EPL14,Norwich,EPL13,Sheffield United,26881.0,0
+E0,2019-12-09,20:00,West Ham,Arsenal,1,3,A,EPL18,EPL0,London,EPL18,Arsenal,59936.0,0
+E0,2019-12-14,15:00,Chelsea,Bournemouth,0,1,A,EPL5,EPL2,London,EPL5,AFC Bournemouth,40243.0,0
+E0,2019-12-14,15:00,Leicester,Norwich,1,1,D,EPL8,EPL13,Leicester,EPL8,Norwich City,32101.0,0
+E0,2019-12-14,15:00,Sheffield United,Aston Villa,2,0,H,EPL14,EPL1,Sheffield,EPL14,Aston Villa,30396.0,0
+E0,2019-12-14,15:00,Burnley,Newcastle,1,0,H,EPL4,EPL12,Burnley,EPL4,Newcastle United,19798.0,0
+E0,2019-12-14,17:30,Southampton,West Ham,0,1,A,EPL15,EPL18,Southampton,EPL15,West Ham United,27701.0,0
+E0,2019-12-15,16:30,Arsenal,Man City,0,3,A,EPL0,EPL10,London,EPL0,Manchester City,60031.0,0
+E0,2019-12-15,14:00,Man United,Everton,1,1,D,EPL11,EPL7,Manchester,EPL11,Everton,63328.0,0
+E0,2019-12-15,14:00,Wolves,Tottenham,1,2,A,EPL19,EPL16,Wolverhampton,EPL19,Tottenham Hotspur,31674.0,0
+E0,2019-12-16,19:45,Crystal Palace,Brighton,1,1,D,EPL6,EPL3,London,EPL6,Brighton & Hove Albion,24175.0,0
+E0,2019-12-21,15:00,Bournemouth,Burnley,0,1,A,EPL2,EPL4,Bournemouth,EPL2,Burnley,10020.0,0
+E0,2019-12-21,12:30,Everton,Arsenal,0,0,D,EPL7,EPL0,Liverpool,EPL7,Arsenal,39336.0,0
+E0,2019-12-21,15:00,Aston Villa,Southampton,1,3,A,EPL1,EPL15,Birmingham,EPL1,Southampton,41834.0,0
+E0,2019-12-21,15:00,Brighton,Sheffield United,0,1,A,EPL3,EPL14,Brighton,EPL3,Sheffield United,30505.0,0
+E0,2019-12-21,17:30,Man City,Leicester,3,1,H,EPL10,EPL8,Manchester,EPL10,Leicester City,54415.0,0
+E0,2019-12-21,15:00,Newcastle,Crystal Palace,1,0,H,EPL12,EPL6,Newcastle upon Tyne,EPL12,Crystal Palace,45453.0,0
+E0,2019-12-21,15:00,Norwich,Wolves,1,2,A,EPL13,EPL19,Norwich,EPL13,Wolverhampton Wanderers,27053.0,0
+E0,2019-12-22,14:00,Watford,Man United,2,0,H,EPL17,EPL11,Watford,EPL17,Manchester United,21488.0,0
+E0,2019-12-22,16:30,Tottenham,Chelsea,0,2,A,EPL16,EPL5,London,EPL16,Chelsea,61104.0,0
+E0,2019-12-26,15:00,Chelsea,Southampton,0,2,A,EPL5,EPL15,London,EPL5,Southampton,40651.0,0
+E0,2019-12-26,15:00,Crystal Palace,West Ham,2,1,H,EPL6,EPL18,London,EPL6,West Ham United,25462.0,0
+E0,2019-12-26,20:00,Leicester,Liverpool,0,4,A,EPL8,EPL9,Leicester,EPL8,Liverpool,32211.0,0
+E0,2019-12-26,15:00,Aston Villa,Norwich,1,0,H,EPL1,EPL13,Birmingham,EPL1,Norwich City,41289.0,0
+E0,2019-12-26,15:00,Bournemouth,Arsenal,1,1,D,EPL2,EPL0,Bournemouth,EPL2,Arsenal,10234.0,0
+E0,2019-12-26,15:00,Everton,Burnley,1,0,H,EPL7,EPL4,Liverpool,EPL7,Burnley,39177.0,0
+E0,2019-12-26,15:00,Sheffield United,Watford,1,1,D,EPL14,EPL17,Sheffield,EPL14,Watford,30222.0,0
+E0,2019-12-26,17:30,Man United,Newcastle,4,1,H,EPL11,EPL12,Manchester,EPL11,Newcastle United,73206.0,0
+E0,2019-12-26,12:30,Tottenham,Brighton,2,1,H,EPL16,EPL3,London,EPL16,Brighton & Hove Albion,56308.0,0
+E0,2019-12-27,19:45,Wolves,Man City,3,2,H,EPL19,EPL10,Wolverhampton,EPL19,Manchester City,31737.0,0
+E0,2019-12-28,15:00,Watford,Aston Villa,3,0,H,EPL17,EPL1,Watford,EPL17,Aston Villa,21348.0,0
+E0,2019-12-28,17:30,Norwich,Tottenham,2,2,D,EPL13,EPL16,Norwich,EPL13,Tottenham Hotspur,27072.0,0
+E0,2019-12-28,15:00,Southampton,Crystal Palace,1,1,D,EPL15,EPL6,Southampton,EPL15,Crystal Palace,31108.0,0
+E0,2019-12-28,12:30,Brighton,Bournemouth,2,0,H,EPL3,EPL2,Brighton,EPL3,AFC Bournemouth,30441.0,0
+E0,2019-12-28,17:30,West Ham,Leicester,1,2,A,EPL18,EPL8,London,EPL18,Leicester City,59919.0,0
+E0,2019-12-28,15:00,Newcastle,Everton,1,2,A,EPL12,EPL7,Newcastle upon Tyne,EPL12,Everton,52211.0,0
+E0,2019-12-28,19:45,Burnley,Man United,0,2,A,EPL4,EPL11,Burnley,EPL4,Manchester United,21924.0,0
+E0,2019-12-29,16:30,Liverpool,Wolves,1,0,H,EPL9,EPL19,Liverpool,EPL9,Wolverhampton Wanderers,53326.0,0
+E0,2019-12-29,14:00,Arsenal,Chelsea,1,2,A,EPL0,EPL5,London,EPL0,Chelsea,60309.0,0
+E0,2019-12-29,18:00,Man City,Sheffield United,2,0,H,EPL10,EPL14,Manchester,EPL10,Sheffield United,54512.0,0
+E0,2020-01-01,12:30,Brighton,Chelsea,1,1,D,EPL3,EPL5,Brighton,EPL3,Chelsea,30559.0,0
+E0,2020-01-01,15:00,Watford,Wolves,2,1,H,EPL17,EPL19,Watford,EPL17,Wolverhampton Wanderers,20584.0,0
+E0,2020-01-01,12:30,Burnley,Aston Villa,1,2,A,EPL4,EPL1,Burnley,EPL4,Aston Villa,19561.0,0
+E0,2020-01-01,20:00,Arsenal,Man United,2,0,H,EPL0,EPL11,London,EPL0,Manchester United,60328.0,0
+E0,2020-01-01,17:30,Man City,Everton,2,1,H,EPL10,EPL7,Manchester,EPL10,Everton,54407.0,0
+E0,2020-01-01,15:00,Newcastle,Leicester,0,3,A,EPL12,EPL8,Newcastle upon Tyne,EPL12,Leicester City,52178.0,0
+E0,2020-01-01,17:30,Norwich,Crystal Palace,1,1,D,EPL13,EPL6,Norwich,EPL13,Crystal Palace,27021.0,0
+E0,2020-01-01,17:30,West Ham,Bournemouth,4,0,H,EPL18,EPL2,London,EPL18,AFC Bournemouth,59917.0,0
+E0,2020-01-01,15:00,Southampton,Tottenham,1,0,H,EPL15,EPL16,Southampton,EPL15,Tottenham Hotspur,30976.0,0
+E0,2020-01-02,20:00,Liverpool,Sheffield United,2,0,H,EPL9,EPL14,Liverpool,EPL9,Sheffield United,53321.0,0
+E0,2020-01-10,20:00,Sheffield United,West Ham,1,0,H,EPL14,EPL18,Sheffield,EPL14,West Ham United,30124.0,0
+E0,2020-01-11,15:00,Chelsea,Burnley,3,0,H,EPL5,EPL4,London,EPL5,Burnley,40396.0,0
+E0,2020-01-11,15:00,Wolves,Newcastle,1,1,D,EPL19,EPL12,Wolverhampton,EPL19,Newcastle United,31570.0,0
+E0,2020-01-11,15:00,Leicester,Southampton,1,2,A,EPL8,EPL15,Leicester,EPL8,Southampton,32115.0,0
+E0,2020-01-11,15:00,Man United,Norwich,4,0,H,EPL11,EPL13,Manchester,EPL11,Norwich City,73271.0,0
+E0,2020-01-11,15:00,Everton,Brighton,1,0,H,EPL7,EPL3,Liverpool,EPL7,Brighton & Hove Albion,38772.0,0
+E0,2020-01-11,17:30,Tottenham,Liverpool,0,1,A,EPL16,EPL9,London,EPL16,Liverpool,61023.0,0
+E0,2020-01-11,12:30,Crystal Palace,Arsenal,1,1,D,EPL6,EPL0,London,EPL6,Arsenal,25468.0,0
+E0,2020-01-12,16:30,Aston Villa,Man City,1,6,A,EPL1,EPL10,Birmingham,EPL1,Manchester City,41823.0,0
+E0,2020-01-12,14:00,Bournemouth,Watford,0,3,A,EPL2,EPL17,Bournemouth,EPL2,Watford,10384.0,0
+E0,2020-01-18,15:00,Man City,Crystal Palace,2,2,D,EPL10,EPL6,Manchester,EPL10,Crystal Palace,54439.0,0
+E0,2020-01-18,17:30,Newcastle,Chelsea,1,0,H,EPL12,EPL5,Newcastle upon Tyne,EPL12,Chelsea,52217.0,0
+E0,2020-01-18,15:00,Southampton,Wolves,2,3,A,EPL15,EPL19,Southampton,EPL15,Wolverhampton Wanderers,31152.0,0
+E0,2020-01-18,12:30,Watford,Tottenham,0,0,D,EPL17,EPL16,Watford,EPL17,Tottenham Hotspur,21366.0,0
+E0,2020-01-18,15:00,Brighton,Aston Villa,1,1,D,EPL3,EPL1,Brighton,EPL3,Aston Villa,30551.0,0
+E0,2020-01-18,15:00,West Ham,Everton,1,1,D,EPL18,EPL7,London,EPL18,Everton,59915.0,0
+E0,2020-01-18,15:00,Arsenal,Sheffield United,1,1,D,EPL0,EPL14,London,EPL0,Sheffield United,60310.0,0
+E0,2020-01-18,15:00,Norwich,Bournemouth,1,0,H,EPL13,EPL2,Norwich,EPL13,AFC Bournemouth,26781.0,0
+E0,2020-01-19,14:00,Burnley,Leicester,2,1,H,EPL4,EPL8,Burnley,EPL4,Leicester City,19788.0,0
+E0,2020-01-19,16:30,Liverpool,Man United,2,0,H,EPL9,EPL11,Liverpool,EPL9,Manchester United,52916.0,0
+E0,2020-01-21,20:15,Chelsea,Arsenal,2,2,D,EPL5,EPL0,London,EPL5,Arsenal,40577.0,0
+E0,2020-01-21,19:30,Sheffield United,Man City,0,1,A,EPL14,EPL10,Sheffield,EPL14,Manchester City,31285.0,0
+E0,2020-01-21,19:30,Everton,Newcastle,2,2,D,EPL7,EPL12,Liverpool,EPL7,Newcastle United,38822.0,0
+E0,2020-01-21,19:30,Aston Villa,Watford,2,1,H,EPL1,EPL17,Birmingham,EPL1,Watford,40867.0,0
+E0,2020-01-21,19:30,Crystal Palace,Southampton,0,2,A,EPL6,EPL15,London,EPL6,Southampton,23739.0,0
+E0,2020-01-21,19:30,Bournemouth,Brighton,3,1,H,EPL2,EPL3,Bournemouth,EPL2,Brighton & Hove Albion,10065.0,0
+E0,2020-01-22,19:30,Leicester,West Ham,4,1,H,EPL8,EPL18,Leicester,EPL8,West Ham United,31968.0,0
+E0,2020-01-22,19:30,Tottenham,Norwich,2,1,H,EPL16,EPL13,London,EPL16,Norwich City,58182.0,0
+E0,2020-01-22,20:15,Man United,Burnley,0,2,A,EPL11,EPL4,Manchester,EPL11,Burnley,73198.0,0
+E0,2020-01-23,20:00,Wolves,Liverpool,1,2,A,EPL19,EPL9,Wolverhampton,EPL19,Liverpool,31746.0,0
+E0,2020-01-29,19:45,West Ham,Liverpool,0,2,A,EPL18,EPL9,London,EPL18,Liverpool,59959.0,0
+E0,2020-02-01,12:30,Leicester,Chelsea,2,2,D,EPL8,EPL5,Leicester,EPL8,Chelsea,32186.0,0
+E0,2020-02-01,15:00,Newcastle,Norwich,0,0,D,EPL12,EPL13,Newcastle upon Tyne,EPL12,Norwich City,52204.0,0
+E0,2020-02-01,15:00,Crystal Palace,Sheffield United,0,1,A,EPL6,EPL14,London,EPL6,Sheffield United,25170.0,0
+E0,2020-02-01,15:00,Liverpool,Southampton,4,0,H,EPL9,EPL15,Liverpool,EPL9,Southampton,53291.0,0
+E0,2020-02-01,15:00,Bournemouth,Aston Villa,2,1,H,EPL2,EPL1,Bournemouth,EPL2,Aston Villa,10722.0,0
+E0,2020-02-01,17:30,Man United,Wolves,0,0,D,EPL11,EPL19,Manchester,EPL11,Wolverhampton Wanderers,73363.0,0
+E0,2020-02-01,15:00,Watford,Everton,2,3,A,EPL17,EPL7,Watford,EPL17,Everton,21229.0,0
+E0,2020-02-01,15:00,West Ham,Brighton,3,3,D,EPL18,EPL3,London,EPL18,Brighton & Hove Albion,59952.0,0
+E0,2020-02-02,14:00,Burnley,Arsenal,0,0,D,EPL4,EPL0,Burnley,EPL4,Arsenal,21048.0,0
+E0,2020-02-02,16:30,Tottenham,Man City,2,0,H,EPL16,EPL10,London,EPL16,Manchester City,61022.0,0
+E0,2020-02-08,17:30,Brighton,Watford,1,1,D,EPL3,EPL17,Brighton,EPL3,Watford,30443.0,0
+E0,2020-02-08,12:30,Everton,Crystal Palace,3,1,H,EPL7,EPL6,Liverpool,EPL7,Crystal Palace,38987.0,0
+E0,2020-02-09,14:00,Sheffield United,Bournemouth,2,1,H,EPL14,EPL2,Sheffield,EPL14,AFC Bournemouth,30361.0,0
+E0,2020-02-14,20:00,Wolves,Leicester,0,0,D,EPL19,EPL8,Wolverhampton,EPL19,Leicester City,31682.0,0
+E0,2020-02-15,12:30,Southampton,Burnley,1,2,A,EPL15,EPL4,Southampton,EPL15,Burnley,26302.0,0
+E0,2020-02-15,17:30,Norwich,Liverpool,0,1,A,EPL13,EPL9,Norwich,EPL13,Liverpool,27110.0,0
+E0,2020-02-16,16:30,Arsenal,Newcastle,4,0,H,EPL0,EPL12,London,EPL0,Newcastle United,60188.0,0
+E0,2020-02-16,14:00,Aston Villa,Tottenham,2,3,A,EPL1,EPL16,Birmingham,EPL1,Tottenham Hotspur,41874.0,0
+E0,2020-02-17,20:00,Chelsea,Man United,0,2,A,EPL5,EPL11,London,EPL5,Manchester United,40504.0,0
+E0,2020-02-22,17:30,Leicester,Man City,0,1,A,EPL8,EPL10,Leicester,EPL8,Manchester City,32068.0,0
+E0,2020-02-22,15:00,Crystal Palace,Newcastle,1,0,H,EPL6,EPL12,London,EPL6,Newcastle United,25486.0,0
+E0,2020-02-22,15:00,Burnley,Bournemouth,3,0,H,EPL4,EPL2,Burnley,EPL4,AFC Bournemouth,18227.0,0
+E0,2020-02-22,15:00,Southampton,Aston Villa,2,0,H,EPL15,EPL1,Southampton,EPL15,Aston Villa,31478.0,0
+E0,2020-02-22,15:00,Sheffield United,Brighton,1,1,D,EPL14,EPL3,Sheffield,EPL14,Brighton & Hove Albion,31888.0,0
+E0,2020-02-22,12:30,Chelsea,Tottenham,2,1,H,EPL5,EPL16,London,EPL5,Tottenham Hotspur,40608.0,0
+E0,2020-02-23,14:00,Man United,Watford,3,0,H,EPL11,EPL17,Manchester,EPL11,Watford,73347.0,0
+E0,2020-02-23,14:00,Wolves,Norwich,3,0,H,EPL19,EPL13,Wolverhampton,EPL19,Norwich City,31046.0,0
+E0,2020-02-23,16:30,Arsenal,Everton,3,2,H,EPL0,EPL7,London,EPL0,Everton,60296.0,0
+E0,2020-02-24,20:00,Liverpool,West Ham,3,2,H,EPL9,EPL18,Liverpool,EPL9,West Ham United,53313.0,0
+E0,2020-02-28,20:00,Norwich,Leicester,1,0,H,EPL13,EPL8,Norwich,EPL13,Leicester City,27010.0,0
+E0,2020-02-29,15:00,Bournemouth,Chelsea,2,2,D,EPL2,EPL5,Bournemouth,EPL2,Chelsea,10667.0,0
+E0,2020-02-29,15:00,Newcastle,Burnley,0,0,D,EPL12,EPL4,Newcastle upon Tyne,EPL12,Burnley,52219.0,0
+E0,2020-02-29,17:30,Watford,Liverpool,3,0,H,EPL17,EPL9,Watford,EPL17,Liverpool,21634.0,0
+E0,2020-02-29,15:00,West Ham,Southampton,3,1,H,EPL18,EPL15,London,EPL18,Southampton,59962.0,0
+E0,2020-03-01,14:00,Everton,Man United,1,1,D,EPL7,EPL11,Liverpool,EPL7,Manchester United,39374.0,0
+E0,2020-03-01,14:00,Tottenham,Wolves,2,3,A,EPL16,EPL19,London,EPL16,Wolverhampton Wanderers,58064.0,0
+E0,2020-03-07,15:00,Southampton,Newcastle,0,1,A,EPL15,EPL12,Southampton,EPL15,Newcastle United,30096.0,0
+E0,2020-03-07,12:30,Liverpool,Bournemouth,2,1,H,EPL9,EPL2,Liverpool,EPL9,AFC Bournemouth,53323.0,0
+E0,2020-03-07,17:30,Burnley,Tottenham,1,1,D,EPL4,EPL16,Burnley,EPL4,Tottenham Hotspur,20496.0,0
+E0,2020-03-07,15:00,Wolves,Brighton,0,0,D,EPL19,EPL3,Wolverhampton,EPL19,Brighton & Hove Albion,31490.0,0
+E0,2020-03-07,15:00,Crystal Palace,Watford,1,0,H,EPL6,EPL17,London,EPL6,Watford,25461.0,0
+E0,2020-03-07,15:00,Sheffield United,Norwich,1,0,H,EPL14,EPL13,Sheffield,EPL14,Norwich City,31379.0,0
+E0,2020-03-07,15:00,Arsenal,West Ham,1,0,H,EPL0,EPL18,London,EPL0,West Ham United,60335.0,0
+E0,2020-03-08,14:00,Chelsea,Everton,4,0,H,EPL5,EPL7,London,EPL5,Everton,40694.0,0
+E0,2020-03-08,16:30,Man United,Man City,2,0,H,EPL11,EPL10,Manchester,EPL11,Manchester City,73288.0,0
+E0,2020-03-09,20:00,Leicester,Aston Villa,4,0,H,EPL8,EPL1,Leicester,EPL8,Aston Villa,32125.0,0
+E0,2020-06-17,20:15,Man City,Arsenal,3,0,H,EPL10,EPL0,Manchester,EPL10,Arsenal,0.0,0
+E0,2020-06-17,18:00,Aston Villa,Sheffield United,0,0,D,EPL1,EPL14,Birmingham,EPL1,Sheffield United,0.0,0
+E0,2020-06-19,18:00,Norwich,Southampton,0,3,A,EPL13,EPL15,Norwich,EPL13,Southampton,0.0,0
+E0,2020-06-19,20:15,Tottenham,Man United,1,1,D,EPL16,EPL11,London,EPL16,Manchester United,0.0,0
+E0,2020-06-20,17:30,West Ham,Wolves,0,2,A,EPL18,EPL19,London,EPL18,Wolverhampton Wanderers,0.0,0
+E0,2020-06-20,19:45,Bournemouth,Crystal Palace,0,2,A,EPL2,EPL6,Bournemouth,EPL2,Crystal Palace,0.0,0
+E0,2020-06-20,12:30,Watford,Leicester,1,1,D,EPL17,EPL8,Watford,EPL17,Leicester City,0.0,0
+E0,2020-06-20,15:00,Brighton,Arsenal,2,1,H,EPL3,EPL0,Brighton,EPL3,Arsenal,0.0,0
+E0,2020-06-21,19:00,Everton,Liverpool,0,0,D,EPL7,EPL9,Liverpool,EPL7,Liverpool,0.0,0
+E0,2020-06-21,16:15,Aston Villa,Chelsea,1,2,A,EPL1,EPL5,Birmingham,EPL1,Chelsea,0.0,0
+E0,2020-06-21,14:00,Newcastle,Sheffield United,3,0,H,EPL12,EPL14,Newcastle upon Tyne,EPL12,Sheffield United,0.0,0
+E0,2020-06-22,20:00,Man City,Burnley,5,0,H,EPL10,EPL4,Manchester,EPL10,Burnley,0.0,0
+E0,2020-06-23,18:00,Leicester,Brighton,0,0,D,EPL8,EPL3,Leicester,EPL8,Brighton & Hove Albion,0.0,0
+E0,2020-06-23,20:15,Tottenham,West Ham,2,0,H,EPL16,EPL18,London,EPL16,West Ham United,0.0,0
+E0,2020-06-24,20:15,Liverpool,Crystal Palace,4,0,H,EPL9,EPL6,Liverpool,EPL9,Crystal Palace,0.0,0
+E0,2020-06-24,18:00,Norwich,Everton,0,1,A,EPL13,EPL7,Norwich,EPL13,Everton,0.0,0
+E0,2020-06-24,18:00,Wolves,Bournemouth,1,0,H,EPL19,EPL2,Wolverhampton,EPL19,AFC Bournemouth,0.0,0
+E0,2020-06-24,18:00,Newcastle,Aston Villa,1,1,D,EPL12,EPL1,Newcastle upon Tyne,EPL12,Aston Villa,0.0,0
+E0,2020-06-24,18:00,Man United,Sheffield United,3,0,H,EPL11,EPL14,Manchester,EPL11,Sheffield United,0.0,0
+E0,2020-06-25,18:00,Burnley,Watford,1,0,H,EPL4,EPL17,Burnley,EPL4,Watford,0.0,0
+E0,2020-06-25,20:15,Chelsea,Man City,2,1,H,EPL5,EPL10,London,EPL5,Manchester City,0.0,0
+E0,2020-06-25,18:00,Southampton,Arsenal,0,2,A,EPL15,EPL0,Southampton,EPL15,Arsenal,0.0,0
+E0,2020-06-27,12:30,Aston Villa,Wolves,0,1,A,EPL1,EPL19,Birmingham,EPL1,Wolverhampton Wanderers,0.0,0
+E0,2020-06-28,16:30,Watford,Southampton,1,3,A,EPL17,EPL15,Watford,EPL17,Southampton,0.0,0
+E0,2020-06-29,20:00,Crystal Palace,Burnley,0,1,A,EPL6,EPL4,London,EPL6,Burnley,0.0,0
+E0,2020-06-30,20:15,Brighton,Man United,0,3,A,EPL3,EPL11,Brighton,EPL3,Manchester United,0.0,0
+E0,2020-07-01,18:00,Everton,Leicester,2,1,H,EPL7,EPL8,Liverpool,EPL7,Leicester City,0.0,0
+E0,2020-07-01,18:00,Bournemouth,Newcastle,1,4,A,EPL2,EPL12,Bournemouth,EPL2,Newcastle United,0.0,0
+E0,2020-07-01,18:00,Arsenal,Norwich,4,0,H,EPL0,EPL13,London,EPL0,Norwich City,0.0,0
+E0,2020-07-01,20:15,West Ham,Chelsea,3,2,H,EPL18,EPL5,London,EPL18,Chelsea,0.0,0
+E0,2020-07-02,18:00,Sheffield United,Tottenham,3,1,H,EPL14,EPL16,Sheffield,EPL14,Tottenham Hotspur,0.0,0
+E0,2020-07-02,20:15,Man City,Liverpool,4,0,H,EPL10,EPL9,Manchester,EPL10,Liverpool,0.0,0
+E0,2020-07-04,17:30,Wolves,Arsenal,0,2,A,EPL19,EPL0,Wolverhampton,EPL19,Arsenal,0.0,0
+E0,2020-07-04,20:00,Chelsea,Watford,3,0,H,EPL5,EPL17,London,EPL5,Watford,0.0,0
+E0,2020-07-04,12:30,Norwich,Brighton,0,1,A,EPL13,EPL3,Norwich,EPL13,Brighton & Hove Albion,0.0,0
+E0,2020-07-04,15:00,Man United,Bournemouth,5,2,H,EPL11,EPL2,Manchester,EPL11,AFC Bournemouth,0.0,0
+E0,2020-07-04,15:00,Leicester,Crystal Palace,3,0,H,EPL8,EPL6,Leicester,EPL8,Crystal Palace,0.0,0
+E0,2020-07-05,16:30,Liverpool,Aston Villa,2,0,H,EPL9,EPL1,Liverpool,EPL9,Aston Villa,0.0,0
+E0,2020-07-05,14:15,Newcastle,West Ham,2,2,D,EPL12,EPL18,Newcastle upon Tyne,EPL12,West Ham United,0.0,0
+E0,2020-07-05,19:00,Southampton,Man City,1,0,H,EPL15,EPL10,Southampton,EPL15,Manchester City,0.0,0
+E0,2020-07-05,12:00,Burnley,Sheffield United,1,1,D,EPL4,EPL14,Burnley,EPL4,Sheffield United,0.0,0
+E0,2020-07-06,20:00,Tottenham,Everton,1,0,H,EPL16,EPL7,London,EPL16,Everton,0.0,0
+E0,2020-07-07,18:00,Crystal Palace,Chelsea,2,3,A,EPL6,EPL5,London,EPL6,Chelsea,0.0,0
+E0,2020-07-07,18:00,Watford,Norwich,2,1,H,EPL17,EPL13,Watford,EPL17,Norwich City,0.0,0
+E0,2020-07-07,20:15,Arsenal,Leicester,1,1,D,EPL0,EPL8,London,EPL0,Leicester City,0.0,0
+E0,2020-07-08,18:00,West Ham,Burnley,0,1,A,EPL18,EPL4,London,EPL18,Burnley,0.0,0
+E0,2020-07-08,18:00,Man City,Newcastle,5,0,H,EPL10,EPL12,Manchester,EPL10,Newcastle United,0.0,0
+E0,2020-07-08,20:15,Brighton,Liverpool,1,3,A,EPL3,EPL9,Brighton,EPL3,Liverpool,0.0,0
+E0,2020-07-08,18:00,Sheffield United,Wolves,1,0,H,EPL14,EPL19,Sheffield,EPL14,Wolverhampton Wanderers,0.0,0
+E0,2020-07-09,20:15,Aston Villa,Man United,0,3,A,EPL1,EPL11,Birmingham,EPL1,Manchester United,0.0,0
+E0,2020-07-09,18:00,Everton,Southampton,1,1,D,EPL7,EPL15,Liverpool,EPL7,Southampton,0.0,0
+E0,2020-07-09,18:00,Bournemouth,Tottenham,0,0,D,EPL2,EPL16,Bournemouth,EPL2,Tottenham Hotspur,0.0,0
+E0,2020-07-11,15:00,Liverpool,Burnley,1,1,D,EPL9,EPL4,Liverpool,EPL9,Burnley,0.0,0
+E0,2020-07-11,12:30,Norwich,West Ham,0,4,A,EPL13,EPL18,Norwich,EPL13,West Ham United,0.0,0
+E0,2020-07-11,20:00,Brighton,Man City,0,5,A,EPL3,EPL10,Brighton,EPL3,Manchester City,0.0,0
+E0,2020-07-11,12:30,Watford,Newcastle,2,1,H,EPL17,EPL12,Watford,EPL17,Newcastle United,0.0,0
+E0,2020-07-11,17:30,Sheffield United,Chelsea,3,0,H,EPL14,EPL5,Sheffield,EPL14,Chelsea,0.0,0
+E0,2020-07-12,14:15,Aston Villa,Crystal Palace,2,0,H,EPL1,EPL6,Birmingham,EPL1,Crystal Palace,0.0,0
+E0,2020-07-12,12:00,Wolves,Everton,3,0,H,EPL19,EPL7,Wolverhampton,EPL19,Everton,0.0,0
+E0,2020-07-12,19:00,Bournemouth,Leicester,4,1,H,EPL2,EPL8,Bournemouth,EPL2,Leicester City,0.0,0
+E0,2020-07-12,16:30,Tottenham,Arsenal,2,1,H,EPL16,EPL0,London,EPL16,Arsenal,0.0,0
+E0,2020-07-13,20:00,Man United,Southampton,2,2,D,EPL11,EPL15,Manchester,EPL11,Southampton,0.0,0
+D1,2019-08-16,19:30,Bayern Munich,Hertha,2,2,D,BUN1,BUN7,0,BUN1,Hertha Berlin,75000.0,Munich
+D1,2019-08-17,14:30,Leverkusen,Paderborn,3,2,H,BUN9,BUN12,0,BUN9,SC Paderborn 07,26208.0,Leverkusen
+D1,2019-08-17,14:30,Freiburg,Mainz,3,0,H,BUN6,BUN10,0,BUN6,Mainz 05,24000.0,Freiburg
+D1,2019-08-17,17:30,M'gladbach,Schalke 04,0,0,D,BUN11,BUN14,0,BUN11,FC Schalke 04,54022.0,Monchengladbach
+D1,2019-08-17,14:30,Dortmund,Augsburg,5,1,H,BUN2,BUN0,0,BUN2,FC Augsburg,81365.0,Dortmund
+D1,2019-08-17,14:30,Werder Bremen,Fortuna Dusseldorf,1,3,A,BUN16,BUN5,0,BUN16,Fortuna Düsseldorf,42100.0,Bremen
+D1,2019-08-17,14:30,Wolfsburg,FC Koln,2,1,H,BUN17,BUN4,0,BUN17,1. FC Köln,25099.0,Wolfsburg
+D1,2019-08-18,14:30,Ein Frankfurt,Hoffenheim,1,0,H,BUN3,BUN8,0,BUN3,1899 Hoffenheim,50200.0,Frankfurt
+D1,2019-08-18,17:00,Union Berlin,RB Leipzig,0,4,A,BUN15,BUN13,0,BUN15,RB Leipzig,22467.0,Berlin
+D1,2019-08-23,19:30,FC Koln,Dortmund,1,3,A,BUN4,BUN2,0,BUN4,Borussia Dortmund,50000.0,Cologne
+D1,2019-08-24,14:30,Augsburg,Union Berlin,1,1,D,BUN0,BUN15,0,BUN0,1. FC Union Berlin,27703.0,Augsburg
+D1,2019-08-24,14:30,Mainz,M'gladbach,1,3,A,BUN10,BUN11,0,BUN10,Borussia Mönchengladbach,28005.0,Mainz
+D1,2019-08-24,14:30,Fortuna Dusseldorf,Leverkusen,1,3,A,BUN5,BUN9,0,BUN5,Bayer 04 Leverkusen,44538.0,Dusseldorf
+D1,2019-08-24,14:30,Paderborn,Freiburg,1,3,A,BUN12,BUN6,0,BUN12,SC Freiburg,14322.0,Paderborn
+D1,2019-08-24,17:30,Schalke 04,Bayern Munich,0,3,A,BUN14,BUN1,0,BUN14,Bayern Munich,62271.0,Gelsenkirchen
+D1,2019-08-24,14:30,Hoffenheim,Werder Bremen,3,2,H,BUN8,BUN16,0,BUN8,Werder Bremen,27333.0,Sinsheim
+D1,2019-08-25,17:00,Hertha,Wolfsburg,0,3,A,BUN7,BUN17,0,BUN7,VfL Wolfsburg,42738.0,Berlin
+D1,2019-08-25,14:30,RB Leipzig,Ein Frankfurt,2,1,H,BUN13,BUN3,0,BUN13,Eintracht Frankfurt,40108.0,Leipzig
+D1,2019-08-31,14:30,Leverkusen,Hoffenheim,0,0,D,BUN9,BUN8,0,BUN9,1899 Hoffenheim,26506.0,Leverkusen
+D1,2019-08-31,14:30,Bayern Munich,Mainz,6,1,H,BUN1,BUN10,0,BUN1,Mainz 05,75000.0,Munich
+D1,2019-08-31,14:30,Wolfsburg,Paderborn,1,1,D,BUN17,BUN12,0,BUN17,SC Paderborn 07,23750.0,Wolfsburg
+D1,2019-08-31,17:30,Union Berlin,Dortmund,3,1,H,BUN15,BUN2,0,BUN15,Borussia Dortmund,22467.0,Berlin
+D1,2019-08-31,14:30,Schalke 04,Hertha,3,0,H,BUN14,BUN7,0,BUN14,Hertha Berlin,58875.0,Gelsenkirchen
+D1,2019-08-31,14:30,Freiburg,FC Koln,1,2,A,BUN6,BUN4,0,BUN6,1. FC Köln,24000.0,Freiburg
+D1,2019-09-01,17:00,Ein Frankfurt,Fortuna Dusseldorf,2,1,H,BUN3,BUN5,0,BUN3,Fortuna Düsseldorf,49800.0,Frankfurt
+D1,2019-09-01,14:30,Werder Bremen,Augsburg,3,2,H,BUN16,BUN0,0,BUN16,FC Augsburg,40041.0,Bremen
+D1,2019-09-13,19:30,Fortuna Dusseldorf,Wolfsburg,1,1,D,BUN5,BUN17,0,BUN5,VfL Wolfsburg,36758.0,Dusseldorf
+D1,2019-09-14,14:30,FC Koln,M'gladbach,0,1,A,BUN4,BUN11,0,BUN4,Borussia Mönchengladbach,50000.0,Cologne
+D1,2019-09-14,14:30,Union Berlin,Werder Bremen,1,2,A,BUN15,BUN16,0,BUN15,Werder Bremen,22012.0,Berlin
+D1,2019-09-14,14:30,Mainz,Hertha,2,1,H,BUN10,BUN7,0,BUN10,Hertha Berlin,22798.0,Mainz
+D1,2019-09-14,17:30,RB Leipzig,Bayern Munich,1,1,D,BUN13,BUN1,0,BUN13,Bayern Munich,42146.0,Leipzig
+D1,2019-09-14,14:30,Augsburg,Ein Frankfurt,2,1,H,BUN0,BUN3,0,BUN0,Eintracht Frankfurt,28513.0,Augsburg
+D1,2019-09-14,14:30,Dortmund,Leverkusen,4,0,H,BUN2,BUN9,0,BUN2,Bayer 04 Leverkusen,81365.0,Dortmund
+D1,2019-09-15,17:00,Paderborn,Schalke 04,1,5,A,BUN12,BUN14,0,BUN12,FC Schalke 04,15000.0,Paderborn
+D1,2019-09-15,14:30,Hoffenheim,Freiburg,0,3,A,BUN8,BUN6,0,BUN8,SC Freiburg,29395.0,Sinsheim
+D1,2019-09-20,19:30,Schalke 04,Mainz,2,1,H,BUN14,BUN10,0,BUN14,Mainz 05,58687.0,Gelsenkirchen
+D1,2019-09-21,14:30,Hertha,Paderborn,2,1,H,BUN7,BUN12,0,BUN7,SC Paderborn 07,43588.0,Berlin
+D1,2019-09-21,14:30,Leverkusen,Union Berlin,2,0,H,BUN9,BUN15,0,BUN9,1. FC Union Berlin,27430.0,Leverkusen
+D1,2019-09-21,17:30,Werder Bremen,RB Leipzig,0,3,A,BUN16,BUN13,0,BUN16,RB Leipzig,40550.0,Bremen
+D1,2019-09-21,14:30,Freiburg,Augsburg,1,1,D,BUN6,BUN0,0,BUN6,FC Augsburg,23800.0,Freiburg
+D1,2019-09-21,14:30,Bayern Munich,FC Koln,4,0,H,BUN1,BUN4,0,BUN1,1. FC Köln,75000.0,Munich
+D1,2019-09-22,14:30,M'gladbach,Fortuna Dusseldorf,2,1,H,BUN11,BUN5,0,BUN11,Fortuna Düsseldorf,52413.0,Monchengladbach
+D1,2019-09-22,17:00,Ein Frankfurt,Dortmund,2,2,D,BUN3,BUN2,0,BUN3,Borussia Dortmund,51500.0,Frankfurt
+D1,2019-09-23,19:30,Wolfsburg,Hoffenheim,1,1,D,BUN17,BUN8,0,BUN17,1899 Hoffenheim,21120.0,Wolfsburg
+D1,2019-09-27,19:30,Union Berlin,Ein Frankfurt,1,2,A,BUN15,BUN3,0,BUN15,Eintracht Frankfurt,22012.0,Berlin
+D1,2019-09-28,14:30,Paderborn,Bayern Munich,2,3,A,BUN12,BUN1,0,BUN12,Bayern Munich,15000.0,Paderborn
+D1,2019-09-28,14:30,Mainz,Wolfsburg,0,1,A,BUN10,BUN17,0,BUN10,VfL Wolfsburg,24303.0,Mainz
+D1,2019-09-28,14:30,Augsburg,Leverkusen,0,3,A,BUN0,BUN9,0,BUN0,Bayer 04 Leverkusen,27113.0,Augsburg
+D1,2019-09-28,14:30,RB Leipzig,Schalke 04,1,3,A,BUN13,BUN14,0,BUN13,FC Schalke 04,42146.0,Leipzig
+D1,2019-09-28,17:30,Dortmund,Werder Bremen,2,2,D,BUN2,BUN16,0,BUN2,Werder Bremen,81365.0,Dortmund
+D1,2019-09-28,14:30,Hoffenheim,M'gladbach,0,3,A,BUN8,BUN11,0,BUN8,Borussia Mönchengladbach,29030.0,Sinsheim
+D1,2019-09-29,14:30,Fortuna Dusseldorf,Freiburg,1,2,A,BUN5,BUN6,0,BUN5,SC Freiburg,39244.0,Dusseldorf
+D1,2019-09-29,17:00,FC Koln,Hertha,0,4,A,BUN4,BUN7,0,BUN4,Hertha Berlin,49700.0,Cologne
+D1,2019-10-04,19:30,Hertha,Fortuna Dusseldorf,3,1,H,BUN7,BUN5,0,BUN7,Fortuna Düsseldorf,37128.0,Berlin
+D1,2019-10-05,14:30,Freiburg,Dortmund,2,2,D,BUN6,BUN2,0,BUN6,Borussia Dortmund,24000.0,Freiburg
+D1,2019-10-05,14:30,Bayern Munich,Hoffenheim,1,2,A,BUN1,BUN8,0,BUN1,1899 Hoffenheim,75000.0,Munich
+D1,2019-10-05,14:30,Leverkusen,RB Leipzig,1,1,D,BUN9,BUN13,0,BUN9,RB Leipzig,26355.0,Leverkusen
+D1,2019-10-05,17:30,Schalke 04,FC Koln,1,1,D,BUN14,BUN4,0,BUN14,1. FC KÃ¶ln,61883.0,Gelsenkirchen
+D1,2019-10-05,14:30,Paderborn,Mainz,1,2,A,BUN12,BUN10,0,BUN12,Mainz 05,14217.0,Paderborn
+D1,2019-10-06,12:30,M'gladbach,Augsburg,5,1,H,BUN11,BUN0,0,BUN11,FC Augsburg,50352.0,Monchengladbach
+D1,2019-10-06,17:00,Ein Frankfurt,Werder Bremen,2,2,D,BUN3,BUN16,0,BUN3,Werder Bremen,51500.0,Frankfurt
+D1,2019-10-06,14:30,Wolfsburg,Union Berlin,1,0,H,BUN17,BUN15,0,BUN17,1. FC Union Berlin,27012.0,Wolfsburg
+D1,2019-10-18,19:30,Ein Frankfurt,Leverkusen,3,0,H,BUN3,BUN9,0,BUN3,Bayer 04 Leverkusen,50800.0,Frankfurt
+D1,2019-10-19,14:30,RB Leipzig,Wolfsburg,1,1,D,BUN13,BUN17,0,BUN13,VfL Wolfsburg,39182.0,Leipzig
+D1,2019-10-19,14:30,Werder Bremen,Hertha,1,1,D,BUN16,BUN7,0,BUN16,Hertha Berlin,41447.0,Bremen
+D1,2019-10-19,17:30,Dortmund,M'gladbach,1,0,H,BUN2,BUN11,0,BUN2,Borussia Mönchengladbach,81365.0,Dortmund
+D1,2019-10-19,14:30,Fortuna Dusseldorf,Mainz,1,0,H,BUN5,BUN10,0,BUN5,Mainz 05,40660.0,Dusseldorf
+D1,2019-10-19,14:30,Union Berlin,Freiburg,2,0,H,BUN15,BUN6,0,BUN15,SC Freiburg,22012.0,Berlin
+D1,2019-10-19,14:30,Augsburg,Bayern Munich,2,2,D,BUN0,BUN1,0,BUN0,Bayern Munich,30660.0,Augsburg
+D1,2019-10-20,17:00,Hoffenheim,Schalke 04,2,0,H,BUN8,BUN14,0,BUN8,FC Schalke 04,29477.0,Sinsheim
+D1,2019-10-20,14:30,FC Koln,Paderborn,3,0,H,BUN4,BUN12,0,BUN4,SC Paderborn 07,50000.0,Cologne
+D1,2019-10-25,19:30,Mainz,FC Koln,3,1,H,BUN10,BUN4,0,BUN10,1. FC Köln,31999.0,Mainz
+D1,2019-10-26,14:30,Bayern Munich,Union Berlin,2,1,H,BUN1,BUN15,0,BUN1,1. FC Union Berlin,75000.0,Munich
+D1,2019-10-26,14:30,Paderborn,Fortuna Dusseldorf,2,0,H,BUN12,BUN5,0,BUN12,Fortuna Düsseldorf,14182.0,Paderborn
+D1,2019-10-26,17:30,Leverkusen,Werder Bremen,2,2,D,BUN9,BUN16,0,BUN9,Werder Bremen,30210.0,Leverkusen
+D1,2019-10-26,14:30,Freiburg,RB Leipzig,2,1,H,BUN6,BUN13,0,BUN6,RB Leipzig,24000.0,Freiburg
+D1,2019-10-26,14:30,Hertha,Hoffenheim,2,3,A,BUN7,BUN8,0,BUN7,1899 Hoffenheim,44702.0,Berlin
+D1,2019-10-26,14:30,Schalke 04,Dortmund,0,0,D,BUN14,BUN2,0,BUN14,Borussia Dortmund,61873.0,Gelsenkirchen
+D1,2019-10-27,17:00,M'gladbach,Ein Frankfurt,4,2,H,BUN11,BUN3,0,BUN11,Eintracht Frankfurt,52300.0,Monchengladbach
+D1,2019-10-27,14:30,Wolfsburg,Augsburg,0,0,D,BUN17,BUN0,0,BUN17,FC Augsburg,22630.0,Wolfsburg
+D1,2019-11-01,19:30,Hoffenheim,Paderborn,3,0,H,BUN8,BUN12,0,BUN8,SC Paderborn 07,23629.0,Sinsheim
+D1,2019-11-02,17:30,Union Berlin,Hertha,1,0,H,BUN15,BUN7,0,BUN15,Hertha Berlin,22012.0,Berlin
+D1,2019-11-02,14:30,Leverkusen,M'gladbach,1,2,A,BUN9,BUN11,0,BUN9,Borussia Mönchengladbach,30210.0,Leverkusen
+D1,2019-11-02,14:30,Dortmund,Wolfsburg,3,0,H,BUN2,BUN17,0,BUN2,VfL Wolfsburg,80200.0,Dortmund
+D1,2019-11-02,14:30,Werder Bremen,Freiburg,2,2,D,BUN16,BUN6,0,BUN16,SC Freiburg,41000.0,Bremen
+D1,2019-11-02,14:30,RB Leipzig,Mainz,8,0,H,BUN13,BUN10,0,BUN13,Mainz 05,38517.0,Leipzig
+D1,2019-11-02,14:30,Ein Frankfurt,Bayern Munich,5,1,H,BUN3,BUN1,0,BUN3,Bayern Munich,51500.0,Frankfurt
+D1,2019-11-03,17:00,Augsburg,Schalke 04,2,3,A,BUN0,BUN14,0,BUN0,FC Schalke 04,30361.0,Augsburg
+D1,2019-11-03,14:30,Fortuna Dusseldorf,FC Koln,2,0,H,BUN5,BUN4,0,BUN5,1. FC Köln,51155.0,Dusseldorf
+D1,2019-11-08,19:30,FC Koln,Hoffenheim,1,2,A,BUN4,BUN8,0,BUN4,1899 Hoffenheim,49100.0,Cologne
+D1,2019-11-09,14:30,Hertha,RB Leipzig,2,4,A,BUN7,BUN13,0,BUN7,RB Leipzig,48532.0,Berlin
+D1,2019-11-09,14:30,Mainz,Union Berlin,2,3,A,BUN10,BUN15,0,BUN10,1. FC Union Berlin,24349.0,Mainz
+D1,2019-11-09,14:30,Paderborn,Augsburg,0,1,A,BUN12,BUN0,0,BUN12,FC Augsburg,13758.0,Paderborn
+D1,2019-11-09,17:30,Bayern Munich,Dortmund,4,0,H,BUN1,BUN2,0,BUN1,Borussia Dortmund,75000.0,Munich
+D1,2019-11-09,14:30,Schalke 04,Fortuna Dusseldorf,3,3,D,BUN14,BUN5,0,BUN14,Fortuna DÃ¼sseldorf,61831.0,Gelsenkirchen
+D1,2019-11-10,14:30,Wolfsburg,Leverkusen,0,2,A,BUN17,BUN9,0,BUN17,Bayer 04 Leverkusen,24112.0,Wolfsburg
+D1,2019-11-10,12:30,M'gladbach,Werder Bremen,3,1,H,BUN11,BUN16,0,BUN11,Werder Bremen,54022.0,Monchengladbach
+D1,2019-11-10,17:00,Freiburg,Ein Frankfurt,1,0,H,BUN6,BUN3,0,BUN6,Eintracht Frankfurt,24000.0,Freiburg
+D1,2019-11-22,19:30,Dortmund,Paderborn,3,3,D,BUN2,BUN12,0,BUN2,SC Paderborn 07,81365.0,Dortmund
+D1,2019-11-23,14:30,Union Berlin,M'gladbach,2,0,H,BUN15,BUN11,0,BUN15,Borussia Mönchengladbach,22012.0,Berlin
+D1,2019-11-23,14:30,Fortuna Dusseldorf,Bayern Munich,0,4,A,BUN5,BUN1,0,BUN5,Bayern Munich,53000.0,Dusseldorf
+D1,2019-11-23,17:30,RB Leipzig,FC Koln,4,1,H,BUN13,BUN4,0,BUN13,1. FC Köln,42036.0,Leipzig
+D1,2019-11-23,14:30,Werder Bremen,Schalke 04,1,2,A,BUN16,BUN14,0,BUN16,FC Schalke 04,42100.0,Bremen
+D1,2019-11-23,14:30,Ein Frankfurt,Wolfsburg,0,2,A,BUN3,BUN17,0,BUN3,VfL Wolfsburg,50700.0,Frankfurt
+D1,2019-11-23,14:30,Leverkusen,Freiburg,1,1,D,BUN9,BUN6,0,BUN9,SC Freiburg,29032.0,Leverkusen
+D1,2019-11-24,14:30,Augsburg,Hertha,4,0,H,BUN0,BUN7,0,BUN0,Hertha Berlin,29233.0,Augsburg
+D1,2019-11-24,17:00,Hoffenheim,Mainz,1,5,A,BUN8,BUN10,0,BUN8,Mainz 05,23129.0,Sinsheim
+D1,2019-11-29,19:30,Schalke 04,Union Berlin,2,1,H,BUN14,BUN15,0,BUN14,1. FC Union Berlin,61837.0,Gelsenkirchen
+D1,2019-11-30,14:30,Hoffenheim,Fortuna Dusseldorf,1,1,D,BUN8,BUN5,0,BUN8,Fortuna Düsseldorf,25427.0,Sinsheim
+D1,2019-11-30,17:30,Bayern Munich,Leverkusen,1,2,A,BUN1,BUN9,0,BUN1,Bayer 04 Leverkusen,75000.0,Munich
+D1,2019-11-30,14:30,Hertha,Dortmund,1,2,A,BUN7,BUN2,0,BUN7,Borussia Dortmund,74667.0,Berlin
+D1,2019-11-30,14:30,Paderborn,RB Leipzig,2,3,A,BUN12,BUN13,0,BUN12,RB Leipzig,13253.0,Paderborn
+D1,2019-11-30,14:30,FC Koln,Augsburg,1,1,D,BUN4,BUN0,0,BUN4,FC Augsburg,49200.0,Cologne
+D1,2019-12-01,14:30,M'gladbach,Freiburg,4,2,H,BUN11,BUN6,0,BUN11,SC Freiburg,51080.0,Monchengladbach
+D1,2019-12-01,17:00,Wolfsburg,Werder Bremen,2,3,A,BUN17,BUN16,0,BUN17,Werder Bremen,26012.0,Wolfsburg
+D1,2019-12-02,19:30,Mainz,Ein Frankfurt,2,1,H,BUN10,BUN3,0,BUN10,Eintracht Frankfurt,33134.0,Mainz
+D1,2019-12-06,19:30,Ein Frankfurt,Hertha,2,2,D,BUN3,BUN7,0,BUN3,Hertha Berlin,50000.0,Frankfurt
+D1,2019-12-07,14:30,Augsburg,Mainz,2,1,H,BUN0,BUN10,0,BUN0,Mainz 05,26950.0,Augsburg
+D1,2019-12-07,14:30,Freiburg,Wolfsburg,1,0,H,BUN6,BUN17,0,BUN6,VfL Wolfsburg,23800.0,Freiburg
+D1,2019-12-07,14:30,M'gladbach,Bayern Munich,2,1,H,BUN11,BUN1,0,BUN11,Bayern Munich,54022.0,Monchengladbach
+D1,2019-12-07,14:30,RB Leipzig,Hoffenheim,3,1,H,BUN13,BUN8,0,BUN13,1899 Hoffenheim,38407.0,Leipzig
+D1,2019-12-07,14:30,Dortmund,Fortuna Dusseldorf,5,0,H,BUN2,BUN5,0,BUN2,Fortuna Düsseldorf,81365.0,Dortmund
+D1,2019-12-07,17:30,Leverkusen,Schalke 04,2,1,H,BUN9,BUN14,0,BUN9,FC Schalke 04,30210.0,Leverkusen
+D1,2019-12-08,14:30,Union Berlin,FC Koln,2,0,H,BUN15,BUN4,0,BUN15,1. FC Köln,22012.0,Berlin
+D1,2019-12-08,17:00,Werder Bremen,Paderborn,0,1,A,BUN16,BUN12,0,BUN16,SC Paderborn 07,39870.0,Bremen
+D1,2019-12-13,19:30,Hoffenheim,Augsburg,2,4,A,BUN8,BUN0,0,BUN8,FC Augsburg,23309.0,Sinsheim
+D1,2019-12-14,14:30,Hertha,Freiburg,1,0,H,BUN7,BUN6,0,BUN7,SC Freiburg,37343.0,Berlin
+D1,2019-12-14,14:30,Paderborn,Union Berlin,1,1,D,BUN12,BUN15,0,BUN12,1. FC Union Berlin,14414.0,Paderborn
+D1,2019-12-14,14:30,Bayern Munich,Werder Bremen,6,1,H,BUN1,BUN16,0,BUN1,Werder Bremen,75000.0,Munich
+D1,2019-12-14,14:30,Mainz,Dortmund,0,4,A,BUN10,BUN2,0,BUN10,Borussia Dortmund,33305.0,Mainz
+D1,2019-12-14,14:30,FC Koln,Leverkusen,2,0,H,BUN4,BUN9,0,BUN4,Bayer 04 Leverkusen,49500.0,Cologne
+D1,2019-12-14,17:30,Fortuna Dusseldorf,RB Leipzig,0,3,A,BUN5,BUN13,0,BUN5,RB Leipzig,35387.0,Dusseldorf
+D1,2019-12-15,17:00,Schalke 04,Ein Frankfurt,1,0,H,BUN14,BUN3,0,BUN14,Eintracht Frankfurt,60811.0,Gelsenkirchen
+D1,2019-12-15,14:30,Wolfsburg,M'gladbach,2,1,H,BUN17,BUN11,0,BUN17,Borussia Mönchengladbach,25580.0,Wolfsburg
+D1,2019-12-17,19:30,Dortmund,RB Leipzig,3,3,D,BUN2,BUN13,0,BUN2,RB Leipzig,80200.0,Dortmund
+D1,2019-12-17,19:30,Union Berlin,Hoffenheim,0,2,A,BUN15,BUN8,0,BUN15,1899 Hoffenheim,20350.0,Berlin
+D1,2019-12-17,19:30,Augsburg,Fortuna Dusseldorf,3,0,H,BUN0,BUN5,0,BUN0,Fortuna Düsseldorf,27763.0,Augsburg
+D1,2019-12-17,17:30,Werder Bremen,Mainz,0,5,A,BUN16,BUN10,0,BUN16,Mainz 05,37720.0,Bremen
+D1,2019-12-18,19:30,Freiburg,Bayern Munich,1,3,A,BUN6,BUN1,0,BUN6,Bayern Munich,24000.0,Freiburg
+D1,2019-12-18,19:30,Wolfsburg,Schalke 04,1,1,D,BUN17,BUN14,0,BUN17,FC Schalke 04,24651.0,Wolfsburg
+D1,2019-12-18,19:30,Ein Frankfurt,FC Koln,2,4,A,BUN3,BUN4,0,BUN3,1. FC Köln,50300.0,Frankfurt
+D1,2019-12-18,19:30,M'gladbach,Paderborn,2,0,H,BUN11,BUN12,0,BUN11,SC Paderborn 07,44494.0,Monchengladbach
+D1,2019-12-18,17:30,Leverkusen,Hertha,0,1,A,BUN9,BUN7,0,BUN9,Hertha Berlin,24472.0,Leverkusen
+D1,2019-12-20,19:30,Hoffenheim,Dortmund,2,1,H,BUN8,BUN2,0,BUN8,Borussia Dortmund,30150.0,Sinsheim
+D1,2019-12-21,14:30,FC Koln,Werder Bremen,1,0,H,BUN4,BUN16,0,BUN4,Werder Bremen,50000.0,Cologne
+D1,2019-12-21,14:30,Mainz,Leverkusen,0,1,A,BUN10,BUN9,0,BUN10,Bayer 04 Leverkusen,24345.0,Mainz
+D1,2019-12-21,17:30,Hertha,M'gladbach,0,0,D,BUN7,BUN11,0,BUN7,Borussia Mönchengladbach,50208.0,Berlin
+D1,2019-12-21,14:30,RB Leipzig,Augsburg,3,1,H,BUN13,BUN0,0,BUN13,FC Augsburg,40562.0,Leipzig
+D1,2019-12-21,14:30,Schalke 04,Freiburg,2,2,D,BUN14,BUN6,0,BUN14,SC Freiburg,61867.0,Gelsenkirchen
+D1,2019-12-21,14:30,Bayern Munich,Wolfsburg,2,0,H,BUN1,BUN17,0,BUN1,VfL Wolfsburg,75000.0,Munich
+D1,2019-12-22,17:00,Paderborn,Ein Frankfurt,2,1,H,BUN12,BUN3,0,BUN12,Eintracht Frankfurt,15000.0,Paderborn
+D1,2019-12-22,14:30,Fortuna Dusseldorf,Union Berlin,2,1,H,BUN5,BUN15,0,BUN5,1. FC Union Berlin,45490.0,Dusseldorf
+D1,2020-01-17,19:30,Schalke 04,M'gladbach,2,0,H,BUN14,BUN11,0,BUN14,Borussia MÃ¶nchengladbach,62271.0,Gelsenkirchen
+D1,2020-01-18,14:30,Mainz,Freiburg,1,2,A,BUN10,BUN6,0,BUN10,SC Freiburg,23138.0,Mainz
+D1,2020-01-18,17:30,RB Leipzig,Union Berlin,3,1,H,BUN13,BUN15,0,BUN13,1. FC Union Berlin,42146.0,Leipzig
+D1,2020-01-18,14:30,Fortuna Dusseldorf,Werder Bremen,0,1,A,BUN5,BUN16,0,BUN5,Werder Bremen,46000.0,Dusseldorf
+D1,2020-01-18,14:30,Augsburg,Dortmund,3,5,A,BUN0,BUN2,0,BUN0,Borussia Dortmund,30660.0,Augsburg
+D1,2020-01-18,14:30,Hoffenheim,Ein Frankfurt,1,2,A,BUN8,BUN3,0,BUN8,Eintracht Frankfurt,29610.0,Sinsheim
+D1,2020-01-18,14:30,FC Koln,Wolfsburg,3,1,H,BUN4,BUN17,0,BUN4,VfL Wolfsburg,49100.0,Cologne
+D1,2020-01-19,17:00,Paderborn,Leverkusen,1,4,A,BUN12,BUN9,0,BUN12,Bayer 04 Leverkusen,14889.0,Paderborn
+D1,2020-01-19,14:30,Hertha,Bayern Munich,0,4,A,BUN7,BUN1,0,BUN7,Bayern Munich,74667.0,Berlin
+D1,2020-01-24,19:30,Dortmund,FC Koln,5,1,H,BUN2,BUN4,0,BUN2,1. FC Köln,81365.0,Dortmund
+D1,2020-01-25,14:30,Union Berlin,Augsburg,2,0,H,BUN15,BUN0,0,BUN15,FC Augsburg,22012.0,Berlin
+D1,2020-01-25,14:30,Ein Frankfurt,RB Leipzig,2,0,H,BUN3,BUN13,0,BUN3,RB Leipzig,50300.0,Frankfurt
+D1,2020-01-25,17:30,Bayern Munich,Schalke 04,5,0,H,BUN1,BUN14,0,BUN1,FC Schalke 04,75000.0,Munich
+D1,2020-01-25,14:30,Wolfsburg,Hertha,1,2,A,BUN17,BUN7,0,BUN17,Hertha Berlin,24894.0,Wolfsburg
+D1,2020-01-25,14:30,M'gladbach,Mainz,3,1,H,BUN11,BUN10,0,BUN11,Mainz 05,49175.0,Monchengladbach
+D1,2020-01-25,14:30,Freiburg,Paderborn,0,2,A,BUN6,BUN12,0,BUN6,SC Paderborn 07,23500.0,Freiburg
+D1,2020-01-26,17:00,Leverkusen,Fortuna Dusseldorf,3,0,H,BUN9,BUN5,0,BUN9,Fortuna Düsseldorf,26250.0,Leverkusen
+D1,2020-01-26,14:30,Werder Bremen,Hoffenheim,0,3,A,BUN16,BUN8,0,BUN16,1899 Hoffenheim,40000.0,Bremen
+D1,2020-01-31,19:30,Hertha,Schalke 04,0,0,D,BUN7,BUN14,0,BUN7,FC Schalke 04,47863.0,Berlin
+D1,2020-02-01,14:30,Hoffenheim,Leverkusen,2,1,H,BUN8,BUN9,0,BUN8,Bayer 04 Leverkusen,24489.0,Sinsheim
+D1,2020-02-01,14:30,Dortmund,Union Berlin,5,0,H,BUN2,BUN15,0,BUN2,1. FC Union Berlin,81365.0,Dortmund
+D1,2020-02-01,14:30,Augsburg,Werder Bremen,2,1,H,BUN0,BUN16,0,BUN0,Werder Bremen,29432.0,Augsburg
+D1,2020-02-01,17:30,RB Leipzig,M'gladbach,2,2,D,BUN13,BUN11,0,BUN13,Borussia Mönchengladbach,42146.0,Leipzig
+D1,2020-02-01,14:30,Fortuna Dusseldorf,Ein Frankfurt,1,1,D,BUN5,BUN3,0,BUN5,Eintracht Frankfurt,45018.0,Dusseldorf
+D1,2020-02-01,14:30,Mainz,Bayern Munich,1,3,A,BUN10,BUN1,0,BUN10,Bayern Munich,33305.0,Mainz
+D1,2020-02-02,17:00,Paderborn,Wolfsburg,2,4,A,BUN12,BUN17,0,BUN12,VfL Wolfsburg,13926.0,Paderborn
+D1,2020-02-02,14:30,FC Koln,Freiburg,4,0,H,BUN4,BUN6,0,BUN4,SC Freiburg,50000.0,Cologne
+D1,2020-02-07,19:30,Ein Frankfurt,Augsburg,5,0,H,BUN3,BUN0,0,BUN3,FC Augsburg,48800.0,Frankfurt
+D1,2020-02-08,14:30,Freiburg,Hoffenheim,1,0,H,BUN6,BUN8,0,BUN6,1899 Hoffenheim,24000.0,Freiburg
+D1,2020-02-08,14:30,Hertha,Mainz,1,3,A,BUN7,BUN10,0,BUN7,Mainz 05,35049.0,Berlin
+D1,2020-02-08,14:30,Werder Bremen,Union Berlin,0,2,A,BUN16,BUN15,0,BUN16,1. FC Union Berlin,42100.0,Bremen
+D1,2020-02-08,17:30,Leverkusen,Dortmund,4,3,H,BUN9,BUN2,0,BUN9,Borussia Dortmund,30210.0,Leverkusen
+D1,2020-02-08,14:30,Schalke 04,Paderborn,1,1,D,BUN14,BUN12,0,BUN14,SC Paderborn 07,61614.0,Gelsenkirchen
+D1,2020-02-08,14:30,Wolfsburg,Fortuna Dusseldorf,1,1,D,BUN17,BUN5,0,BUN17,Fortuna Düsseldorf,23445.0,Wolfsburg
+D1,2020-02-09,17:00,Bayern Munich,RB Leipzig,0,0,D,BUN1,BUN13,0,BUN1,RB Leipzig,75000.0,Munich
+D1,2020-02-14,19:30,Dortmund,Ein Frankfurt,4,0,H,BUN2,BUN3,0,BUN2,Eintracht Frankfurt,81365.0,Dortmund
+D1,2020-02-15,14:30,RB Leipzig,Werder Bremen,3,0,H,BUN13,BUN16,0,BUN13,Werder Bremen,41308.0,Leipzig
+D1,2020-02-15,14:30,Union Berlin,Leverkusen,2,3,A,BUN15,BUN9,0,BUN15,Bayer 04 Leverkusen,22012.0,Berlin
+D1,2020-02-15,14:30,Hoffenheim,Wolfsburg,2,3,A,BUN8,BUN17,0,BUN8,VfL Wolfsburg,22506.0,Sinsheim
+D1,2020-02-15,14:30,Paderborn,Hertha,1,2,A,BUN12,BUN7,0,BUN12,Hertha Berlin,14687.0,Paderborn
+D1,2020-02-15,14:30,Augsburg,Freiburg,1,1,D,BUN0,BUN6,0,BUN0,SC Freiburg,26822.0,Augsburg
+D1,2020-02-15,17:30,Fortuna Dusseldorf,M'gladbach,1,4,A,BUN5,BUN11,0,BUN5,Borussia Mönchengladbach,51000.0,Dusseldorf
+D1,2020-02-16,17:00,Mainz,Schalke 04,0,0,D,BUN10,BUN14,0,BUN10,FC Schalke 04,27482.0,Mainz
+D1,2020-02-16,14:30,FC Koln,Bayern Munich,1,4,A,BUN4,BUN1,0,BUN4,Bayern Munich,50000.0,Cologne
+D1,2020-02-21,19:30,Bayern Munich,Paderborn,3,2,H,BUN1,BUN12,0,BUN1,SC Paderborn 07,75000.0,Munich
+D1,2020-02-22,14:30,Hertha,FC Koln,0,5,A,BUN7,BUN4,0,BUN7,1. FC Köln,46207.0,Berlin
+D1,2020-02-22,14:30,Freiburg,Fortuna Dusseldorf,0,2,A,BUN6,BUN5,0,BUN6,Fortuna Düsseldorf,24000.0,Freiburg
+D1,2020-02-22,17:30,Schalke 04,RB Leipzig,0,5,A,BUN14,BUN13,0,BUN14,RB Leipzig,61433.0,Gelsenkirchen
+D1,2020-02-22,14:30,Werder Bremen,Dortmund,0,2,A,BUN16,BUN2,0,BUN16,Borussia Dortmund,42100.0,Bremen
+D1,2020-02-22,14:30,M'gladbach,Hoffenheim,1,1,D,BUN11,BUN8,0,BUN11,1899 Hoffenheim,50250.0,Monchengladbach
+D1,2020-02-23,14:30,Leverkusen,Augsburg,2,0,H,BUN9,BUN0,0,BUN9,FC Augsburg,23703.0,Leverkusen
+D1,2020-02-23,17:00,Wolfsburg,Mainz,4,0,H,BUN17,BUN10,0,BUN17,Mainz 05,21058.0,Wolfsburg
+D1,2020-02-24,19:30,Ein Frankfurt,Union Berlin,1,2,A,BUN3,BUN15,0,BUN3,1. FC Union Berlin,47000.0,Frankfurt
+D1,2020-02-28,19:30,Fortuna Dusseldorf,Hertha,3,3,D,BUN5,BUN7,0,BUN5,Hertha Berlin,31632.0,Dusseldorf
+D1,2020-02-29,14:30,Mainz,Paderborn,2,0,H,BUN10,BUN12,0,BUN10,SC Paderborn 07,24231.0,Mainz
+D1,2020-02-29,17:30,FC Koln,Schalke 04,3,0,H,BUN4,BUN14,0,BUN4,FC Schalke 04,50000.0,Cologne
+D1,2020-02-29,14:30,Augsburg,M'gladbach,2,3,A,BUN0,BUN11,0,BUN0,Borussia Mönchengladbach,29303.0,Augsburg
+D1,2020-02-29,14:30,Dortmund,Freiburg,1,0,H,BUN2,BUN6,0,BUN2,SC Freiburg,81365.0,Dortmund
+D1,2020-02-29,14:30,Hoffenheim,Bayern Munich,0,6,A,BUN8,BUN1,0,BUN8,Bayern Munich,30150.0,Sinsheim
+D1,2020-03-01,12:30,Union Berlin,Wolfsburg,2,2,D,BUN15,BUN17,0,BUN15,VfL Wolfsburg,22012.0,Berlin
+D1,2020-03-01,14:30,RB Leipzig,Leverkusen,1,1,D,BUN13,BUN9,0,BUN13,Bayer 04 Leverkusen,41216.0,Leipzig
+D1,2020-03-06,19:00,Paderborn,FC Koln,1,2,A,BUN12,BUN4,0,BUN12,1. FC Köln,15000.0,Paderborn
+D1,2020-03-07,14:30,Hertha,Werder Bremen,2,2,D,BUN7,BUN16,0,BUN7,Werder Bremen,58028.0,Berlin
+D1,2020-03-07,14:30,Wolfsburg,RB Leipzig,0,0,D,BUN17,BUN13,0,BUN17,RB Leipzig,27195.0,Wolfsburg
+D1,2020-03-07,14:30,Schalke 04,Hoffenheim,1,1,D,BUN14,BUN8,0,BUN14,1899 Hoffenheim,58324.0,Gelsenkirchen
+D1,2020-03-07,14:30,Freiburg,Union Berlin,3,1,H,BUN6,BUN15,0,BUN6,1. FC Union Berlin,24000.0,Freiburg
+D1,2020-03-07,17:30,M'gladbach,Dortmund,1,2,A,BUN11,BUN2,0,BUN11,Borussia Dortmund,54022.0,Monchengladbach
+D1,2020-03-07,14:30,Leverkusen,Ein Frankfurt,4,0,H,BUN9,BUN3,0,BUN9,Eintracht Frankfurt,30210.0,Leverkusen
+D1,2020-03-08,17:00,Mainz,Fortuna Dusseldorf,1,1,D,BUN10,BUN5,0,BUN10,Fortuna Düsseldorf,21409.0,Mainz
+D1,2020-03-08,14:30,Bayern Munich,Augsburg,2,0,H,BUN1,BUN0,0,BUN1,FC Augsburg,75000.0,Munich
+D1,2020-05-16,14:30,Hoffenheim,Hertha,0,3,A,BUN8,BUN7,0,BUN8,Hertha Berlin,0.0,Sinsheim
+D1,2020-05-16,14:30,Fortuna Dusseldorf,Paderborn,0,0,D,BUN5,BUN12,0,BUN5,SC Paderborn 07,0.0,Dusseldorf
+D1,2020-05-16,14:30,Augsburg,Wolfsburg,1,2,A,BUN0,BUN17,0,BUN0,VfL Wolfsburg,0.0,Augsburg
+D1,2020-05-16,14:30,RB Leipzig,Freiburg,1,1,D,BUN13,BUN6,0,BUN13,SC Freiburg,0.0,Leipzig
+D1,2020-05-16,14:30,Dortmund,Schalke 04,4,0,H,BUN2,BUN14,0,BUN2,FC Schalke 04,0.0,Dortmund
+D1,2020-05-16,17:30,Ein Frankfurt,M'gladbach,1,3,A,BUN3,BUN11,0,BUN3,Borussia Mönchengladbach,0.0,Frankfurt
+D1,2020-05-17,14:30,FC Koln,Mainz,2,2,D,BUN4,BUN10,0,BUN4,Mainz 05,0.0,Cologne
+D1,2020-05-17,17:00,Union Berlin,Bayern Munich,0,2,A,BUN15,BUN1,0,BUN15,Bayern Munich,0.0,Berlin
+D1,2020-05-18,19:30,Werder Bremen,Leverkusen,1,4,A,BUN16,BUN9,0,BUN16,Bayer 04 Leverkusen,0.0,Bremen
+D1,2020-05-22,19:30,Hertha,Union Berlin,4,0,H,BUN7,BUN15,0,BUN7,1. FC Union Berlin,0.0,Berlin
+D1,2020-05-23,17:30,Bayern Munich,Ein Frankfurt,5,2,H,BUN1,BUN3,0,BUN1,Eintracht Frankfurt,0.0,Munich
+D1,2020-05-23,14:30,Freiburg,Werder Bremen,0,1,A,BUN6,BUN16,0,BUN6,Werder Bremen,0.0,Freiburg
+D1,2020-05-23,14:30,M'gladbach,Leverkusen,1,3,A,BUN11,BUN9,0,BUN11,Bayer 04 Leverkusen,0.0,Monchengladbach
+D1,2020-05-23,14:30,Wolfsburg,Dortmund,0,2,A,BUN17,BUN2,0,BUN17,Borussia Dortmund,0.0,Wolfsburg
+D1,2020-05-23,14:30,Paderborn,Hoffenheim,1,1,D,BUN12,BUN8,0,BUN12,1899 Hoffenheim,0.0,Paderborn
+D1,2020-05-24,12:30,Schalke 04,Augsburg,0,3,A,BUN14,BUN0,0,BUN14,FC Augsburg,0.0,Gelsenkirchen
+D1,2020-05-24,14:30,Mainz,RB Leipzig,0,5,A,BUN10,BUN13,0,BUN10,RB Leipzig,0.0,Mainz
+D1,2020-05-24,17:00,FC Koln,Fortuna Dusseldorf,2,2,D,BUN4,BUN5,0,BUN4,Fortuna Düsseldorf,0.0,Cologne
+D1,2020-05-26,19:30,Werder Bremen,M'gladbach,0,0,D,BUN16,BUN11,0,BUN16,Borussia Mönchengladbach,0.0,Bremen
+D1,2020-05-26,17:30,Dortmund,Bayern Munich,0,1,A,BUN2,BUN1,0,BUN2,Bayern Munich,0.0,Dortmund
+D1,2020-05-26,19:30,Leverkusen,Wolfsburg,1,4,A,BUN9,BUN17,0,BUN9,VfL Wolfsburg,0.0,Leverkusen
+D1,2020-05-26,19:30,Ein Frankfurt,Freiburg,3,3,D,BUN3,BUN6,0,BUN3,SC Freiburg,0.0,Frankfurt
+D1,2020-05-27,19:30,Hoffenheim,FC Koln,3,1,H,BUN8,BUN4,0,BUN8,1. FC Köln,0.0,Sinsheim
+D1,2020-05-27,19:30,Augsburg,Paderborn,0,0,D,BUN0,BUN12,0,BUN0,SC Paderborn 07,0.0,Augsburg
+D1,2020-05-27,17:30,RB Leipzig,Hertha,2,2,D,BUN13,BUN7,0,BUN13,Hertha Berlin,0.0,Leipzig
+D1,2020-05-27,19:30,Fortuna Dusseldorf,Schalke 04,2,1,H,BUN5,BUN14,0,BUN5,FC Schalke 04,0.0,Dusseldorf
+D1,2020-05-27,19:30,Union Berlin,Mainz,1,1,D,BUN15,BUN10,0,BUN15,Mainz 05,0.0,Berlin
+D1,2020-05-29,19:30,Freiburg,Leverkusen,0,1,A,BUN6,BUN9,0,BUN6,Bayer 04 Leverkusen,0.0,Freiburg
+D1,2020-05-30,14:30,Mainz,Hoffenheim,0,1,A,BUN10,BUN8,0,BUN10,1899 Hoffenheim,0.0,Mainz
+D1,2020-05-30,14:30,Hertha,Augsburg,2,0,H,BUN7,BUN0,0,BUN7,FC Augsburg,0.0,Berlin
+D1,2020-05-30,14:30,Schalke 04,Werder Bremen,0,1,A,BUN14,BUN16,0,BUN14,Werder Bremen,0.0,Gelsenkirchen
+D1,2020-05-30,17:30,Bayern Munich,Fortuna Dusseldorf,5,0,H,BUN1,BUN5,0,BUN1,Fortuna Düsseldorf,0.0,Munich
+D1,2020-05-30,14:30,Wolfsburg,Ein Frankfurt,1,2,A,BUN17,BUN3,0,BUN17,Eintracht Frankfurt,0.0,Wolfsburg
+D1,2020-05-31,17:00,Paderborn,Dortmund,1,6,A,BUN12,BUN2,0,BUN12,Borussia Dortmund,0.0,Paderborn
+D1,2020-05-31,14:30,M'gladbach,Union Berlin,4,1,H,BUN11,BUN15,0,BUN11,1. FC Union Berlin,0.0,Monchengladbach
+D1,2020-06-01,19:30,FC Koln,RB Leipzig,2,4,A,BUN4,BUN13,0,BUN4,RB Leipzig,0.0,Cologne
+D1,2020-06-03,19:30,Werder Bremen,Ein Frankfurt,0,3,A,BUN16,BUN3,0,BUN16,Eintracht Frankfurt,0.0,Bremen
+D1,2020-06-05,19:30,Freiburg,M'gladbach,1,0,H,BUN6,BUN11,0,BUN6,Borussia Mönchengladbach,0.0,Freiburg
+D1,2020-06-06,14:30,Ein Frankfurt,Mainz,0,2,A,BUN3,BUN10,0,BUN3,Mainz 05,0.0,Frankfurt
+D1,2020-06-06,14:30,RB Leipzig,Paderborn,1,1,D,BUN13,BUN12,0,BUN13,SC Paderborn 07,0.0,Leipzig
+D1,2020-06-06,17:30,Dortmund,Hertha,1,0,H,BUN2,BUN7,0,BUN2,Hertha Berlin,0.0,Dortmund
+D1,2020-06-06,14:30,Fortuna Dusseldorf,Hoffenheim,2,2,D,BUN5,BUN8,0,BUN5,1899 Hoffenheim,0.0,Dusseldorf
+D1,2020-06-06,14:30,Leverkusen,Bayern Munich,2,4,A,BUN9,BUN1,0,BUN9,Bayern Munich,0.0,Leverkusen
+D1,2020-06-07,12:30,Werder Bremen,Wolfsburg,0,1,A,BUN16,BUN17,0,BUN16,VfL Wolfsburg,0.0,Bremen
+D1,2020-06-07,14:30,Union Berlin,Schalke 04,1,1,D,BUN15,BUN14,0,BUN15,FC Schalke 04,0.0,Berlin
+D1,2020-06-07,17:00,Augsburg,FC Koln,1,1,D,BUN0,BUN4,0,BUN0,1. FC Köln,0.0,Augsburg
+D1,2020-06-12,19:30,Hoffenheim,RB Leipzig,0,2,A,BUN8,BUN13,0,BUN8,RB Leipzig,0.0,Sinsheim
+D1,2020-06-13,14:30,FC Koln,Union Berlin,1,2,A,BUN4,BUN15,0,BUN4,1. FC Union Berlin,0.0,Cologne
+D1,2020-06-13,17:30,Bayern Munich,M'gladbach,2,1,H,BUN1,BUN11,0,BUN1,Borussia Mönchengladbach,0.0,Munich
+D1,2020-06-13,14:30,Hertha,Ein Frankfurt,1,4,A,BUN7,BUN3,0,BUN7,Eintracht Frankfurt,0.0,Berlin
+D1,2020-06-13,14:30,Paderborn,Werder Bremen,1,5,A,BUN12,BUN16,0,BUN12,Werder Bremen,0.0,Paderborn
+D1,2020-06-13,14:30,Wolfsburg,Freiburg,2,2,D,BUN17,BUN6,0,BUN17,SC Freiburg,0.0,Wolfsburg
+D1,2020-06-13,14:30,Fortuna Dusseldorf,Dortmund,0,1,A,BUN5,BUN2,0,BUN5,Borussia Dortmund,0.0,Dusseldorf
+D1,2020-06-14,17:00,Schalke 04,Leverkusen,1,1,D,BUN14,BUN9,0,BUN14,Bayer 04 Leverkusen,0.0,Gelsenkirchen
+D1,2020-06-14,14:30,Mainz,Augsburg,0,1,A,BUN10,BUN0,0,BUN10,FC Augsburg,0.0,Mainz
+D1,2020-06-16,17:30,M'gladbach,Wolfsburg,3,0,H,BUN11,BUN17,0,BUN11,VfL Wolfsburg,0.0,Monchengladbach
+D1,2020-06-16,19:30,Union Berlin,Paderborn,1,0,H,BUN15,BUN12,0,BUN15,SC Paderborn 07,0.0,Berlin
+D1,2020-06-16,19:30,Freiburg,Hertha,2,1,H,BUN6,BUN7,0,BUN6,Hertha Berlin,0.0,Freiburg
+D1,2020-06-16,19:30,Werder Bremen,Bayern Munich,0,1,A,BUN16,BUN1,0,BUN16,Bayern Munich,0.0,Bremen
+D1,2020-06-17,19:30,Augsburg,Hoffenheim,1,3,A,BUN0,BUN8,0,BUN0,1899 Hoffenheim,0.0,Augsburg
+D1,2020-06-17,17:30,Ein Frankfurt,Schalke 04,2,1,H,BUN3,BUN14,0,BUN3,FC Schalke 04,0.0,Frankfurt
+D1,2020-06-17,19:30,Dortmund,Mainz,0,2,A,BUN2,BUN10,0,BUN2,Mainz 05,0.0,Dortmund
+D1,2020-06-17,19:30,RB Leipzig,Fortuna Dusseldorf,2,2,D,BUN13,BUN5,0,BUN13,Fortuna Düsseldorf,0.0,Leipzig
+D1,2020-06-17,19:30,Leverkusen,FC Koln,3,1,H,BUN9,BUN4,0,BUN9,1. FC Köln,0.0,Leverkusen
+D1,2020-06-20,14:30,Hoffenheim,Union Berlin,4,0,H,BUN8,BUN15,0,BUN8,1. FC Union Berlin,0.0,Sinsheim
+D1,2020-06-20,14:30,Schalke 04,Wolfsburg,1,4,A,BUN14,BUN17,0,BUN14,VfL Wolfsburg,0.0,Gelsenkirchen
+D1,2020-06-20,14:30,RB Leipzig,Dortmund,0,2,A,BUN13,BUN2,0,BUN13,Borussia Dortmund,0.0,Leipzig
+D1,2020-06-20,14:30,Paderborn,M'gladbach,1,3,A,BUN12,BUN11,0,BUN12,Borussia Mönchengladbach,0.0,Paderborn
+D1,2020-06-20,14:30,Mainz,Werder Bremen,3,1,H,BUN10,BUN16,0,BUN10,Werder Bremen,0.0,Mainz
+D1,2020-06-20,14:30,Bayern Munich,Freiburg,3,1,H,BUN1,BUN6,0,BUN1,SC Freiburg,0.0,Munich
+D1,2020-06-20,14:30,Hertha,Leverkusen,2,0,H,BUN7,BUN9,0,BUN7,Bayer 04 Leverkusen,0.0,Berlin
+D1,2020-06-20,14:30,Fortuna Dusseldorf,Augsburg,1,1,D,BUN5,BUN0,0,BUN5,FC Augsburg,0.0,Dusseldorf
+D1,2020-06-20,14:30,FC Koln,Ein Frankfurt,1,1,D,BUN4,BUN3,0,BUN4,Eintracht Frankfurt,0.0,Cologne
+D1,2020-06-27,14:30,Union Berlin,Fortuna Dusseldorf,3,0,H,BUN15,BUN5,0,BUN15,Fortuna Düsseldorf,0.0,Berlin
+D1,2020-06-27,14:30,Augsburg,RB Leipzig,1,2,A,BUN0,BUN13,0,BUN0,RB Leipzig,0.0,Augsburg
+D1,2020-06-27,14:30,Dortmund,Hoffenheim,0,4,A,BUN2,BUN8,0,BUN2,1899 Hoffenheim,0.0,Dortmund
+D1,2020-06-27,14:30,Freiburg,Schalke 04,4,0,H,BUN6,BUN14,0,BUN6,FC Schalke 04,0.0,Freiburg
+D1,2020-06-27,14:30,Werder Bremen,FC Koln,6,1,H,BUN16,BUN4,0,BUN16,1. FC Köln,0.0,Bremen
+D1,2020-06-27,14:30,Leverkusen,Mainz,1,0,H,BUN9,BUN10,0,BUN9,Mainz 05,0.0,Leverkusen
+D1,2020-06-27,14:30,M'gladbach,Hertha,2,1,H,BUN11,BUN7,0,BUN11,Hertha Berlin,0.0,Monchengladbach
+D1,2020-06-27,14:30,Ein Frankfurt,Paderborn,3,2,H,BUN3,BUN12,0,BUN3,SC Paderborn 07,0.0,Frankfurt
+D1,2020-06-27,14:30,Wolfsburg,Bayern Munich,0,4,A,BUN17,BUN1,0,BUN17,Bayern Munich,0.0,Wolfsburg
+SP1,2019-08-16,20:00,Ath Bilbao,Barcelona,1,0,H,LIG1,LIG3,0,LIG1,Barcelona,47693.0,Bilbao
+SP1,2019-08-17,19:00,Mallorca,Eibar,2,1,H,LIG12,LIG6,0,LIG12,Eibar,15127.0,Palma
+SP1,2019-08-17,20:00,Leganes,Osasuna,0,1,A,LIG10,LIG13,0,LIG10,Osasuna,10020.0,Leganes
+SP1,2019-08-17,18:00,Valencia,Sociedad,1,1,D,LIG17,LIG16,0,LIG17,Real Sociedad,41846.0,Valencia
+SP1,2019-08-17,20:00,Villarreal,Granada,4,4,D,LIG19,LIG9,0,LIG19,Granada,14753.0,Villarreal
+SP1,2019-08-17,16:00,Celta,Real Madrid,1,3,A,LIG5,LIG14,0,LIG5,Real Madrid,23566.0,Vigo
+SP1,2019-08-18,21:00,Ath Madrid,Getafe,1,0,H,LIG2,LIG8,0,LIG2,Getafe,55099.0,Madrid
+SP1,2019-08-18,20:00,Betis,Valladolid,1,2,A,LIG4,LIG18,0,LIG4,Real Valladolid,51497.0,Seville
+SP1,2019-08-18,16:00,Alaves,Levante,1,0,H,LIG0,LIG11,0,LIG0,Levante,12029.0,Vitoria-Gasteiz
+SP1,2019-08-18,18:00,Espanol,Sevilla,0,2,A,LIG7,LIG15,0,LIG7,Sevilla,19832.0,Barcelona
+SP1,2019-08-23,19:00,Granada,Sevilla,0,1,A,LIG9,LIG15,0,LIG9,Sevilla,15849.0,Granada
+SP1,2019-08-23,21:00,Levante,Villarreal,2,1,H,LIG11,LIG19,0,LIG11,Villarreal,20240.0,Valencia
+SP1,2019-08-24,20:00,Celta,Valencia,1,0,H,LIG5,LIG17,0,LIG5,Valencia,20034.0,Vigo
+SP1,2019-08-24,16:00,Osasuna,Eibar,0,0,D,LIG13,LIG6,0,LIG13,Eibar,13978.0,Pamplona
+SP1,2019-08-24,18:00,Real Madrid,Valladolid,1,1,D,LIG14,LIG18,0,LIG14,Real Valladolid,63037.0,Madrid
+SP1,2019-08-24,20:00,Getafe,Ath Bilbao,1,1,D,LIG8,LIG1,0,LIG8,Athletic Bilbao,10103.0,Getafe
+SP1,2019-08-25,16:00,Mallorca,Sociedad,0,1,A,LIG12,LIG16,0,LIG12,Real Sociedad,18028.0,Palma
+SP1,2019-08-25,16:00,Alaves,Espanol,0,0,D,LIG0,LIG7,0,LIG0,Espanyol,14567.0,Vitoria-Gasteiz
+SP1,2019-08-25,20:00,Barcelona,Betis,5,2,H,LIG3,LIG4,0,LIG3,Real Betis,79159.0,Barcelona
+SP1,2019-08-25,18:00,Leganes,Ath Madrid,0,1,A,LIG10,LIG2,0,LIG10,Atlético Madrid,11742.0,Leganes
+SP1,2019-08-30,19:00,Sevilla,Celta,1,1,D,LIG15,LIG5,0,LIG15,Celta Vigo,37787.0,Seville
+SP1,2019-08-30,21:00,Ath Bilbao,Sociedad,2,0,H,LIG1,LIG16,0,LIG1,Real Sociedad,46697.0,Bilbao
+SP1,2019-08-31,16:00,Osasuna,Barcelona,2,2,D,LIG13,LIG3,0,LIG13,Barcelona,16742.0,Pamplona
+SP1,2019-08-31,20:00,Betis,Leganes,2,1,H,LIG4,LIG10,0,LIG4,LeganÃ©s,47819.0,Seville
+SP1,2019-08-31,18:00,Getafe,Alaves,1,1,D,LIG8,LIG0,0,LIG8,Alavés,10806.0,Getafe
+SP1,2019-08-31,18:00,Levante,Valladolid,2,0,H,LIG11,LIG18,0,LIG11,Real Valladolid,19347.0,Valencia
+SP1,2019-09-01,20:00,Villarreal,Real Madrid,2,2,D,LIG19,LIG14,0,LIG19,Real Madrid,20128.0,Villarreal
+SP1,2019-09-01,18:00,Ath Madrid,Eibar,3,2,H,LIG2,LIG6,0,LIG2,Eibar,56664.0,Madrid
+SP1,2019-09-01,16:00,Valencia,Mallorca,2,0,H,LIG17,LIG12,0,LIG17,Mallorca,40441.0,Valencia
+SP1,2019-09-01,18:00,Espanol,Granada,0,3,A,LIG7,LIG9,0,LIG7,Granada,20870.0,Barcelona
+SP1,2019-09-13,20:00,Mallorca,Ath Bilbao,0,0,D,LIG12,LIG1,0,LIG12,Athletic Bilbao,16390.0,Palma
+SP1,2019-09-14,15:00,Leganes,Villarreal,0,3,A,LIG10,LIG19,0,LIG10,Villarreal,7670.0,Leganes
+SP1,2019-09-14,17:30,Sociedad,Ath Madrid,2,0,H,LIG16,LIG2,0,LIG16,AtlÃ©tico Madrid,34719.0,San Sebastian
+SP1,2019-09-14,20:00,Barcelona,Valencia,5,2,H,LIG3,LIG17,0,LIG3,Valencia,81617.0,Barcelona
+SP1,2019-09-14,12:00,Real Madrid,Levante,3,2,H,LIG14,LIG11,0,LIG14,Levante,60401.0,Madrid
+SP1,2019-09-15,15:00,Celta,Granada,0,2,A,LIG5,LIG9,0,LIG5,Granada,18259.0,Vigo
+SP1,2019-09-15,20:00,Betis,Getafe,1,1,D,LIG4,LIG8,0,LIG4,Getafe,47884.0,Getafe
+SP1,2019-09-15,17:30,Valladolid,Osasuna,1,1,D,LIG18,LIG13,0,LIG18,Osasuna,20670.0,Valladolid
+SP1,2019-09-15,11:00,Eibar,Espanol,1,2,A,LIG6,LIG7,0,LIG6,Espanyol,5410.0,Eibar
+SP1,2019-09-15,13:00,Alaves,Sevilla,0,1,A,LIG0,LIG15,0,LIG0,Sevilla,16309.0,Vitoria-Gasteiz
+SP1,2019-09-20,20:00,Osasuna,Betis,0,0,D,LIG13,LIG4,0,LIG13,Real Betis,15569.0,Pamplona
+SP1,2019-09-21,17:30,Ath Madrid,Celta,0,0,D,LIG2,LIG5,0,LIG2,Celta Vigo,57701.0,Madrid
+SP1,2019-09-21,12:00,Villarreal,Valladolid,2,0,H,LIG19,LIG18,0,LIG19,Real Valladolid,16195.0,Villarreal
+SP1,2019-09-21,20:00,Granada,Barcelona,2,0,H,LIG9,LIG3,0,LIG9,Barcelona,18880.0,Granada
+SP1,2019-09-21,15:00,Levante,Eibar,0,0,D,LIG11,LIG6,0,LIG11,Eibar,18904.0,Valencia
+SP1,2019-09-22,15:00,Valencia,Leganes,1,1,D,LIG17,LIG10,0,LIG17,Leganés,39014.0,Valencia
+SP1,2019-09-22,20:00,Sevilla,Real Madrid,0,1,A,LIG15,LIG14,0,LIG15,Real Madrid,42354.0,Seville
+SP1,2019-09-22,13:00,Espanol,Sociedad,1,3,A,LIG7,LIG16,0,LIG7,Real Sociedad,19173.0,Barcelona
+SP1,2019-09-22,11:00,Getafe,Mallorca,4,2,H,LIG8,LIG12,0,LIG8,Mallorca,11338.0,Getafe
+SP1,2019-09-22,17:30,Ath Bilbao,Alaves,2,0,H,LIG1,LIG0,0,LIG1,AlavÃ©s,45143.0,Bilbao
+SP1,2019-09-24,18:00,Valladolid,Granada,1,1,D,LIG18,LIG9,0,LIG18,Granada,18410.0,Valladolid
+SP1,2019-09-24,20:00,Barcelona,Villarreal,2,1,H,LIG3,LIG19,0,LIG3,Villarreal,70316.0,Barcelona
+SP1,2019-09-24,19:00,Betis,Levante,3,1,H,LIG4,LIG11,0,LIG4,Levante,44560.0,Seville
+SP1,2019-09-25,18:00,Leganes,Ath Bilbao,1,1,D,LIG10,LIG1,0,LIG10,Athletic Bilbao,11036.0,Leganes
+SP1,2019-09-25,19:00,Valencia,Getafe,3,3,D,LIG17,LIG8,0,LIG17,Getafe,37814.0,Valencia
+SP1,2019-09-25,20:00,Real Madrid,Osasuna,2,0,H,LIG14,LIG13,0,LIG14,Osasuna,57520.0,Madrid
+SP1,2019-09-25,18:00,Mallorca,Ath Madrid,0,2,A,LIG12,LIG2,0,LIG12,Atlético Madrid,19348.0,Palma
+SP1,2019-09-26,18:00,Eibar,Sevilla,3,2,H,LIG6,LIG15,0,LIG6,Sevilla,5434.0,Eibar
+SP1,2019-09-26,19:00,Celta,Espanol,1,1,D,LIG5,LIG7,0,LIG5,Espanyol,16361.0,Vigo
+SP1,2019-09-26,20:00,Sociedad,Alaves,3,0,H,LIG16,LIG0,0,LIG16,AlavÃ©s,28720.0,San Sebastian
+SP1,2019-09-27,20:00,Villarreal,Betis,5,1,H,LIG19,LIG4,0,LIG19,Real Betis,18135.0,Villarreal
+SP1,2019-09-28,20:00,Ath Madrid,Real Madrid,0,0,D,LIG2,LIG14,0,LIG2,Real Madrid,68032.0,Madrid
+SP1,2019-09-28,15:00,Getafe,Barcelona,0,2,A,LIG8,LIG3,0,LIG8,Barcelona,15135.0,Getafe
+SP1,2019-09-28,17:30,Granada,Leganes,1,0,H,LIG9,LIG10,0,LIG9,Leganés,15519.0,Granada
+SP1,2019-09-28,12:00,Ath Bilbao,Valencia,0,1,A,LIG1,LIG17,0,LIG1,Valencia,42420.0,Bilbao
+SP1,2019-09-29,11:00,Espanol,Valladolid,0,2,A,LIG7,LIG18,0,LIG7,Real Valladolid,20911.0,Barcelona
+SP1,2019-09-29,15:00,Alaves,Mallorca,2,0,H,LIG0,LIG12,0,LIG0,Mallorca,17135.0,Vitoria-Gasteiz
+SP1,2019-09-29,13:00,Eibar,Celta,2,0,H,LIG6,LIG5,0,LIG6,Celta Vigo,5453.0,Eibar
+SP1,2019-09-29,20:00,Sevilla,Sociedad,3,2,H,LIG15,LIG16,0,LIG15,Real Sociedad,37414.0,Seville
+SP1,2019-09-29,17:30,Levante,Osasuna,1,1,D,LIG11,LIG13,0,LIG11,Osasuna,19362.0,Valencia
+SP1,2019-10-04,20:00,Betis,Eibar,1,1,D,LIG4,LIG6,0,LIG4,Eibar,47056.0,Seville
+SP1,2019-10-05,12:00,Leganes,Levante,1,2,A,LIG10,LIG11,0,LIG10,Levante,10160.0,Leganes
+SP1,2019-10-05,17:30,Valencia,Alaves,2,1,H,LIG17,LIG0,0,LIG17,Alavés,38943.0,Valencia
+SP1,2019-10-05,15:00,Real Madrid,Granada,4,2,H,LIG14,LIG9,0,LIG14,Granada,70315.0,Madrid
+SP1,2019-10-05,20:00,Osasuna,Villarreal,2,1,H,LIG13,LIG19,0,LIG13,Villarreal,15349.0,Pamplona
+SP1,2019-10-06,17:30,Sociedad,Getafe,1,2,A,LIG16,LIG8,0,LIG16,Getafe,30153.0,San Sebastian
+SP1,2019-10-06,15:00,Valladolid,Ath Madrid,0,0,D,LIG18,LIG2,0,LIG18,AtlÃ©tico Madrid,23650.0,Valladolid
+SP1,2019-10-06,11:00,Mallorca,Espanol,2,0,H,LIG12,LIG7,0,LIG12,Espanyol,15052.0,Palma
+SP1,2019-10-06,20:00,Barcelona,Sevilla,4,0,H,LIG3,LIG15,0,LIG3,Sevilla,81331.0,Barcelona
+SP1,2019-10-06,13:00,Celta,Ath Bilbao,1,0,H,LIG5,LIG1,0,LIG5,Athletic Bilbao,19690.0,Vigo
+SP1,2019-10-18,20:00,Granada,Osasuna,1,0,H,LIG9,LIG13,0,LIG9,Osasuna,16986.0,Granada
+SP1,2019-10-19,12:00,Eibar,Barcelona,0,3,A,LIG6,LIG3,0,LIG6,Barcelona,7295.0,Eibar
+SP1,2019-10-19,20:00,Mallorca,Real Madrid,1,0,H,LIG12,LIG14,0,LIG12,Real Madrid,20275.0,Palma
+SP1,2019-10-19,17:30,Getafe,Leganes,2,0,H,LIG8,LIG10,0,LIG8,Leganés,13018.0,Getafe
+SP1,2019-10-19,15:00,Ath Madrid,Valencia,1,1,D,LIG2,LIG17,0,LIG2,Valencia,61603.0,Madrid
+SP1,2019-10-20,15:00,Espanol,Villarreal,0,1,A,LIG7,LIG19,0,LIG7,Villarreal,20653.0,Barcelona
+SP1,2019-10-20,20:00,Sevilla,Levante,1,0,H,LIG15,LIG11,0,LIG15,Levante,34612.0,Seville
+SP1,2019-10-20,17:30,Ath Bilbao,Valladolid,1,1,D,LIG1,LIG18,0,LIG1,Real Valladolid,37107.0,Bilbao
+SP1,2019-10-20,13:00,Sociedad,Betis,3,1,H,LIG16,LIG4,0,LIG16,Real Betis,28032.0,San Sebastian
+SP1,2019-10-20,11:00,Alaves,Celta,2,0,H,LIG0,LIG5,0,LIG0,Celta Vigo,16584.0,Vitoria-Gasteiz
+SP1,2019-10-25,20:00,Villarreal,Alaves,4,1,H,LIG19,LIG0,0,LIG19,Alavés,16049.0,Villarreal
+SP1,2019-10-26,20:00,Ath Madrid,Ath Bilbao,2,0,H,LIG2,LIG1,0,LIG2,Athletic Bilbao,59211.0,Madrid
+SP1,2019-10-26,17:30,Valladolid,Eibar,2,0,H,LIG18,LIG6,0,LIG18,Eibar,20036.0,Valladolid
+SP1,2019-10-26,15:00,Leganes,Mallorca,1,0,H,LIG10,LIG12,0,LIG10,Mallorca,10058.0,Leganes
+SP1,2019-10-27,11:00,Celta,Sociedad,0,1,A,LIG5,LIG16,0,LIG5,Real Sociedad,18002.0,Vigo
+SP1,2019-10-27,20:00,Osasuna,Valencia,3,1,H,LIG13,LIG17,0,LIG13,Valencia,14976.0,Pamplona
+SP1,2019-10-27,15:00,Levante,Espanol,0,1,A,LIG11,LIG7,0,LIG11,Espanyol,18934.0,Valencia
+SP1,2019-10-27,17:30,Sevilla,Getafe,2,0,H,LIG15,LIG8,0,LIG15,Getafe,38181.0,Seville
+SP1,2019-10-27,13:00,Granada,Betis,1,0,H,LIG9,LIG4,0,LIG9,Real Betis,18985.0,Granada
+SP1,2019-10-29,20:15,Barcelona,Valladolid,5,1,H,LIG3,LIG18,0,LIG3,Real Valladolid,59896.0,Barcelona
+SP1,2019-10-29,18:00,Alaves,Ath Madrid,1,1,D,LIG0,LIG2,0,LIG0,Atlético Madrid,17235.0,Vitoria-Gasteiz
+SP1,2019-10-31,18:00,Mallorca,Osasuna,2,2,D,LIG12,LIG13,0,LIG12,Osasuna,12641.0,Palma
+SP1,2019-10-31,18:00,Eibar,Villarreal,2,1,H,LIG6,LIG19,0,LIG6,Villarreal,5583.0,Eibar
+SP1,2019-10-31,20:15,Getafe,Granada,3,1,H,LIG8,LIG9,0,LIG8,Granada,10227.0,Getafe
+SP1,2019-11-02,12:00,Espanol,Valencia,1,2,A,LIG7,LIG17,0,LIG7,Valencia,18428.0,Barcelona
+SP1,2019-11-02,20:00,Real Madrid,Betis,0,0,D,LIG14,LIG4,0,LIG14,Real Betis,70375.0,Madrid
+SP1,2019-11-02,17:30,Sevilla,Ath Madrid,1,1,D,LIG15,LIG2,0,LIG15,Atlético Madrid,39957.0,Seville
+SP1,2019-11-02,15:00,Levante,Barcelona,3,1,H,LIG11,LIG3,0,LIG11,Barcelona,23341.0,Valencia
+SP1,2019-11-03,17:30,Leganes,Eibar,1,2,A,LIG10,LIG6,0,LIG10,Eibar,9649.0,Leganes
+SP1,2019-11-03,15:00,Osasuna,Alaves,4,2,H,LIG13,LIG0,0,LIG13,Alavés,15954.0,Pamplona
+SP1,2019-11-03,11:00,Valladolid,Mallorca,3,0,H,LIG18,LIG12,0,LIG18,Mallorca,18419.0,Valladolid
+SP1,2019-11-03,17:30,Celta,Getafe,0,1,A,LIG5,LIG8,0,LIG5,Getafe,14704.0,Vigo
+SP1,2019-11-03,13:00,Villarreal,Ath Bilbao,0,0,D,LIG19,LIG1,0,LIG19,Athletic Bilbao,17460.0,Villarreal
+SP1,2019-11-03,20:00,Granada,Sociedad,1,2,A,LIG9,LIG16,0,LIG9,Real Sociedad,16898.0,Granada
+SP1,2019-11-08,20:00,Sociedad,Leganes,1,1,D,LIG16,LIG10,0,LIG16,LeganÃ©s,27684.0,San Sebastian
+SP1,2019-11-09,12:00,Alaves,Valladolid,3,0,H,LIG0,LIG18,0,LIG0,Real Valladolid,16148.0,Vitoria-Gasteiz
+SP1,2019-11-09,17:30,Eibar,Real Madrid,0,4,A,LIG6,LIG14,0,LIG6,Real Madrid,7045.0,Eibar
+SP1,2019-11-09,20:00,Barcelona,Celta,4,1,H,LIG3,LIG5,0,LIG3,Celta Vigo,71209.0,Barcelona
+SP1,2019-11-09,15:00,Valencia,Granada,2,0,H,LIG17,LIG9,0,LIG17,Granada,39882.0,Valencia
+SP1,2019-11-10,15:00,Ath Madrid,Espanol,3,1,H,LIG2,LIG7,0,LIG2,Espanyol,53069.0,Madrid
+SP1,2019-11-10,20:00,Betis,Sevilla,1,2,A,LIG4,LIG15,0,LIG4,Sevilla,52123.0,Seville
+SP1,2019-11-10,17:30,Getafe,Osasuna,0,0,D,LIG8,LIG13,0,LIG8,Osasuna,10558.0,Getafe
+SP1,2019-11-10,11:00,Mallorca,Villarreal,3,1,H,LIG12,LIG19,0,LIG12,Villarreal,8348.0,Palma
+SP1,2019-11-10,13:00,Ath Bilbao,Levante,2,1,H,LIG1,LIG11,0,LIG1,Levante,33202.0,Bilbao
+SP1,2019-11-22,20:00,Levante,Mallorca,2,1,H,LIG11,LIG12,0,LIG11,Mallorca,15110.0,Valencia
+SP1,2019-11-23,12:00,Leganes,Barcelona,1,2,A,LIG10,LIG3,0,LIG10,Barcelona,12110.0,Leganes
+SP1,2019-11-23,20:00,Real Madrid,Sociedad,3,1,H,LIG14,LIG16,0,LIG14,Real Sociedad,69305.0,Madrid
+SP1,2019-11-23,15:00,Betis,Valencia,2,1,H,LIG4,LIG17,0,LIG4,Valencia,46545.0,Seville
+SP1,2019-11-23,17:30,Granada,Ath Madrid,1,1,D,LIG9,LIG2,0,LIG9,Atlético Madrid,17003.0,Granada
+SP1,2019-11-24,15:00,Eibar,Alaves,0,2,A,LIG6,LIG0,0,LIG6,Alavés,6315.0,Eibar
+SP1,2019-11-24,17:30,Villarreal,Celta,1,3,A,LIG19,LIG5,0,LIG19,Celta Vigo,17352.0,Villarreal
+SP1,2019-11-24,20:00,Valladolid,Sevilla,0,1,A,LIG18,LIG15,0,LIG18,Sevilla,18169.0,Valladolid
+SP1,2019-11-24,11:00,Espanol,Getafe,1,1,D,LIG7,LIG8,0,LIG7,Getafe,22031.0,Barcelona
+SP1,2019-11-24,13:00,Osasuna,Ath Bilbao,1,2,A,LIG13,LIG1,0,LIG13,Athletic Bilbao,16145.0,Pamplona
+SP1,2019-11-29,20:00,Celta,Valladolid,0,0,D,LIG5,LIG18,0,LIG5,Real Valladolid,16918.0,Vigo
+SP1,2019-11-30,12:00,Alaves,Real Madrid,1,2,A,LIG0,LIG14,0,LIG0,Real Madrid,19357.0,Vitoria-Gasteiz
+SP1,2019-11-30,17:30,Mallorca,Betis,1,2,A,LIG12,LIG4,0,LIG12,Real Betis,16810.0,Palma
+SP1,2019-11-30,20:00,Valencia,Villarreal,2,1,H,LIG17,LIG19,0,LIG17,Villarreal,38521.0,Valencia
+SP1,2019-11-30,15:00,Sociedad,Eibar,4,1,H,LIG16,LIG6,0,LIG16,Eibar,28612.0,San Sebastian
+SP1,2019-12-01,17:30,Getafe,Levante,4,0,H,LIG8,LIG11,0,LIG8,Levante,6535.0,Getafe
+SP1,2019-12-01,15:00,Espanol,Osasuna,2,4,A,LIG7,LIG13,0,LIG7,Osasuna,21238.0,Barcelona
+SP1,2019-12-01,13:00,Ath Bilbao,Granada,2,0,H,LIG1,LIG9,0,LIG1,Granada,37974.0,Bilbao
+SP1,2019-12-01,20:00,Ath Madrid,Barcelona,0,1,A,LIG2,LIG3,0,LIG2,Barcelona,64226.0,Madrid
+SP1,2019-12-01,11:00,Sevilla,Leganes,1,0,H,LIG15,LIG10,0,LIG15,Leganés,33648.0,Seville
+SP1,2019-12-06,20:00,Villarreal,Ath Madrid,0,0,D,LIG19,LIG2,0,LIG19,Atlético Madrid,17964.0,Villarreal
+SP1,2019-12-07,17:30,Levante,Valencia,2,4,A,LIG11,LIG17,0,LIG11,Valencia,23137.0,Valencia
+SP1,2019-12-07,12:00,Real Madrid,Espanol,2,0,H,LIG14,LIG7,0,LIG14,Espanyol,64125.0,Madrid
+SP1,2019-12-07,20:00,Barcelona,Mallorca,5,2,H,LIG3,LIG12,0,LIG3,Mallorca,71072.0,Barcelona
+SP1,2019-12-07,15:00,Granada,Alaves,3,0,H,LIG9,LIG0,0,LIG9,Alavés,14773.0,Granada
+SP1,2019-12-08,17:30,Leganes,Celta,3,2,H,LIG10,LIG5,0,LIG10,Celta Vigo,7115.0,Leganes
+SP1,2019-12-08,20:00,Osasuna,Sevilla,1,1,D,LIG13,LIG15,0,LIG13,Sevilla,15045.0,Pamplona
+SP1,2019-12-08,13:00,Betis,Ath Bilbao,3,2,H,LIG4,LIG1,0,LIG4,Athletic Bilbao,46106.0,Seville
+SP1,2019-12-08,15:00,Valladolid,Sociedad,0,0,D,LIG18,LIG16,0,LIG18,Real Sociedad,18654.0,Valladolid
+SP1,2019-12-08,11:00,Eibar,Getafe,0,1,A,LIG6,LIG8,0,LIG6,Getafe,5969.0,Eibar
+SP1,2019-12-13,20:00,Alaves,Leganes,1,1,D,LIG0,LIG10,0,LIG0,Leganés,15567.0,Vitoria-Gasteiz
+SP1,2019-12-14,17:30,Ath Bilbao,Eibar,0,0,D,LIG1,LIG6,0,LIG1,Eibar,43203.0,Bilbao
+SP1,2019-12-14,20:00,Ath Madrid,Osasuna,2,0,H,LIG2,LIG13,0,LIG2,Osasuna,46033.0,Madrid
+SP1,2019-12-14,12:00,Granada,Levante,1,2,A,LIG9,LIG11,0,LIG9,Levante,14127.0,Granada
+SP1,2019-12-14,15:00,Sociedad,Barcelona,2,2,D,LIG16,LIG3,0,LIG16,Barcelona,36639.0,San Sebastian
+SP1,2019-12-15,13:00,Celta,Mallorca,2,2,D,LIG5,LIG12,0,LIG5,Mallorca,13247.0,Vigo
+SP1,2019-12-15,11:00,Getafe,Valladolid,2,0,H,LIG8,LIG18,0,LIG8,Real Valladolid,10816.0,Getafe
+SP1,2019-12-15,15:00,Espanol,Betis,2,2,D,LIG7,LIG4,0,LIG7,Real Betis,22248.0,Barcelona
+SP1,2019-12-15,20:00,Valencia,Real Madrid,1,1,D,LIG17,LIG14,0,LIG17,Real Madrid,44230.0,Valencia
+SP1,2019-12-15,17:30,Sevilla,Villarreal,1,2,A,LIG15,LIG19,0,LIG15,Villarreal,36521.0,Seville
+SP1,2019-12-18,19:00,Barcelona,Real Madrid,0,0,D,LIG3,LIG14,0,LIG3,Real Madrid,93426.0,Barcelona
+SP1,2019-12-20,20:00,Eibar,Granada,3,0,H,LIG6,LIG9,0,LIG6,Granada,5341.0,Eibar
+SP1,2019-12-21,15:00,Barcelona,Alaves,4,1,H,LIG3,LIG0,0,LIG3,Alavés,63054.0,Barcelona
+SP1,2019-12-21,20:00,Valladolid,Valencia,1,1,D,LIG18,LIG17,0,LIG18,Valencia,16295.0,Valladolid
+SP1,2019-12-21,17:30,Villarreal,Getafe,1,0,H,LIG19,LIG8,0,LIG19,Getafe,14526.0,Villarreal
+SP1,2019-12-21,12:00,Mallorca,Sevilla,0,2,A,LIG12,LIG15,0,LIG12,Sevilla,14321.0,Palma
+SP1,2019-12-22,17:30,Levante,Celta,3,1,H,LIG11,LIG5,0,LIG11,Celta Vigo,18653.0,Valencia
+SP1,2019-12-22,11:00,Leganes,Espanol,2,0,H,LIG10,LIG7,0,LIG10,Espanyol,10183.0,Leganes
+SP1,2019-12-22,20:00,Real Madrid,Ath Bilbao,0,0,D,LIG14,LIG1,0,LIG14,Athletic Bilbao,71306.0,Madrid
+SP1,2019-12-22,13:00,Osasuna,Sociedad,3,4,A,LIG13,LIG16,0,LIG13,Real Sociedad,16197.0,Pamplona
+SP1,2019-12-22,15:00,Betis,Ath Madrid,1,2,A,LIG4,LIG2,0,LIG4,AtlÃ©tico Madrid,52017.0,Seville
+SP1,2020-01-03,18:00,Valladolid,Leganes,2,2,D,LIG18,LIG10,0,LIG18,LeganÃ©s,21492.0,Valladolid
+SP1,2020-01-03,20:00,Sevilla,Ath Bilbao,1,1,D,LIG15,LIG1,0,LIG15,Athletic Bilbao,37972.0,Seville
+SP1,2020-01-04,12:00,Valencia,Eibar,1,0,H,LIG17,LIG6,0,LIG17,Eibar,39702.0,Valencia
+SP1,2020-01-04,20:00,Espanol,Barcelona,2,2,D,LIG7,LIG3,0,LIG7,Barcelona,33562.0,Barcelona
+SP1,2020-01-04,15:00,Getafe,Real Madrid,0,3,A,LIG8,LIG14,0,LIG8,Real Madrid,15426.0,Getafe
+SP1,2020-01-04,17:30,Ath Madrid,Levante,2,1,H,LIG2,LIG11,0,LIG2,Levante,59084.0,Madrid
+SP1,2020-01-05,15:00,Alaves,Betis,1,1,D,LIG0,LIG4,0,LIG0,Real Betis,17689.0,Vitoria-Gasteiz
+SP1,2020-01-05,11:00,Granada,Mallorca,1,0,H,LIG9,LIG12,0,LIG9,Mallorca,16395.0,Granada
+SP1,2020-01-05,13:00,Sociedad,Villarreal,1,2,A,LIG16,LIG19,0,LIG16,Villarreal,31538.0,San Sebastian
+SP1,2020-01-05,20:00,Celta,Osasuna,1,1,D,LIG5,LIG13,0,LIG5,Osasuna,11932.0,Vigo
+SP1,2020-01-17,20:00,Leganes,Getafe,0,3,A,LIG10,LIG8,0,LIG10,Getafe,11450.0,Leganes
+SP1,2020-01-18,12:00,Levante,Alaves,0,1,A,LIG11,LIG0,0,LIG11,Alavés,16848.0,Valencia
+SP1,2020-01-18,20:00,Eibar,Ath Madrid,2,0,H,LIG6,LIG2,0,LIG6,Atlético Madrid,6429.0,Eibar
+SP1,2020-01-18,15:00,Real Madrid,Sevilla,2,1,H,LIG14,LIG15,0,LIG14,Sevilla,72512.0,Madrid
+SP1,2020-01-18,17:30,Osasuna,Valladolid,0,0,D,LIG13,LIG18,0,LIG13,Real Valladolid,15382.0,Pamplona
+SP1,2020-01-19,20:00,Barcelona,Granada,1,0,H,LIG3,LIG9,0,LIG3,Granada,65444.0,Barcelona
+SP1,2020-01-19,13:00,Betis,Sociedad,3,0,H,LIG4,LIG16,0,LIG4,Real Sociedad,51171.0,Seville
+SP1,2020-01-19,11:00,Mallorca,Valencia,4,1,H,LIG12,LIG17,0,LIG12,Valencia,9856.0,Palma
+SP1,2020-01-19,17:30,Ath Bilbao,Celta,1,1,D,LIG1,LIG5,0,LIG1,Celta Vigo,41348.0,Bilbao
+SP1,2020-01-19,15:00,Villarreal,Espanol,1,2,A,LIG19,LIG7,0,LIG19,Espanyol,12053.0,Villarreal
+SP1,2020-01-24,20:00,Osasuna,Levante,2,0,H,LIG13,LIG11,0,LIG13,Levante,14667.0,Pamplona
+SP1,2020-01-25,12:00,Espanol,Ath Bilbao,1,1,D,LIG7,LIG1,0,LIG7,Athletic Bilbao,27542.0,Barcelona
+SP1,2020-01-25,17:30,Alaves,Villarreal,1,2,A,LIG0,LIG19,0,LIG0,Villarreal,18153.0,Vitoria-Gasteiz
+SP1,2020-01-25,15:00,Valencia,Barcelona,2,0,H,LIG17,LIG3,0,LIG17,Barcelona,45882.0,Valencia
+SP1,2020-01-25,20:00,Sevilla,Granada,2,0,H,LIG15,LIG9,0,LIG15,Granada,33533.0,Seville
+SP1,2020-01-26,13:00,Celta,Eibar,0,0,D,LIG5,LIG6,0,LIG5,Eibar,15490.0,Vigo
+SP1,2020-01-26,15:00,Getafe,Betis,1,0,H,LIG8,LIG4,0,LIG8,Real Betis,13244.0,Getafe
+SP1,2020-01-26,17:30,Sociedad,Mallorca,3,0,H,LIG16,LIG12,0,LIG16,Mallorca,29912.0,San Sebastian
+SP1,2020-01-26,11:00,Ath Madrid,Leganes,0,0,D,LIG2,LIG10,0,LIG2,LeganÃ©s,52767.0,Madrid
+SP1,2020-01-26,20:00,Valladolid,Real Madrid,0,1,A,LIG18,LIG14,0,LIG18,Real Madrid,23404.0,Valladolid
+SP1,2020-02-01,17:30,Mallorca,Valladolid,0,1,A,LIG12,LIG18,0,LIG12,Real Valladolid,13891.0,Palma
+SP1,2020-02-01,20:00,Valencia,Celta,1,0,H,LIG17,LIG5,0,LIG17,Celta Vigo,39637.0,Valencia
+SP1,2020-02-01,15:00,Real Madrid,Ath Madrid,1,0,H,LIG14,LIG2,0,LIG14,Atlético Madrid,77223.0,Madrid
+SP1,2020-02-01,12:00,Granada,Espanol,2,1,H,LIG9,LIG7,0,LIG9,Espanyol,15226.0,Granada
+SP1,2020-02-02,15:00,Ath Bilbao,Getafe,0,2,A,LIG1,LIG8,0,LIG1,Getafe,40291.0,Bilbao
+SP1,2020-02-02,13:00,Eibar,Betis,1,1,D,LIG6,LIG4,0,LIG6,Real Betis,6558.0,Eibar
+SP1,2020-02-02,17:30,Villarreal,Osasuna,3,1,H,LIG19,LIG13,0,LIG19,Osasuna,17081.0,Villarreal
+SP1,2020-02-02,20:00,Barcelona,Levante,2,1,H,LIG3,LIG11,0,LIG3,Levante,60295.0,Barcelona
+SP1,2020-02-02,11:00,Leganes,Sociedad,2,1,H,LIG10,LIG16,0,LIG10,Real Sociedad,10842.0,Leganes
+SP1,2020-02-02,17:30,Sevilla,Alaves,1,1,D,LIG15,LIG0,0,LIG15,Alavés,36286.0,Seville
+SP1,2020-02-07,20:00,Alaves,Eibar,2,1,H,LIG0,LIG6,0,LIG0,Eibar,17089.0,Vitoria-Gasteiz
+SP1,2020-02-08,17:30,Valladolid,Villarreal,1,1,D,LIG18,LIG19,0,LIG18,Villarreal,17547.0,Valladolid
+SP1,2020-02-08,20:00,Ath Madrid,Granada,1,0,H,LIG2,LIG9,0,LIG2,Granada,54113.0,Madrid
+SP1,2020-02-08,12:00,Levante,Leganes,2,0,H,LIG11,LIG10,0,LIG11,Leganés,17110.0,Valencia
+SP1,2020-02-08,15:00,Getafe,Valencia,3,0,H,LIG8,LIG17,0,LIG8,Valencia,13070.0,Getafe
+SP1,2020-02-09,13:00,Sociedad,Ath Bilbao,2,1,H,LIG16,LIG1,0,LIG16,Athletic Bilbao,36730.0,San Sebastian
+SP1,2020-02-09,20:00,Betis,Barcelona,2,3,A,LIG4,LIG3,0,LIG4,Barcelona,54526.0,Seville
+SP1,2020-02-09,17:30,Celta,Sevilla,2,1,H,LIG5,LIG15,0,LIG5,Sevilla,20375.0,Vigo
+SP1,2020-02-09,11:00,Espanol,Mallorca,1,0,H,LIG7,LIG12,0,LIG7,Mallorca,32084.0,Barcelona
+SP1,2020-02-09,15:00,Osasuna,Real Madrid,1,4,A,LIG13,LIG14,0,LIG13,Real Madrid,17000.0,Pamplona
+SP1,2020-02-14,20:00,Valencia,Ath Madrid,2,2,D,LIG17,LIG2,0,LIG17,Atlético Madrid,42297.0,Valencia
+SP1,2020-02-15,20:00,Granada,Valladolid,2,1,H,LIG9,LIG18,0,LIG9,Real Valladolid,15782.0,Granada
+SP1,2020-02-15,12:00,Mallorca,Alaves,1,0,H,LIG12,LIG0,0,LIG12,Alavés,12329.0,Palma
+SP1,2020-02-15,15:00,Barcelona,Getafe,2,1,H,LIG3,LIG8,0,LIG3,Getafe,89409.0,Barcelona
+SP1,2020-02-15,17:30,Villarreal,Levante,2,1,H,LIG19,LIG11,0,LIG19,Levante,17269.0,Villarreal
+SP1,2020-02-16,13:00,Leganes,Betis,0,0,D,LIG10,LIG4,0,LIG10,Real Betis,11160.0,Leganes
+SP1,2020-02-16,17:30,Ath Bilbao,Osasuna,0,1,A,LIG1,LIG13,0,LIG1,Osasuna,44222.0,Bilbao
+SP1,2020-02-16,11:00,Sevilla,Espanol,2,2,D,LIG15,LIG7,0,LIG15,Espanyol,35661.0,Seville
+SP1,2020-02-16,20:00,Real Madrid,Celta,2,2,D,LIG14,LIG5,0,LIG14,Celta Vigo,62477.0,Madrid
+SP1,2020-02-22,15:00,Barcelona,Eibar,5,0,H,LIG3,LIG6,0,LIG3,Eibar,66970.0,Barcelona
+SP1,2020-02-22,20:00,Levante,Real Madrid,1,0,H,LIG11,LIG14,0,LIG11,Real Madrid,23566.0,Valencia
+SP1,2020-02-22,12:00,Celta,Leganes,1,0,H,LIG5,LIG10,0,LIG5,LeganÃ©s,19335.0,Vigo
+SP1,2020-02-22,17:30,Sociedad,Valencia,3,0,H,LIG16,LIG17,0,LIG16,Valencia,31381.0,San Sebastian
+SP1,2020-02-23,17:30,Getafe,Sevilla,0,3,A,LIG8,LIG15,0,LIG8,Sevilla,13438.0,Getafe
+SP1,2020-02-23,13:00,Alaves,Ath Bilbao,2,1,H,LIG0,LIG1,0,LIG0,Athletic Bilbao,19412.0,Vitoria-Gasteiz
+SP1,2020-02-23,15:00,Valladolid,Espanol,2,1,H,LIG18,LIG7,0,LIG18,Espanyol,19645.0,Valladolid
+SP1,2020-02-23,20:00,Ath Madrid,Villarreal,3,1,H,LIG2,LIG19,0,LIG2,Villarreal,54462.0,Madrid
+SP1,2020-02-23,11:00,Osasuna,Granada,0,3,A,LIG13,LIG9,0,LIG13,Granada,14866.0,Pamplona
+SP1,2020-02-28,20:00,Sociedad,Valladolid,1,0,H,LIG16,LIG18,0,LIG16,Real Valladolid,30611.0,San Sebastian
+SP1,2020-02-29,15:00,Valencia,Betis,2,1,H,LIG17,LIG4,0,LIG17,Real Betis,37418.0,Valencia
+SP1,2020-02-29,17:30,Leganes,Alaves,1,1,D,LIG10,LIG0,0,LIG10,Alavés,10043.0,Leganes
+SP1,2020-02-29,20:00,Granada,Celta,0,0,D,LIG9,LIG5,0,LIG9,Celta Vigo,15877.0,Granada
+SP1,2020-02-29,12:00,Eibar,Levante,3,0,H,LIG6,LIG11,0,LIG6,Levante,5920.0,Eibar
+SP1,2020-03-01,20:00,Real Madrid,Barcelona,2,0,H,LIG14,LIG3,0,LIG14,Barcelona,78357.0,Madrid
+SP1,2020-03-01,11:00,Sevilla,Osasuna,3,2,H,LIG15,LIG13,0,LIG15,Osasuna,31382.0,Seville
+SP1,2020-03-01,15:00,Espanol,Ath Madrid,1,1,D,LIG7,LIG2,0,LIG7,AtlÃ©tico Madrid,30360.0,Barcelona
+SP1,2020-03-01,17:30,Mallorca,Getafe,0,1,A,LIG12,LIG8,0,LIG12,Getafe,14241.0,Palma
+SP1,2020-03-01,13:00,Ath Bilbao,Villarreal,1,0,H,LIG1,LIG19,0,LIG1,Villarreal,36350.0,Bilbao
+SP1,2020-03-06,20:00,Alaves,Valencia,1,1,D,LIG0,LIG17,0,LIG0,Valencia,14083.0,Vitoria-Gasteiz
+SP1,2020-03-07,17:30,Barcelona,Sociedad,1,0,H,LIG3,LIG16,0,LIG3,Real Sociedad,77035.0,Barcelona
+SP1,2020-03-07,20:00,Getafe,Celta,0,0,D,LIG8,LIG5,0,LIG8,Celta Vigo,11286.0,Getafe
+SP1,2020-03-07,15:00,Ath Madrid,Sevilla,2,2,D,LIG2,LIG15,0,LIG2,Sevilla,60422.0,Madrid
+SP1,2020-03-07,12:00,Eibar,Mallorca,1,2,A,LIG6,LIG12,0,LIG6,Mallorca,6110.0,Eibar
+SP1,2020-03-08,13:00,Valladolid,Ath Bilbao,1,4,A,LIG18,LIG1,0,LIG18,Athletic Bilbao,21632.0,Valladolid
+SP1,2020-03-08,15:00,Levante,Granada,1,1,D,LIG11,LIG9,0,LIG11,Granada,16168.0,Valencia
+SP1,2020-03-08,17:30,Villarreal,Leganes,1,2,A,LIG19,LIG10,0,LIG19,Leganés,16143.0,Villarreal
+SP1,2020-03-08,20:00,Betis,Real Madrid,2,1,H,LIG4,LIG14,0,LIG4,Real Madrid,51521.0,Seville
+SP1,2020-03-08,11:00,Osasuna,Espanol,1,0,H,LIG13,LIG7,0,LIG13,Espanyol,15737.0,Pamplona
+SP1,2020-06-11,21:00,Sevilla,Betis,2,0,H,LIG15,LIG4,0,LIG15,Real Betis,0.0,Seville
+SP1,2020-06-12,18:30,Granada,Getafe,2,1,H,LIG9,LIG8,0,LIG9,Getafe,0.0,Granada
+SP1,2020-06-12,21:00,Valencia,Levante,1,1,D,LIG17,LIG11,0,LIG17,Levante,0.0,Valencia
+SP1,2020-06-13,13:00,Espanol,Alaves,2,0,H,LIG7,LIG0,0,LIG7,AlavÃ©s,0.0,Barcelona
+SP1,2020-06-13,21:00,Mallorca,Barcelona,0,4,A,LIG12,LIG3,0,LIG12,Barcelona,0.0,Palma
+SP1,2020-06-13,16:00,Celta,Villarreal,0,1,A,LIG5,LIG19,0,LIG5,Villarreal,0.0,Vigo
+SP1,2020-06-13,18:30,Leganes,Valladolid,1,2,A,LIG10,LIG18,0,LIG10,Real Valladolid,0.0,Leganes
+SP1,2020-06-14,18:30,Real Madrid,Eibar,3,1,H,LIG14,LIG6,0,LIG14,Eibar,0.0,Madrid
+SP1,2020-06-14,21:00,Sociedad,Osasuna,1,1,D,LIG16,LIG13,0,LIG16,Osasuna,0.0,San Sebastian
+SP1,2020-06-14,13:00,Ath Bilbao,Ath Madrid,1,1,D,LIG1,LIG2,0,LIG1,AtlÃ©tico Madrid,0.0,Bilbao
+SP1,2020-06-15,21:00,Betis,Granada,2,2,D,LIG4,LIG9,0,LIG4,Granada,0.0,Seville
+SP1,2020-06-15,18:30,Levante,Sevilla,1,1,D,LIG11,LIG15,0,LIG11,Sevilla,0.0,Valencia
+SP1,2020-06-16,18:30,Getafe,Espanol,0,0,D,LIG8,LIG7,0,LIG8,Espanyol,0.0,Getafe
+SP1,2020-06-16,21:00,Barcelona,Leganes,2,0,H,LIG3,LIG10,0,LIG3,Leganés,0.0,Barcelona
+SP1,2020-06-16,18:30,Villarreal,Mallorca,1,0,H,LIG19,LIG12,0,LIG19,Mallorca,0.0,Villarreal
+SP1,2020-06-17,18:30,Valladolid,Celta,0,0,D,LIG18,LIG5,0,LIG18,Celta Vigo,0.0,Valladolid
+SP1,2020-06-17,18:30,Eibar,Ath Bilbao,2,2,D,LIG6,LIG1,0,LIG6,Athletic Bilbao,0.0,Eibar
+SP1,2020-06-17,21:00,Osasuna,Ath Madrid,0,5,A,LIG13,LIG2,0,LIG13,Atlético Madrid,0.0,Pamplona
+SP1,2020-06-18,21:00,Real Madrid,Valencia,3,0,H,LIG14,LIG17,0,LIG14,Valencia,0.0,Madrid
+SP1,2020-06-18,18:30,Alaves,Sociedad,2,0,H,LIG0,LIG16,0,LIG0,Real Sociedad,0.0,Vitoria-Gasteiz
+SP1,2020-06-19,18:30,Mallorca,Leganes,1,1,D,LIG12,LIG10,0,LIG12,Leganés,0.0,Palma
+SP1,2020-06-19,21:00,Sevilla,Barcelona,0,0,D,LIG15,LIG3,0,LIG15,Barcelona,0.0,Seville
+SP1,2020-06-19,18:30,Granada,Villarreal,0,1,A,LIG9,LIG19,0,LIG9,Villarreal,0.0,Granada
+SP1,2020-06-20,18:30,Getafe,Eibar,1,1,D,LIG8,LIG6,0,LIG8,Eibar,0.0,Getafe
+SP1,2020-06-20,21:00,Ath Madrid,Valladolid,1,0,H,LIG2,LIG18,0,LIG2,Real Valladolid,0.0,Madrid
+SP1,2020-06-20,13:00,Espanol,Levante,1,3,A,LIG7,LIG11,0,LIG7,Levante,0.0,Barcelona
+SP1,2020-06-20,16:00,Ath Bilbao,Betis,1,0,H,LIG1,LIG4,0,LIG1,Real Betis,0.0,Bilbao
+SP1,2020-06-21,18:30,Valencia,Osasuna,2,0,H,LIG17,LIG13,0,LIG17,Osasuna,0.0,Valencia
+SP1,2020-06-21,21:00,Sociedad,Real Madrid,1,2,A,LIG16,LIG14,0,LIG16,Real Madrid,0.0,San Sebastian
+SP1,2020-06-21,13:00,Celta,Alaves,6,0,H,LIG5,LIG0,0,LIG5,AlavÃ©s,0.0,Vigo
+SP1,2020-06-22,18:30,Villarreal,Sevilla,2,2,D,LIG19,LIG15,0,LIG19,Sevilla,0.0,Villarreal
+SP1,2020-06-22,21:00,Leganes,Granada,0,0,D,LIG10,LIG9,0,LIG10,Granada,0.0,Leganes
+SP1,2020-06-23,18:30,Levante,Ath Madrid,0,1,A,LIG11,LIG2,0,LIG11,Atlético Madrid,0.0,Valencia
+SP1,2020-06-23,18:30,Valladolid,Getafe,1,1,D,LIG18,LIG8,0,LIG18,Getafe,0.0,Valladolid
+SP1,2020-06-23,21:00,Barcelona,Ath Bilbao,1,0,H,LIG3,LIG1,0,LIG3,Athletic Bilbao,0.0,Barcelona
+SP1,2020-06-24,18:30,Sociedad,Celta,0,1,A,LIG16,LIG5,0,LIG16,Celta Vigo,0.0,San Sebastian
+SP1,2020-06-24,18:30,Alaves,Osasuna,0,1,A,LIG0,LIG13,0,LIG0,Osasuna,0.0,Vitoria-Gasteiz
+SP1,2020-06-24,21:00,Real Madrid,Mallorca,2,0,H,LIG14,LIG12,0,LIG14,Mallorca,0.0,Madrid
+SP1,2020-06-25,18:30,Eibar,Valencia,1,0,H,LIG6,LIG17,0,LIG6,Valencia,0.0,Eibar
+SP1,2020-06-25,21:00,Betis,Espanol,1,0,H,LIG4,LIG7,0,LIG4,Espanyol,0.0,Seville
+SP1,2020-06-26,21:00,Sevilla,Valladolid,1,1,D,LIG15,LIG18,0,LIG15,Real Valladolid,0.0,Seville
+SP1,2020-06-27,13:00,Ath Bilbao,Mallorca,3,1,H,LIG1,LIG12,0,LIG1,Mallorca,0.0,Bilbao
+SP1,2020-06-27,18:30,Osasuna,Leganes,2,1,H,LIG13,LIG10,0,LIG13,Leganés,0.0,Pamplona
+SP1,2020-06-27,21:00,Ath Madrid,Alaves,2,1,H,LIG2,LIG0,0,LIG2,AlavÃ©s,0.0,Madrid
+SP1,2020-06-27,16:00,Celta,Barcelona,2,2,D,LIG5,LIG3,0,LIG5,Barcelona,0.0,Vigo
+SP1,2020-06-28,16:00,Villarreal,Valencia,2,0,H,LIG19,LIG17,0,LIG19,Valencia,0.0,Villarreal
+SP1,2020-06-28,18:30,Granada,Eibar,1,2,A,LIG9,LIG6,0,LIG9,Eibar,0.0,Granada
+SP1,2020-06-28,21:00,Espanol,Real Madrid,0,1,A,LIG7,LIG14,0,LIG7,Real Madrid,0.0,Barcelona
+SP1,2020-06-28,13:00,Levante,Betis,4,2,H,LIG11,LIG4,0,LIG11,Real Betis,0.0,Valencia
+SP1,2020-06-29,21:00,Getafe,Sociedad,2,1,H,LIG8,LIG16,0,LIG8,Real Sociedad,0.0,Getafe
+SP1,2020-06-30,18:30,Mallorca,Celta,5,1,H,LIG12,LIG5,0,LIG12,Celta Vigo,0.0,Palma
+SP1,2020-06-30,20:00,Leganes,Sevilla,0,3,A,LIG10,LIG15,0,LIG10,Sevilla,0.0,Leganes
+SP1,2020-06-30,21:00,Barcelona,Ath Madrid,2,2,D,LIG3,LIG2,0,LIG3,Atlético Madrid,0.0,Barcelona
+SP1,2020-07-01,21:00,Valladolid,Levante,0,0,D,LIG18,LIG11,0,LIG18,Levante,0.0,Valladolid
+SP1,2020-07-01,21:00,Betis,Villarreal,0,2,A,LIG4,LIG19,0,LIG4,Villarreal,0.0,Seville
+SP1,2020-07-01,18:30,Alaves,Granada,0,2,A,LIG0,LIG9,0,LIG0,Granada,0.0,Vitoria-Gasteiz
+SP1,2020-07-01,18:30,Valencia,Ath Bilbao,0,2,A,LIG17,LIG1,0,LIG17,Athletic Bilbao,0.0,Valencia
+SP1,2020-07-02,18:30,Eibar,Osasuna,0,2,A,LIG6,LIG13,0,LIG6,Osasuna,0.0,Eibar
+SP1,2020-07-02,21:00,Real Madrid,Getafe,1,0,H,LIG14,LIG8,0,LIG14,Getafe,0.0,Madrid
+SP1,2020-07-02,18:30,Sociedad,Espanol,2,1,H,LIG16,LIG7,0,LIG16,Espanyol,0.0,San Sebastian
+SP1,2020-07-03,21:00,Ath Madrid,Mallorca,3,0,H,LIG2,LIG12,0,LIG2,Mallorca,0.0,Madrid
+SP1,2020-07-04,21:00,Granada,Valencia,2,2,D,LIG9,LIG17,0,LIG9,Valencia,0.0,Granada
+SP1,2020-07-04,18:30,Valladolid,Alaves,1,0,H,LIG18,LIG0,0,LIG18,AlavÃ©s,0.0,Valladolid
+SP1,2020-07-04,16:00,Celta,Betis,1,1,D,LIG5,LIG4,0,LIG5,Real Betis,0.0,Vigo
+SP1,2020-07-05,13:00,Ath Bilbao,Real Madrid,0,1,A,LIG1,LIG14,0,LIG1,Real Madrid,0.0,Bilbao
+SP1,2020-07-05,16:00,Espanol,Leganes,0,1,A,LIG7,LIG10,0,LIG7,LeganÃ©s,0.0,Barcelona
+SP1,2020-07-05,18:30,Osasuna,Getafe,0,0,D,LIG13,LIG8,0,LIG13,Getafe,0.0,Pamplona
+SP1,2020-07-05,21:00,Villarreal,Barcelona,1,4,A,LIG19,LIG3,0,LIG19,Barcelona,0.0,Villarreal
+SP1,2020-07-06,21:00,Sevilla,Eibar,1,0,H,LIG15,LIG6,0,LIG15,Eibar,0.0,Seville
+SP1,2020-07-06,18:30,Levante,Sociedad,1,1,D,LIG11,LIG16,0,LIG11,Real Sociedad,0.0,Valencia
+SP1,2020-07-07,21:00,Celta,Ath Madrid,1,1,D,LIG5,LIG2,0,LIG5,AtlÃ©tico Madrid,0.0,Vigo
+SP1,2020-07-07,18:30,Valencia,Valladolid,2,1,H,LIG17,LIG18,0,LIG17,Real Valladolid,0.0,Valencia
+SP1,2020-07-08,21:00,Barcelona,Espanol,1,0,H,LIG3,LIG7,0,LIG3,Espanyol,0.0,Barcelona
+SP1,2020-07-08,19:30,Betis,Osasuna,3,0,H,LIG4,LIG13,0,LIG4,Osasuna,0.0,Seville
+SP1,2020-07-08,19:30,Getafe,Villarreal,1,3,A,LIG8,LIG19,0,LIG8,Villarreal,0.0,Getafe
+SP1,2020-07-09,21:00,Ath Bilbao,Sevilla,1,2,A,LIG1,LIG15,0,LIG1,Sevilla,0.0,Bilbao
+SP1,2020-07-09,18:30,Mallorca,Levante,2,0,H,LIG12,LIG11,0,LIG12,Levante,0.0,Palma
+SP1,2020-07-09,18:30,Eibar,Leganes,0,0,D,LIG6,LIG10,0,LIG6,Leganés,0.0,Eibar
+SP1,2020-07-10,21:00,Real Madrid,Alaves,2,0,H,LIG14,LIG0,0,LIG14,Alavés,0.0,Madrid
+SP1,2020-07-10,18:30,Sociedad,Granada,2,3,A,LIG16,LIG9,0,LIG16,Granada,0.0,San Sebastian
+SP1,2020-07-11,16:00,Osasuna,Celta,2,1,H,LIG13,LIG5,0,LIG13,Celta Vigo,0.0,Pamplona
+SP1,2020-07-11,18:30,Valladolid,Barcelona,0,1,A,LIG18,LIG3,0,LIG18,Barcelona,0.0,Valladolid
+SP1,2020-07-11,21:00,Ath Madrid,Betis,1,0,H,LIG2,LIG4,0,LIG2,Real Betis,0.0,Madrid
+SP1,2020-07-12,18:30,Leganes,Valencia,1,0,H,LIG10,LIG17,0,LIG10,Valencia,0.0,Leganes
+SP1,2020-07-12,13:00,Espanol,Eibar,0,2,A,LIG7,LIG6,0,LIG7,Eibar,0.0,Barcelona
+SP1,2020-07-12,21:00,Sevilla,Mallorca,2,0,H,LIG15,LIG12,0,LIG15,Mallorca,0.0,Seville
+SP1,2020-07-12,16:00,Levante,Ath Bilbao,1,2,A,LIG11,LIG1,0,LIG11,Athletic Bilbao,0.0,Valencia
+SP1,2020-07-13,21:00,Granada,Real Madrid,1,2,A,LIG9,LIG14,0,LIG9,Real Madrid,0.0,Granada
+SP1,2020-07-13,18:30,Alaves,Getafe,0,0,D,LIG0,LIG8,0,LIG0,Getafe,0.0,Vitoria-Gasteiz
+SP1,2020-07-13,18:30,Villarreal,Sociedad,1,2,A,LIG19,LIG16,0,LIG19,Real Sociedad,0.0,Villarreal
+I1,2019-09-01,19:45,Lecce,Verona,0,1,A,SER9,SER19,0,SER9,Hellas Verona,24418.0,Lecce
+I1,2019-09-01,19:45,Genoa,Fiorentina,2,1,H,SER5,SER4,0,SER5,Fiorentina,20000.0,Genoa
+I1,2019-09-01,17:00,Lazio,Roma,1,1,D,SER8,SER13,0,SER8,Roma,50000.0,Rome
+I1,2019-09-01,19:45,Cagliari,Inter,1,2,A,SER3,SER6,0,SER3,Inter Milan,16412.0,Cagliari
+I1,2019-09-01,19:45,Atalanta,Torino,2,3,A,SER0,SER17,0,SER0,Torino,8182.0,Bergamo
+I1,2019-09-01,19:45,Udinese,Parma,1,3,A,SER18,SER12,0,SER18,Parma,20410.0,Udine
+I1,2019-09-01,19:45,Sassuolo,Sampdoria,4,1,H,SER15,SER14,0,SER15,Sampdoria,9608.0,Sassuolo
+I1,2019-10-06,14:00,Bologna,Lazio,2,2,D,SER1,SER8,0,SER1,Lazio,22052.0,Bologna
+I1,2019-10-06,14:00,Roma,Cagliari,1,1,D,SER13,SER3,0,SER13,Cagliari,34385.0,Rome
+I1,2019-10-06,11:30,Fiorentina,Udinese,1,0,H,SER4,SER18,0,SER4,Udinese,37963.0,Florence
+I1,2019-10-06,17:00,Torino,Napoli,0,0,D,SER17,SER11,0,SER17,Napoli,24343.0,Turin
+I1,2019-10-06,19:45,Inter,Juventus,1,2,A,SER6,SER7,0,SER6,Juventus,75923.0,Milan
+I1,2019-10-06,14:00,Atalanta,Lecce,3,1,H,SER0,SER9,0,SER0,Lecce,20771.0,Bergamo
+I1,2019-11-10,14:00,Lazio,Lecce,4,2,H,SER8,SER9,0,SER8,Lecce,35000.0,Rome
+I1,2019-11-10,14:00,Udinese,Spal,0,0,D,SER18,SER16,0,SER18,SPAL,21621.0,Udine
+I1,2019-11-10,11:30,Cagliari,Fiorentina,5,2,H,SER3,SER4,0,SER3,Fiorentina,16316.0,Cagliari
+I1,2019-11-10,17:00,Parma,Roma,2,0,H,SER12,SER13,0,SER12,Roma,18532.0,Parma
+I1,2019-11-10,19:45,Juventus,Milan,1,0,H,SER7,SER10,0,SER7,AC Milan,40478.0,Turin
+I1,2019-11-10,14:00,Sampdoria,Atalanta,0,0,D,SER14,SER0,0,SER14,Atalanta,19799.0,Genoa
+I1,2019-11-25,19:45,Spal,Genoa,1,1,D,SER16,SER5,0,SER16,Genoa,12423.0,Ferrara
+I1,2019-11-25,14:00,Lecce,Cagliari,2,2,D,SER9,SER3,0,SER9,Cagliari,21435.0,Lecce
+I1,2019-12-08,19:45,Bologna,Milan,2,3,A,SER1,SER10,0,SER1,AC Milan,23707.0,Bologna
+I1,2019-12-08,11:30,Lecce,Genoa,2,2,D,SER9,SER5,0,SER9,Genoa,21740.0,Lecce
+I1,2019-12-08,14:00,Torino,Fiorentina,2,1,H,SER17,SER4,0,SER17,Fiorentina,19955.0,Turin
+I1,2019-12-08,14:00,Spal,Brescia,0,1,A,SER16,SER2,0,SER16,Brescia,12442.0,Ferrara
+I1,2019-12-08,14:00,Sassuolo,Cagliari,2,2,D,SER15,SER3,0,SER15,Cagliari,12666.0,Sassuolo
+I1,2019-12-08,17:00,Sampdoria,Parma,0,1,A,SER14,SER12,0,SER14,Parma,19516.0,Genoa
+I1,2019-12-22,14:00,Lecce,Bologna,2,3,A,SER9,SER1,0,SER9,Bologna,24178.0,Lecce
+I1,2019-12-22,11:30,Atalanta,Milan,5,0,H,SER0,SER10,0,SER0,AC Milan,20940.0,Bergamo
+I1,2019-12-22,19:45,Sassuolo,Napoli,1,2,A,SER15,SER11,0,SER15,Napoli,12570.0,Sassuolo
+I1,2019-12-22,14:00,Parma,Brescia,1,1,D,SER12,SER2,0,SER12,Brescia,16686.0,Parma
+I1,2020-01-06,11:30,Bologna,Fiorentina,1,1,D,SER1,SER4,0,SER1,Fiorentina,22653.0,Bologna
+I1,2020-01-06,14:00,Milan,Sampdoria,0,0,D,SER10,SER14,0,SER10,Sampdoria,58572.0,Milan
+I1,2020-01-06,17:00,Lecce,Udinese,0,1,A,SER9,SER18,0,SER9,Udinese,21321.0,Lecce
+I1,2020-01-06,19:45,Napoli,Inter,1,3,A,SER11,SER6,0,SER11,Inter Milan,31191.0,Naples
+I1,2020-01-06,14:00,Juventus,Cagliari,4,0,H,SER7,SER3,0,SER7,Cagliari,40598.0,Turin
+I1,2020-01-06,14:00,Atalanta,Parma,5,0,H,SER0,SER12,0,SER0,Parma,19217.0,Bergamo
+I1,2020-01-26,17:00,Roma,Lazio,1,1,D,SER13,SER8,0,SER13,Lazio,59902.0,Rome
+I1,2020-01-26,14:00,Sampdoria,Sassuolo,0,0,D,SER14,SER15,0,SER14,Sassuolo,19260.0,Genoa
+I1,2020-01-26,14:00,Verona,Lecce,3,0,H,SER19,SER9,0,SER19,Lecce,15425.0,Verona
+I1,2020-01-26,11:30,Inter,Cagliari,1,1,D,SER6,SER3,0,SER6,Cagliari,70465.0,Milan
+I1,2020-01-26,14:00,Parma,Udinese,2,0,H,SER12,SER18,0,SER12,Udinese,14250.0,Parma
+I1,2020-01-26,19:45,Napoli,Juventus,2,1,H,SER11,SER7,0,SER11,Juventus,39111.0,Naples
+I1,2020-02-09,14:00,Genoa,Cagliari,1,0,H,SER5,SER3,0,SER5,Cagliari,21301.0,Genoa
+I1,2020-02-09,11:30,Spal,Sassuolo,1,2,A,SER16,SER15,0,SER16,Sassuolo,12988.0,Ferrara
+I1,2020-02-09,14:00,Napoli,Lecce,2,3,A,SER11,SER9,0,SER11,Lecce,40825.0,Naples
+I1,2020-02-09,14:00,Brescia,Udinese,1,1,D,SER2,SER18,0,SER2,Udinese,13586.0,Brescia
+I1,2020-02-09,19:45,Inter,Milan,4,2,H,SER6,SER10,0,SER6,AC Milan,75817.0,Milan
+I1,2020-02-09,17:00,Parma,Lazio,0,1,A,SER12,SER8,0,SER12,Lazio,17859.0,Parma
+I1,2020-02-23,11:30,Genoa,Lazio,2,3,A,SER5,SER8,0,SER5,Lazio,24032.0,Genoa
+I1,2020-02-23,17:00,Roma,Lecce,4,0,H,SER13,SER9,0,SER13,Lecce,34293.0,Rome
+I1,2020-03-01,14:00,Lecce,Atalanta,2,7,A,SER9,SER0,0,SER9,Atalanta,21344.0,Lecce
+I1,2020-03-01,17:00,Cagliari,Roma,3,4,A,SER3,SER13,0,SER3,Roma,14848.0,Cagliari
+I1,2020-06-20,18:30,Torino,Parma,1,1,D,SER17,SER12,0,SER17,Parma,0.0,Turin
+I1,2020-06-20,20:45,Verona,Cagliari,2,1,H,SER19,SER3,0,SER19,Cagliari,0.0,Verona
+I1,2020-06-21,18:30,Atalanta,Sassuolo,4,1,H,SER0,SER15,0,SER0,Sassuolo,0.0,Bergamo
+I1,2020-06-21,20:45,Inter,Sampdoria,2,1,H,SER6,SER14,0,SER6,Sampdoria,0.0,Milan
+I1,2020-06-22,20:45,Bologna,Juventus,0,2,A,SER1,SER7,0,SER1,Juventus,0.0,Bologna
+I1,2020-06-22,18:30,Lecce,Milan,1,4,A,SER9,SER10,0,SER9,AC Milan,0.0,Lecce
+I1,2020-06-22,18:30,Fiorentina,Brescia,1,1,D,SER4,SER2,0,SER4,Brescia,0.0,Florence
+I1,2020-06-23,18:30,Spal,Cagliari,0,1,A,SER16,SER3,0,SER16,Cagliari,0.0,Ferrara
+I1,2020-06-23,20:45,Genoa,Parma,1,4,A,SER5,SER12,0,SER5,Parma,0.0,Genoa
+I1,2020-06-23,18:30,Verona,Napoli,0,2,A,SER19,SER11,0,SER19,Napoli,0.0,Verona
+I1,2020-06-23,20:45,Torino,Udinese,1,0,H,SER17,SER18,0,SER17,Udinese,0.0,Turin
+I1,2020-06-24,20:45,Roma,Sampdoria,2,1,H,SER13,SER14,0,SER13,Sampdoria,0.0,Rome
+I1,2020-06-24,18:30,Inter,Sassuolo,3,3,D,SER6,SER15,0,SER6,Sassuolo,0.0,Milan
+I1,2020-06-24,20:45,Atalanta,Lazio,3,2,H,SER0,SER8,0,SER0,Lazio,0.0,Bergamo
+I1,2020-06-26,20:45,Juventus,Lecce,4,0,H,SER7,SER9,0,SER7,Lecce,0.0,Turin
+I1,2020-06-27,18:30,Cagliari,Torino,4,2,H,SER3,SER17,0,SER3,Torino,0.0,Cagliari
+I1,2020-06-27,16:15,Brescia,Genoa,2,2,D,SER2,SER5,0,SER2,Genoa,0.0,Brescia
+I1,2020-06-27,20:45,Lazio,Fiorentina,2,1,H,SER8,SER4,0,SER8,Fiorentina,0.0,Rome
+I1,2020-06-28,18:30,Udinese,Atalanta,2,3,A,SER18,SER0,0,SER18,Atalanta,0.0,Udine
+I1,2020-06-28,18:30,Sampdoria,Bologna,1,2,A,SER14,SER1,0,SER14,Bologna,0.0,Genoa
+I1,2020-06-28,16:15,Milan,Roma,2,0,H,SER10,SER13,0,SER10,Roma,0.0,Milan
+I1,2020-06-28,20:45,Parma,Inter,1,2,A,SER12,SER6,0,SER12,Inter Milan,0.0,Parma
+I1,2020-06-28,18:30,Napoli,Spal,3,1,H,SER11,SER16,0,SER11,SPAL,0.0,Naples
+I1,2020-06-28,18:30,Sassuolo,Verona,3,3,D,SER15,SER19,0,SER15,Hellas Verona,0.0,Sassuolo
+I1,2020-06-30,18:30,Torino,Lazio,1,2,A,SER17,SER8,0,SER17,Lazio,0.0,Turin
+I1,2020-06-30,20:45,Genoa,Juventus,1,3,A,SER5,SER7,0,SER5,Juventus,0.0,Genoa
+I1,2020-07-01,20:45,Lecce,Sampdoria,1,2,A,SER9,SER14,0,SER9,Sampdoria,0.0,Lecce
+I1,2020-07-01,20:45,Spal,Milan,2,2,D,SER16,SER10,0,SER16,AC Milan,0.0,Ferrara
+I1,2020-07-01,18:30,Bologna,Cagliari,1,1,D,SER1,SER3,0,SER1,Cagliari,0.0,Bologna
+I1,2020-07-01,20:45,Verona,Parma,3,2,H,SER19,SER12,0,SER19,Parma,0.0,Verona
+I1,2020-07-01,18:30,Inter,Brescia,6,0,H,SER6,SER2,0,SER6,Brescia,0.0,Milan
+I1,2020-07-01,20:45,Fiorentina,Sassuolo,1,3,A,SER4,SER15,0,SER4,Sassuolo,0.0,Florence
+I1,2020-07-02,20:45,Roma,Udinese,0,2,A,SER13,SER18,0,SER13,Udinese,0.0,Rome
+I1,2020-07-02,18:30,Atalanta,Napoli,2,0,H,SER0,SER11,0,SER0,Napoli,0.0,Bergamo
+I1,2020-07-04,20:45,Lazio,Milan,0,3,A,SER8,SER10,0,SER8,AC Milan,0.0,Rome
+I1,2020-07-04,16:15,Juventus,Torino,4,1,H,SER7,SER17,0,SER7,Torino,0.0,Turin
+I1,2020-07-04,18:30,Sassuolo,Lecce,4,2,H,SER15,SER9,0,SER15,Lecce,0.0,Sassuolo
+I1,2020-07-05,20:45,Napoli,Roma,2,1,H,SER11,SER13,0,SER11,Roma,0.0,Naples
+I1,2020-07-05,18:30,Brescia,Verona,2,0,H,SER2,SER19,0,SER2,Hellas Verona,0.0,Brescia
+I1,2020-07-05,18:30,Udinese,Genoa,2,2,D,SER18,SER5,0,SER18,Genoa,0.0,Udine
+I1,2020-07-05,18:30,Sampdoria,Spal,3,0,H,SER14,SER16,0,SER14,SPAL,0.0,Genoa
+I1,2020-07-05,16:15,Inter,Bologna,1,2,A,SER6,SER1,0,SER6,Bologna,0.0,Milan
+I1,2020-07-05,18:30,Parma,Fiorentina,1,2,A,SER12,SER4,0,SER12,Fiorentina,0.0,Parma
+I1,2020-07-05,18:30,Cagliari,Atalanta,0,1,A,SER3,SER0,0,SER3,Atalanta,0.0,Cagliari
+I1,2020-07-07,20:45,Milan,Juventus,4,2,H,SER10,SER7,0,SER10,Juventus,0.0,Milan
+I1,2020-07-07,18:30,Lecce,Lazio,2,1,H,SER9,SER8,0,SER9,Lazio,0.0,Lecce
+I1,2020-07-08,18:30,Fiorentina,Cagliari,0,0,D,SER4,SER3,0,SER4,Cagliari,0.0,Florence
+I1,2020-07-08,20:45,Torino,Brescia,3,1,H,SER17,SER2,0,SER17,Brescia,0.0,Turin
+I1,2020-07-08,20:45,Bologna,Sassuolo,1,2,A,SER1,SER15,0,SER1,Sassuolo,0.0,Bologna
+I1,2020-07-08,20:45,Roma,Parma,2,1,H,SER13,SER12,0,SER13,Parma,0.0,Rome
+I1,2020-07-08,20:45,Atalanta,Sampdoria,2,0,H,SER0,SER14,0,SER0,Sampdoria,0.0,Bergamo
+I1,2020-07-08,18:30,Genoa,Napoli,1,2,A,SER5,SER11,0,SER5,Napoli,0.0,Genoa
+I1,2020-07-09,20:45,Verona,Inter,2,2,D,SER19,SER6,0,SER19,Inter Milan,0.0,Verona
+I1,2020-07-09,18:30,Spal,Udinese,0,3,A,SER16,SER18,0,SER16,Udinese,0.0,Ferrara
+I1,2020-07-11,20:45,Juventus,Atalanta,2,2,D,SER7,SER0,0,SER7,Atalanta,0.0,Turin
+I1,2020-07-11,18:30,Brescia,Roma,0,3,A,SER2,SER13,0,SER2,Roma,0.0,Brescia
+I1,2020-07-11,16:15,Lazio,Sassuolo,1,2,A,SER8,SER15,0,SER8,Sassuolo,0.0,Rome
+I1,2020-07-12,20:45,Napoli,Milan,2,2,D,SER11,SER10,0,SER11,AC Milan,0.0,Naples
+I1,2020-07-12,18:30,Udinese,Sampdoria,1,3,A,SER18,SER14,0,SER18,Sampdoria,0.0,Udine
+I1,2020-07-12,18:30,Parma,Bologna,2,2,D,SER12,SER1,0,SER12,Bologna,0.0,Parma
+I1,2020-07-12,18:30,Cagliari,Lecce,0,0,D,SER3,SER9,0,SER3,Lecce,0.0,Cagliari
+I1,2020-07-12,18:30,Fiorentina,Verona,1,1,D,SER4,SER19,0,SER4,Hellas Verona,0.0,Florence
+I1,2020-07-12,16:15,Genoa,Spal,2,0,H,SER5,SER16,0,SER5,SPAL,0.0,Genoa
+I1,2020-07-13,20:45,Inter,Torino,3,1,H,SER6,SER17,0,SER6,Torino,0.0,Milan

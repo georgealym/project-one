@@ -33,18 +33,24 @@ Key things we will analyze may include but are not limited to the following:
     https://www.footballwebpages.co.uk/fc-augsburg/attendances
     
     
-.............    
-    
 
 ### Data cleaning
 
 * Names : different names
 
+* column "Unnamed 11".. delete
+
 * Date : 
     different formats : ex) 06/07/2019  vs. 6/7/2019
     to_datetime misconducting result: ex) 1/12/19 ---> 2019-01-12, but this is 2019-12-01
 
+* Decoding --- not unified decoding -- used "ISO-8859-1"
+
+* Before Covid, there are matches of which attendance are not available. : drop
+
+  SER half number of matches are filtered out.
 ...............
+
 
 
 ### Analysis
