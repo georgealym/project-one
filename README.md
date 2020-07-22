@@ -1,5 +1,6 @@
 # project-one
 
+
 ## Soccer - Is home team advantage real? 
 
 
@@ -17,134 +18,83 @@ The scope of this project is to review international soccer data in the European
 Key things we will analyze may include but are not limited to the following: 
 
 
+* How does the weather impact average goals per match at home/away?
+
+* How does attendance affect the scores?
+
+* Has COVID-19 had an impact on home-team wins because of less attendance?
+
+
 
 ### Data collecting
 
-* Stadiums & City
+We collect data for the most popular leagues - England, German, Spanish and Italian.
+
+* Score data: 
+
+    - https://www.football-data.co.uk/data
+    
+    
+* Weather data: 
+
+    - https://www.worldweatheronline.com/developer/
+    
+    - https://maps.googleapis.com/maps/api/place/findplacefromtext/output?parameters 
+
+
+* Attendance data:
+
+    - https://www.footballwebpages.co.uk
+
+
+* Location data: cities and stadiums
 
     https://www.stadiumguide.com/premier-league-stadiums/
     https://www.bundesliga.com/en/bundesliga/news/stadiums-borussia-park-allianz-arena-signal-iduna-park-veltins-7642
-    https://www.football-stadiums.co.uk/leagues/la-liga/   --- and wikipedia
+    https://www.football-stadiums.co.uk/leagues/la-liga/ 
     https://www.worldfootball.net/venues/ita-serie-a-2019-2020/
-
-
-* Attendances : for each league, team
-
-    https://www.footballwebpages.co.uk/fc-augsburg/attendances
     
     
 
 ### Data cleaning
 
-* Names : different names
+* Identical items but different format
 
-* column "Unnamed 11".. delete
+    - The team names: we created unique id for each team. 
+    
+    - Date: we modified the date string to the form of year-month-date (month, date - two digits)
+    
 
-* Date : 
-    different formats : ex) 06/07/2019  vs. 6/7/2019
-    to_datetime misconducting result: ex) 1/12/19 ---> 2019-01-12, but this is 2019-12-01
+* Loading the data 
 
-* Decoding --- not unified decoding -- used "ISO-8859-1"
+    - Not unified decoding : we used "ISO-8859-1"
 
-* Before Covid, there are matches of which attendance are not available. : drop
 
-  SER half number of matches are filtered out.
-...............
+* Attendance data
+
+    - The attendance data for some matches are missing. We drop these rows.
 
 
 
 ### Analysis
 
 
-#### How does the weather impact average points per match at home/away?
+* First we combined the dataset.
 
-* For each league, we create a dataframe of columns
-
-  - (Home)Team, Match Date, City, Weather(Temp. Heat. Humidity), Score, Score of Op, Results(Win/Lose)
-  
-  - (Away)Team, Match Date, City, Weather(Temp. Heat. Humidity), Score, Score of Op, Results(Win/Lose)
-
-* Plots of Weather vs. Score (Use legend or subplots)
-
-Scatter plot and linear regression: Choose one day.
-
-  1.  Home
-  
-  - Weather values on that day for all stadiums (xvalue)
-  - Home scores of all matches
-  ???- Average of total scores of match for same weather fact (?)
-  
-  
-  2. Away
-  
-  - Weather values on that day for all stadiums (xvalue)
-  - Away scores of all matches
-  ???- Average of total scores of match for same weather fact
-  
-  
-* Plots of Weather vs. Wins (Use legend or subplots) : Scatter plot and linear regression
-
-  1.  Home
-  - Weather value (xvalue)
-  - Average of wins for same weather fact
-  
-  2. Away
-  - Weather value (xvalue)
-  - Average of wins for same weather fact
-
-##### How does attendance affect score?
-
-* For each league, we create a dataframe of columns
-
-  - (Home)Team, Avg Score, Avg. Results(Win/Lose), Avg. Attendance, Avg. Occupancy
-  
-  - (Away)Team, Avg Score, Avg. Results(Win/Lose), Avg. Attendance
-
-* Plots of Attendance vs. Score (Use legend or subplots) : Scatter plot and linear regression
-
-  1.  Home
-  - Attendances value (xvalue)  
-  - Average of total scores of match for same attendances
-
-  2. Away
-  - Attendances value (xvalue)
-  - Average of total scores of match for same attendances
-  
-* Plots of Attendances vs. Score for selected teams : Scatter plots with size of dots
-
-  (We choose top teams??)
-  
-  1.  Home
-  - xvalue = Game dates (xvalue)  
-  - yvalue = Avg. Scores of the month
-  - size = Attendances
-
-  2. Away
-  - xvalue = Game dates (xvalue)  
-  - yvalue = Avg. Scores of the month
-  - size = Attendances
-
-#### Has COVID-19 had an impact on home-team wins because of less attendance?
-
-* For each league, we create a dataframe of columns, before Covid-19 and after,
-
-  - (Home)Team, Avg Score(Before), Avg. Score(After), Avg. Occupancy
-  
-  - (Away)Team, Avg Score(Before), Avg. Score(After), Avg. Occupancy
-
-* Plots of Scores(Before and After) of teams : Stacked bar graphs
-
-  1.  Home
-  - Before Avg. Score (yvalue) 
-  - After Avg. Score (yvalue)  
-  - Teams (xticks)
-  
-  2. Away
-  - Before Avg. Score (yvalue) 
-  - After Avg. Score (yvalue)  
-  - Teams (xticks)
+    - The folder 'final-resources' contains the cleaned and combined data as csv files.
 
 
-### Observations and Insights - Story/Truth telling
+* To analyze the data, we codes using jupyter notebook.
 
-* What is the probability that you will win/lose/draw for home vs away?
+    - The folder 'final-code' contains the codes for combining data and analysis.
+    
+
+* The charts are created from the codes.
+
+    - The folder 'images' contains the output charts as png files.
+    
+    
+### Observations
+
+
+* go to Summary.md
