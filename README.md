@@ -60,14 +60,14 @@ We collect data for the most popular leagues - England, German, Spanish and Ital
 
 * Identical items but different format
 
-    - The team names: we created unique id for each team. 
+    - For the club names which vary in data source or language, we created unique id for each. 
     
-    - Date: we modified the date string to the form of year-month-date (month, date - two digits)
+    - For the date, we modified the date string to the form of year-month-date (month, date - two digits)
     
 
 * Loading the data 
 
-    - Not unified decoding : we used "ISO-8859-1"
+    - For not unified decoding, we used "ISO-8859-1"
 
 
 * Attendance data
@@ -79,17 +79,18 @@ We collect data for the most popular leagues - England, German, Spanish and Ital
 ### Analysis
 
 
-* First we combined the dataset.
+* First, we combined the dataset.
 
     - The folder 'final-resources' contains the cleaned and combined data as csv files.
 
 
 * To analyze the data, we codes using jupyter notebook.
 
-    - The folder 'final-code' contains the codes for combining data and analysis.
+    - The folder 'final-code/datacleaning' contains the codes for producing combined and cleaned data.
     
+    - The folder 'final-code/analysis' contains the codes for creating charts.    
 
-* The charts are created from the codes.
+* The charts are created to answer the the questions - Weather impact, Audience impact and Covid impact on games
 
     - The folder 'images' contains the output charts as png files.
     
