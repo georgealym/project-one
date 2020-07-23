@@ -79,16 +79,19 @@ We collect data for the most popular leagues - England, German, Spanish and Ital
 ### Analysis
 
 
-* First, we combined the dataset.
+* First, we combine the dataset.
 
+    - The folder 'Resources' contains all raw data that we collected
+    
     - The folder 'final-resources' contains the cleaned and combined data as csv files.
 
 
-* To analyze the data, we codes using jupyter notebook.
+* To analyze the data, we code using jupyter notebook.
 
     - The folder 'final-code/datacleaning' contains the codes for producing combined and cleaned data.
     
-    - The folder 'final-code/analysis' contains the codes for creating charts.    
+    - The folder 'final-code/analysis' contains the codes for creating charts.   
+    
 
 * The charts are created to answer the the questions - Weather impact, Audience impact and Covid impact on games
 
